@@ -1085,8 +1085,8 @@ window.REFLEXOES = [
     ],
     "oracao": [
       "Pai, antes da criação do mundo Tu me escolheste em Cristo e me destinaste a ser teu filho. Obrigado por teres feito conhecer o mistério da tua vontade e por teres enviado teu Filho para nos reunir em Ti.",
-      "Perdoa-me quando honrei a tua Palavra de longe e resisti a ela de perto, e quando guardei a chave sem entrar nem deixar entrar. Cura em mim o orgulho que não suporta ser corrigido.",
-      "Por intercessão de Santa Teresa de Jesus, ensina-me a andar na verdade, com humildade para ouvir e coragem para dizer. Que eu reconheça em Cristo a porta que se abriu para nós, e que a minha vida ajude outros a atravessá-la."
+      "Perdoa-me quando honrei a tua Palavra de longe e resisti a ela de perto. Cura em mim o orgulho que não suporta ser corrigido.",
+      "Por intercessão de Santa Teresa de Jesus, ensina-me a andar na verdade, com humildade para ouvir e coragem para anunciá-la. Que eu reconheça em Cristo a porta que se abriu para nós, e que a minha vida ajude outros a atravessá-la."
     ],
     "imagem": "assets/2026-10-15.jpg"
   },
