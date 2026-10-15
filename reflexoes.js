@@ -1052,7 +1052,7 @@ window.REFLEXOES = [
     "data": "2026-10-15",
     "tempo": "28ª Semana do Tempo Comum — Ano II",
     "memoria": "Santa Teresa de Jesus, virgem e doutora da Igreja — Memória",
-    "titulo": "Tirastes a chave da ciência",
+    "titulo": "Construís os túmulos dos profetas",
     "frase": "O pecado tem esse engenho: transforma a verdade em monumento para não ter de obedecê-la.",
     "minutos": 6,
     "leituras": [
