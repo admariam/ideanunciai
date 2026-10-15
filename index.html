@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ide, anunciai! — Meditação diária do Evangelho</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="reflexoes.js"></script>
+<style>*{box-sizing:border-box}body{margin:0;background:#ffffff}a{color:#8a2f2a;text-decoration:none}a:hover{color:#6b221e}::selection{background:#dbe3f0}</style>
+</helmet>
+<div style="min-height:100vh;background:#ffffff;color:#1b2436;font-family:'EB Garamond',Georgia,serif;display:flex;flex-direction:column">
+  <div style="background:#0e1830;color:#a7b0c4;font-family:'Source Sans 3',sans-serif;font-size:11px;letter-spacing:0.04em">
+    <div style="max-width:1120px;margin:0 auto;padding:8px 20px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap">
+      <span>{{ hojeLonga }}</span>
+      <span style="display:flex;align-items:center;gap:8px"><span style="width:8px;height:8px;border-radius:50%;background:oklch(0.55 0.1 145)"></span>{{ r.tempo }}</span>
+    </div>
+  </div>
+
+  <header style="background:#14213d;color:#f3efe8">
+    <div style="max-width:1120px;margin:0 auto;padding:14px 20px;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap">
+      <a href="{{ pagInicio }}" style="display:flex;flex-direction:column;gap:2px;color:#f3efe8">
+        <span style="font-size:21px;font-weight:500;letter-spacing:0.02em;line-height:1">Ide, anunciai!</span>
+        <span style="font-family:'Source Sans 3',sans-serif;font-size:9px;letter-spacing:0.24em;text-transform:uppercase;color:#a7b0c4">Meditação diária do Evangelho</span>
+      </a>
+      <nav style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;letter-spacing:0.06em">
+        <a href="{{ pagInicio }}" style="color:#fff;padding:7px 14px;border-radius:999px;white-space:nowrap;background:#23325a">Início</a>
+        <a href="{{ pagReflexao }}" style="color:#d3d9e6;padding:7px 14px;border-radius:999px;white-space:nowrap" style-hover="color:#fff;background:#23325a">Evangelho do dia</a>
+      </nav>
+    </div>
+  </header>
+
+  <a href="{{ r.href }}" style="position:relative;display:block;background:#14213d;color:#f3efe8;overflow:hidden">
+    <div role="img" style="position:absolute;inset:0;width:100%;height:100%;background-position:center 30%;background-image:{{ r.bg }};background-size:cover;background-color:#23325a"></div>
+    <div style="position:absolute;inset:0;background:linear-gradient(0deg,rgba(14,24,48,0.96) 0%,rgba(20,33,61,0.7) 45%,rgba(20,33,61,0.15) 100%)"></div>
+    <div style="position:relative;max-width:1120px;min-height:420px;margin:0 auto;padding:34px 20px 40px;display:flex;flex-direction:column;justify-content:flex-end;align-items:flex-start;gap:12px">
+      <div style="display:flex;gap:8px;flex-wrap:wrap;font-family:'Source Sans 3',sans-serif;font-size:11px;font-weight:600;letter-spacing:0.08em">
+        <span style="background:#8a2f2a;color:#fff;padding:5px 12px;border-radius:999px;white-space:nowrap">Evangelho de hoje</span>
+        <span style="background:rgba(255,255,255,0.14);color:#fff;padding:5px 12px;border-radius:999px;white-space:nowrap">{{ r.dataCurta }} · {{ r.evangelho.ref }}</span>
+      </div>
+      <h1 style="margin:0;font-weight:500;font-size:clamp(30px,4.7vw,46px);line-height:1.05;letter-spacing:-0.01em;max-width:680px;text-wrap:balance;color:#f3efe8">{{ r.titulo }}</h1>
+      <p style="margin:0;font-size:18px;line-height:1.45;font-style:italic;color:#c8cfdd;max-width:560px;text-align:justify;hyphens:auto">{{ r.frase }}</p>
+      <span style="margin-top:6px;background:#f3efe8;color:#14213d;font-family:'Source Sans 3',sans-serif;font-size:13px;font-weight:600;padding:11px 20px;border-radius:999px">Ler a meditação →</span>
+    </div>
+  </a>
+
+  <main style="flex:1;max-width:1120px;width:100%;margin:0 auto;padding:40px 20px 56px;display:flex;flex-direction:column;gap:18px">
+    <sc-if value="{{ temOutros }}" hint-placeholder-val="{{ true }}">
+      <h2 style="margin:0;font-weight:500;font-size:26px">Dias anteriores</h2>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:28px">
+        <sc-for list="{{ outros }}" as="o" hint-placeholder-count="3">
+          <a href="{{ o.href }}" style="display:flex;flex-direction:column;gap:14px;color:#1b2436" style-hover="color:#8a2f2a">
+            <div role="img" style="width:100%;aspect-ratio:3/2;border-radius:14px;background-color:#23325a;background-image:{{ o.bg }};background-size:cover;background-position:center 30%"></div>
+            <span style="display:flex;flex-direction:column;gap:6px">
+              <span style="font-family:'Source Sans 3',sans-serif;font-size:11px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;color:#8a2f2a">{{ o.dia }}, {{ o.dataCurta }}</span>
+              <span style="font-size:22px;font-weight:500;line-height:1.15;text-wrap:balance">{{ o.titulo }}</span>
+              <span style="font-size:15px;line-height:1.45;font-style:italic;color:#5a6478;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden">{{ o.frase }}</span>
+              <span style="font-family:'Source Sans 3',sans-serif;font-size:12px;color:#5a6478;padding-top:2px">{{ o.evangelho.ref }}</span>
+            </span>
+          </a>
+        </sc-for>
+      </div>
+    </sc-if>
+    <div style="display:flex;justify-content:center;padding-top:8px">
+      <a href="{{ pagTodas }}" style="font-family:'Source Sans 3',sans-serif;font-size:13px;font-weight:600;white-space:nowrap;color:#14213d;border:1.5px solid #14213d;padding:11px 22px;border-radius:999px" style-hover="background:#14213d;color:#fff">Ver todas as reflexões →</a>
+    </div>
+  </main>
+
+  <footer style="background:#14213d;color:#a7b0c4;font-family:'Source Sans 3',sans-serif;font-size:12px">
+    <div style="max-width:1120px;margin:0 auto;padding:30px 20px 20px;display:flex;flex-wrap:wrap;gap:30px;justify-content:space-between">
+      <div style="flex:1 1 238px;display:flex;flex-direction:column;gap:8px">
+        <span style="font-family:'EB Garamond',serif;font-size:20px;color:#f3efe8">Ide, anunciai!</span>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:8px">
+        <span style="font-size:10px;font-weight:600;letter-spacing:0.2em;text-transform:uppercase;color:#f3efe8">Navegação</span>
+        <a href="{{ pagInicio }}" style="color:#a7b0c4" style-hover="color:#fff">Início</a>
+        <a href="{{ pagReflexao }}" style="color:#a7b0c4" style-hover="color:#fff">Evangelho do dia</a>
+        <a href="{{ pagTodas }}" style="color:#a7b0c4" style-hover="color:#fff">Todas as reflexões</a>
+      </div>
+    </div>
+    <div style="max-width:1120px;margin:0 auto;padding:12px 20px 20px;border-top:1px solid #23325a;font-size:11px">© 2026 Ide, anunciai!</div>
+  </footer>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  state = { ok: !!window.IA };
+  componentDidMount() {
+    if (!window.IA) this.t = setInterval(() => { if (window.IA) { clearInterval(this.t); this.setState({ ok: true }); } }, 50);
+  }
+  componentWillUnmount() { clearInterval(this.t); }
+  renderVals() {
+    if (!this.state.ok) return { r: { evangelho: {} }, outros: [] };
+    const IA = window.IA, todos = IA.lista();
+    const r = todos[0] ? IA.enfeitar(todos[0]) : { evangelho: {} };
+    const outros = todos.slice(1, 4).map(IA.enfeitar);
+    return {
+      r, outros, temOutros: outros.length > 0, semOutros: outros.length === 0,
+      pagTodas: IA.pagTodas, hojeLonga: IA.hojeLonga(), pagInicio: IA.pagInicio, pagReflexao: IA.pagReflexao
+    };
+  }
+}
+</script>
+</body>
+</html>
