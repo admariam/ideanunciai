@@ -1131,6 +1131,136 @@ window.REFLEXOES = [
       "Pelo selo do teu Espírito, que me marcou no Batismo, confirma em mim a certeza de que pertenço a Ti. Por intercessão de Santa Margarida Maria, faze-me confiar no amor do Coração de teu Filho e responder a esse amor com uma vida verdadeira, por dentro e por fora."
     ],
     "imagem": "assets/2026-10-16.jpg"
+  },
+  {
+    "data": "2026-10-17",
+    "tempo": "28ª Semana do Tempo Comum — Ano II",
+    "memoria": "Santo Inácio de Antioquia, bispo e mártir — Memória",
+    "titulo": "Quem se declarar por mim diante dos homens",
+    "frase": "Deus não olha de longe a nossa vida, Ele se compromete conosco.",
+    "minutos": 6,
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Efésios 1,15-23"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 8,2-3a.4-5.6-7 (R. cf. 7)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 12,8-12"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 12,8-12",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, disse Jesus aos seus discípulos: “Eu vos digo: todo aquele que se declarar por mim diante dos homens, o Filho do Homem também se declarará por ele diante dos anjos de Deus. Mas aquele que me negar diante dos homens, será negado diante dos anjos de Deus.\n\nTodo aquele que disser uma palavra contra o Filho do Homem, será perdoado; mas quem blasfemar contra o Espírito Santo, não será perdoado.\n\nQuando vos levarem às sinagogas, diante dos magistrados e das autoridades, não vos preocupeis com o modo de vos defender, nem com o que haveis de dizer. Pois o Espírito Santo vos ensinará, naquela mesma hora, o que deveis dizer”."
+    },
+    "reflexao": [
+      "O salmo de hoje pergunta o que é o homem para que Deus se lembre dele. A resposta que a Escritura dá é desconcertante: um pouco menos que um anjo, coroado de glória e honra, posto por Deus à frente das obras de suas mãos. O homem não vale pelo que consegue, vale por aquilo que o Criador quis que ele fosse. E o Evangelho vai ainda mais longe: o Filho do Homem se declara a favor de quem se declara por Ele. Deus não olha de longe a nossa vida, Ele se compromete conosco.",
+      "Declarar-se por Cristo, porém, custa. Desde o pecado, o homem aprendeu a calcular o que pode dizer e a quem, a medir as palavras pela reação que vão provocar. Negar o Senhor raramente acontece diante de um tribunal. Acontece num silêncio conveniente, numa piada que deixamos passar, na fé que guardamos para a hora em que ninguém está olhando. E Jesus fala com seriedade sobre a blasfêmia contra o Espírito Santo. A tradição entende que não se trata de uma frase infeliz, mas de uma recusa obstinada da graça, que fecha a única porta por onde o perdão entra. Quem se recusa a ser perdoado fica sem perdão por escolha própria, e não por falta de misericórdia do Pai.",
+      "O que o Senhor oferece, no entanto, é companhia. Ele não manda ninguém para a sinagoga ou para o tribunal sozinho com as próprias forças: o Espírito Santo ensinará, naquela mesma hora, o que dizer. Paulo escreve aos Efésios que reza para que Deus dê aos cristãos um espírito de sabedoria e de revelação, para que conheçam a esperança do chamado, a riqueza da herança e a grandeza do poder de Deus, o mesmo poder que ressuscitou Cristo e o fez sentar-se à sua direita, acima de todo principado e potestade. Se a cabeça está ali, o corpo não está abandonado. A Igreja é esse corpo, e quem confessa Cristo confessa em união com Ele.",
+      "Santo Inácio, bispo de Antioquia, viveu isso até o fim. Por volta do ano 107, foi levado preso a Roma para ser lançado às feras no anfiteatro. No caminho escreveu sete cartas, e foi nelas que apareceu pela primeira vez, que se saiba, a expressão “Igreja católica”. Às comunidades que lhe pediam que fugisse do martírio, respondeu pedindo que não o impedissem: dizia-se trigo de Deus, que seria moído pelos dentes das feras para se tornar pão puro de Cristo. Ele não buscava o sofrimento por si mesmo. Estava tão tomado por Cristo que nada mais lhe parecia maior.",
+      "Talvez hoje eu precise perguntar em que ambiente costumo me calar sobre aquilo em que creio. No trabalho, na família, entre amigos, há momentos em que uma palavra simples de fé seria um modo de me declarar por Cristo, e eu a deixo passar para evitar desconforto. O Evangelho me lembra que não preciso preparar discursos. Preciso estar unido a Ele e deixar que o Espírito conduza.",
+      "Hoje, que eu reze pedindo ao Espírito Santo a palavra certa e, na primeira ocasião que aparecer, diga com simplicidade o que creio."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu te declaraste por mim diante do Pai, e agora me confias a tua causa diante dos homens. Obrigado por não me deixares sozinho nessa missão.",
+      "Perdoa-me os silêncios por conveniência, as vezes em que calei o que sei de Ti por querer ser aceito. Cura em mim a vontade de agradar a todos e dá-me a liberdade dos teus amigos.",
+      "Envia o teu Espírito, para que me ensine na hora própria o que devo dizer. Por intercessão de Santo Inácio de Antioquia, faze de mim trigo teu, e que a minha vida inteira, nas palavras e nas obras, confesse que Tu és o Senhor."
+    ],
+    "imagem": "assets/2026-10-17.jpg"
+  },
+  {
+    "data": "2026-10-18",
+    "tempo": "29º Domingo do Tempo Comum — Ano A",
+    "memoria": "Hoje, omite-se a Festa de São Lucas, Evangelista",
+    "titulo": "A César o que é de César, a Deus o que é de Deus",
+    "frase": "A moeda pode ir para o imperador. A pessoa inteira pertence a Deus.",
+    "minutos": 7,
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Isaías 45,1.4-6"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 95(96),1.2a.3.4-5.7-8.9-10a.c (R. 7ab)"
+      },
+      {
+        "rotulo": "Segunda leitura",
+        "ref": "1 Tessalonicenses 1,1-5b"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Mateus 22,15-21"
+      }
+    ],
+    "evangelho": {
+      "ref": "Mt 22,15-21",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Mateus",
+      "texto": "Naquele tempo, os fariseus se retiraram e fizeram um plano para apanhar Jesus em alguma palavra. Enviaram então seus discípulos, junto com os partidários de Herodes, para dizerem a Jesus: “Mestre, sabemos que tu és verdadeiro e ensinas o caminho de Deus com verdade, sem te preocupares com ninguém, porque não olhas para as aparências dos homens. Dize-nos, pois, o que pensas: é lícito ou não pagar imposto a César?”\n\nJesus, percebendo a malícia deles, disse: “Hipócritas, por que me preparais uma armadilha? Mostrai-me a moeda do imposto!” Levaram-lhe então uma moeda. E Jesus perguntou: “De quem é esta imagem e a inscrição?” Responderam: “De César”. Então Jesus lhes disse: “Pois então, devolvei a César o que é de César, e a Deus o que é de Deus”."
+    },
+    "reflexao": [
+      "A pergunta sobre o imposto é uma armadilha. Se Jesus disser que se deve pagar, perde o povo, que odiava o domínio romano. Se disser que não, será denunciado ao governador. Os elogios que a precedem são verdadeiros, e é isso que os torna venenosos: Ele de fato é verdadeiro e ensina com verdade o caminho de Deus. Mas quem fala assim quer apanhá-lo, e não ouvi-lo. A verdade dita sem desejo de ser convertido por ela vira instrumento de combate.",
+      "Jesus pede uma moeda. Ele não tem nenhuma consigo, e quem a traz do bolso são justamente os que o testam, o que já revela a posição deles. Pergunta de quem é a imagem. De César, respondem. E então a frase que ficou famosa: devolvei a César o que é de César e a Deus o que é de Deus. A resposta, porém, tem um fundo que os ouvintes bem formados na Escritura não podiam deixar de perceber. Se a moeda traz a imagem de César, é de César. E o que traz a imagem de Deus? O livro do Gênesis diz que foi o homem: criado à imagem e semelhança do seu Criador. A moeda pode ir para o imperador. A pessoa inteira pertence a Deus.",
+      "É aí que mora a ferida. O pecado leva o homem a entregar a sua vida a outros senhores, o dinheiro, o poder, a aprovação, a segurança, até esquecer de quem é a imagem que ele carrega. Os que armaram a pergunta estavam discutindo política e tinham esquecido a si mesmos. A Igreja ensina que o poder civil tem a sua autonomia e merece obediência em seu âmbito, mas jamais pode exigir do homem o que só a Deus se deve. Quando César pretende ocupar o lugar de Deus, a resposta cristã é a dos mártires: a César a moeda, nunca a consciência.",
+      "A primeira leitura traz algo surpreendente. Isaías chama Ciro, rei pagão da Pérsia, de ungido do Senhor, e diz que Deus o tomou pela mão e o chamou pelo nome, embora ele não o conhecesse. O Senhor conduz a história, e até os poderosos que não sabem a quem servem estão nas suas mãos, para que se saiba, do nascente ao poente, que fora d’Ele não há outro. O salmo responde com um convite que alcança todas as nações: dai ao Senhor glória e poder, trazei oferendas. Nada do que é verdadeiramente nosso fica fora do olhar de Deus, e Ele não precisa tomar o lugar de César para reinar.",
+      "Paulo, escrevendo aos tessalonicenses, dá o retrato de quem devolve a Deus o que é de Deus. Lembra, diante de Deus, a atividade da fé, o esforço da caridade e a firmeza da esperança que eles têm em Jesus Cristo. Fé que age, amor que se cansa, esperança que resiste. E o Evangelho chegou até eles não só em palavras, mas com poder, no Espírito Santo, com plena convicção. É isso que Deus recebe de nós: a vida entregue, sem reserva.",
+      "A Igreja deixa, neste domingo, a festa de São Lucas, evangelista, e vale lembrar que foi ele quem nos deixou o Evangelho e os Atos, onde se vê o que é um cristão que vive diante dos poderes do mundo sem lhes pertencer. Lucas era médico, companheiro de Paulo em viagens e prisões, e o seu texto mostra o homem atento ao sofrimento concreto e ao modo como Deus age na história de quem sofre.",
+      "Talvez hoje eu precise perguntar a quem anda pertencendo a minha vida, na prática. Pode ser que as minhas melhores horas, a minha atenção e as minhas preocupações já tenham dono, e que a Deus sobrem as sobras. Devolver a Deus o que é de Deus não é reservar um canto da semana para Ele. É reconhecer que o homem inteiro leva o seu selo.",
+      "Hoje, na Missa, que eu ofereça a Deus não só um momento, mas a vida inteira, com os compromissos e os afetos dela, e que eu escolha uma coisa concreta da semana para colocar de novo sob o seu domínio."
+    ],
+    "oracao": [
+      "Pai, Tu me criaste à tua imagem e me chamaste pelo nome. Reconheço que tudo o que sou e tudo o que tenho vem de Ti.",
+      "Perdoa-me por ter entregado o meu coração a outros senhores e por ter reservado a Ti apenas o que sobrou. Cura em mim a hipocrisia de quem pergunta sem querer ouvir, e dá-me um coração inteiro, que busque somente a tua verdade.",
+      "Faze que a minha fé aja, que o meu amor se canse e que a minha esperança resista, como a dos primeiros cristãos de Tessalônica. Que, entre as moedas e os poderes deste mundo, eu me lembre sempre de quem sou e a quem pertenço."
+    ],
+    "imagem": "assets/2026-10-18.jpg"
+  },
+  {
+    "data": "2026-10-19",
+    "tempo": "29ª Semana do Tempo Comum — Ano II",
+    "memoria": "São Paulo da Cruz, presbítero — Memória facultativa",
+    "titulo": "Rico diante de Deus",
+    "frase": "O que sobra no celeiro apodrece. O que se dá permanece.",
+    "minutos": 7,
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Efésios 2,1-10"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 99(100),2.3.4.5 (R. 3b)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 12,13-21"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 12,13-21",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, alguém do meio da multidão disse a Jesus: “Mestre, dize a meu irmão que divida a herança comigo”. Jesus respondeu: “Homem, quem me encarregou de ser juiz ou de fazer as partilhas entre vós?” Depois disse ao povo: “Atenção! Tomai cuidado contra todo tipo de ganância, porque, mesmo que alguém tenha muitas coisas, a sua vida não consiste na abundância de bens”.\n\nE contou-lhes uma parábola: “A terra de um homem rico produziu muito. Ele pensava consigo mesmo: ‘Que vou fazer? Não tenho onde guardar minha colheita’. Então resolveu: ‘Já sei o que fazer: vou derrubar meus celeiros e construir maiores, para neles guardar todo o meu trigo e todos os meus bens. Então poderei dizer a mim mesmo: Minha alma, tens uma grande reserva para muitos anos; descansa, come, bebe e aproveita!’ Mas Deus lhe disse: ‘Louco! Ainda esta noite pedirão de volta a tua vida. E para quem ficará o que ajuntaste?’ Assim acontece com quem ajunta tesouros para si, mas não é rico diante de Deus”."
+    },
+    "reflexao": [
+      "Alguém no meio da multidão pede a Jesus que resolva uma questão de herança. Jesus, que acabara de falar de coisas tão grandes, recebe um pedido tão pequeno e não o atende, porque percebe que por trás do pedido há uma pergunta mal formulada. O homem acha que o seu problema é a partilha. O problema é o que ele espera da partilha. Deus fez o homem para ser rico de outra coisa, e o coração inquieto que procura segurança nos bens está apenas tentando, por um caminho errado, satisfazer um desejo legítimo de plenitude.",
+      "A parábola mostra isso com precisão quase clínica. O homem rico não rouba, não oprime, não faz nada de ilegal: a terra produziu bem. Mas repare que ele conversa só consigo mesmo. Diz “meus celeiros”, “meu trigo”, “meus bens”, “minha alma”, e em nenhum momento pergunta a quem deve agradecer ou o que fazer com o excedente além de guardá-lo. É o pecado em sua versão mais tranquila: viver como se a vida fosse propriedade, como se bastasse acumular para ficar em paz. A resposta de Deus é uma das mais secas do Evangelho. Louco, ainda esta noite pedirão de volta a tua vida. A palavra “pedirão de volta” lembra que a vida nunca foi nossa. Foi recebida.",
+      "O ensinamento não é contra os bens, é contra a ganância, que confunde o ter com o ser. E o que Jesus propõe no lugar não é miséria, é outra riqueza: ser rico diante de Deus. Paulo explica na carta aos Efésios como alguém se torna rico assim. Estávamos mortos por causa das nossas faltas, diz ele, mas Deus, rico em misericórdia, por causa do grande amor com que nos amou, deu-nos a vida com Cristo. É pela graça que fomos salvos, e isso não vem de nós, é dom de Deus. Não tínhamos nada para guardar nos celeiros, e Ele nos encheu. A riqueza que conta é a misericórdia que recebemos.",
+      "Paulo acrescenta algo que o rico da parábola nunca ouviu: somos obra de Deus, criados em Cristo Jesus para as boas obras que Ele preparou de antemão, para que nelas caminhássemos. O trabalho e os bens ganham sentido quando se tornam boas obras. O que sobra no celeiro apodrece. O que se dá permanece, porque já foi entregue ao único que não perde nada. O salmo canta a alegria de quem entendeu isso: servi ao Senhor com alegria, sabei que o Senhor é Deus, somos o seu povo e o rebanho que Ele conduz.",
+      "A Igreja recorda hoje, de modo facultativo, São Paulo da Cruz, fundador dos Passionistas. Nasceu em 1694, no norte da Itália, de família de comerciantes, e teve condições de herdar e fazer carreira. Preferiu o caminho oposto: vestiu o hábito negro com o sinal da Paixão no peito e passou a vida pregando missões populares, para que as pessoas voltassem o olhar para a cruz de Cristo. Dizia que não havia obra mais admirável do amor de Deus do que a Paixão do seu Filho. Em quem tinha tudo para guardar, a Paixão despertou a necessidade de dar.",
+      "Talvez hoje eu precise examinar o que ando acumulando e para quê. Pode ser dinheiro, mas também tempo reservado só para mim, segurança afetiva, prestígio, reservas de tudo. E talvez a pergunta mais útil seja a do Evangelho: de que adianta, se esta noite me pedirem a vida de volta? Isso não me tira o direito de trabalhar nem de me preparar para o futuro. Pede que a minha prudência não vire avareza.",
+      "Hoje, que eu escolha algo que venho guardando, dinheiro, tempo ou alguma ajuda que posso prestar, e o entregue a quem precisa, em silêncio."
+    ],
+    "oracao": [
+      "Pai de misericórdia, Tu me deste a vida quando eu estava morto pelas minhas faltas e me salvaste por pura graça. Obrigado por me teres feito rico de uma riqueza que não se guarda em celeiros.",
+      "Perdoa-me quando vivi como dono do que recebi, falando só comigo mesmo, certo de que a minha segurança dependia do que acumulei. Cura em mim a ganância, a pressa de garantir tudo e o esquecimento de que a minha vida te pertence.",
+      "Faze de mim obra tua, para as boas obras que preparaste desde sempre. Por intercessão de São Paulo da Cruz, que olhou para a Paixão do teu Filho e aprendeu a dar, ensina-me a ser rico diante de Ti e a repartir com alegria o que de Ti recebi."
+    ],
+    "imagem": "assets/2026-10-19.jpg"
   }
 ];
 
