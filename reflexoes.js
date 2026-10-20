@@ -1261,6 +1261,170 @@ window.REFLEXOES = [
       "Faze de mim obra tua, para as boas obras que preparaste desde sempre. Por intercessão de São Paulo da Cruz, que olhou para a Paixão do teu Filho e aprendeu a dar, ensina-me a ser rico diante de Ti e a repartir com alegria o que de Ti recebi."
     ],
     "imagem": "assets/2026-10-19.jpg"
+  },
+  {
+    "data": "2026-10-20",
+    "tempo": "29ª Semana do Tempo Comum — Ano II",
+    "titulo": "Felizes os que o Senhor encontrar acordados",
+    "frase": "Vigiar não é viver ansioso. É viver com a casa aberta e a lâmpada acesa.",
+    "minutos": 6,
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Efésios 2,12-22"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 84(85),9ab-10.11-12.13-14 (R. cf. 9)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 12,35-38"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 12,35-38",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, disse Jesus aos seus discípulos: “Estejam cingidos os vossos rins e acesas as vossas lâmpadas. Sede como homens que esperam o seu senhor, que volta de uma festa de casamento, para abrir-lhe logo que chegar e bater à porta. Felizes os empregados que o senhor encontrar acordados quando chegar! Em verdade vos digo, ele mesmo vai cingir-se, fazê-los sentar à mesa e passar para servi-los. Se ele chegar à meia-noite ou de madrugada e os encontrar assim, felizes serão eles!”"
+    },
+    "reflexao": [
+      "Jesus descreve homens de cintura cingida e lâmpada acesa, olhando para a porta. Quem espera assim tem alguém a quem esperar, e isso diz muito sobre o homem. O coração humano vive voltado para uma chegada, e por isso nenhuma conquista o deixa inteiramente em paz. Deus fez a criatura com essa expectativa, porque quis ser esperado por ela e quis vir ao seu encontro.",
+      "Paulo, na primeira leitura, descreve que aquela comunidade de Éfeso viviam, diz ele, sem Cristo, afastados e assim, sem esperança. É uma frase pesada. O pecado separa, e separa em todas as direções: de Deus, uns dos outros, e até de si mesmo. Entre judeus e pagãos havia um muro de inimizade, e muros assim existem em qualquer época, dentro das famílias, nos grupos, no próprio coração.",
+      "O Evangelho anuncia que o Senhor vem, e vem de um modo que ninguém esperava. O dono da casa, ao encontrar os empregados acordados, cinge-se, senta-os à mesa e passa a servi-los. É o contrário de qualquer expectativa de patrão. Na Última Ceia, Cristo fez isso de verdade, lavando os pés dos discípulos, e o fez sobretudo na cruz. É por isso que Paulo pode escrever que Ele é a nossa paz. Em sua carne desfez o muro da inimizade, reconciliou-nos com Deus e anunciou a paz aos que estavam longe e aos que estavam perto. Por Ele temos acesso ao Pai, num só Espírito. Já não somos estrangeiros nem hóspedes, somos concidadãos dos santos e membros da família de Deus, edificados sobre o fundamento dos apóstolos, tendo Cristo como pedra angular.",
+      "O salmista canta: o amor e a verdade se encontram, a justiça e a paz se beijam. O que parecia impossível, que a verdade e a misericórdia caminhassem juntas, aconteceu numa pessoa. E a vigilância que o Senhor pede é a atitude de quem sabe disso e vive de acordo, com a casa aberta e a lâmpada acesa. Vigiar não é viver ansioso. É viver de modo que a chegada de Cristo não nos encontre desprevenidos nem distraídos.",
+      "Talvez hoje eu precise ver que muros ainda tenho de pé. Uma conversa que evito, uma pessoa a quem fecho a porta, um orgulho que me mantém do lado de fora de alguma reconciliação. E talvez a vigilância comece por coisas pequenas, como reservar um momento de silêncio no dia para estar diante do Senhor, de modo que, quando Ele bater, eu perceba que é Ele.",
+      "Hoje, que eu derrube um pequeno muro: telefonar, pedir perdão, dar o primeiro passo. E que eu separe alguns minutos de silêncio para esperar o Senhor."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu és a nossa paz. Obrigado por teres vindo até mim, mesmo eu estando longe e por teres derrubado, com a tua cruz, o que me separava do Pai e dos irmãos.",
+      "Perdoa-me pelos muros que levantei e a distração com que vivo, como se ninguém viesse. Cura em mim a preguiça de esperar por Ti e dá-me uma lâmpada sempre acesa.",
+      "Quando chegares, que me encontres de pé, de coração aberto, pronto para sentar à tua mesa, unido aos meus irmãos no teu Espírito."
+    ],
+    "imagem": "assets/2026-10-20.jpg"
+  },
+  {
+    "data": "2026-10-21",
+    "tempo": "29ª Semana do Tempo Comum — Ano II",
+    "titulo": "O administrador fiel e prudente",
+    "frase": "Não precisa produzir a graça, só deixá-la correr.",
+    "minutos": 7,
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Efésios 3,2-12"
+      },
+      {
+        "rotulo": "Cântico",
+        "ref": "Isaías 12,2-3.4bcd.5-6 (R. cf. 3)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 12,39-48"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 12,39-48",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, disse Jesus aos seus discípulos: “Sabei isto: se o dono da casa soubesse a que hora viria o ladrão, não deixaria arrombar a sua casa. Estai também vós preparados! Porque o Filho do Homem virá na hora em que menos esperardes”.\n\nPedro perguntou: “Senhor, contaste esta parábola só para nós ou para todos?” O Senhor respondeu: “Quem é o administrador fiel e prudente, que o senhor colocará à frente do pessoal de sua casa para dar-lhe o alimento na hora certa? Feliz o empregado que o senhor, ao chegar, encontrar agindo assim! Em verdade vos digo, ele o colocará à frente de todos os seus bens. Mas se esse empregado disser consigo: ‘Meu senhor demora a chegar’, e começar a bater nos criados e nas criadas, a comer, a beber e a embriagar-se, o senhor desse empregado chegará num dia em que ele menos espera e numa hora que não sabe. E o castigará severamente, e lhe dará a sorte dos infiéis.\n\nO empregado que conhece a vontade do senhor, mas não se prepara nem age de acordo com essa vontade, será chicoteado muitas vezes. Mas aquele que, sem conhecê-la, fez coisas que merecem castigo, levará poucas chicotadas. A quem muito foi dado, muito será pedido; a quem muito foi confiado, muito mais será exigido”."
+    },
+    "reflexao": [
+      "Pedro pergunta se a parábola é só para os apóstolos ou para todos, e Jesus responde com uma pergunta: quem é o administrador fiel e prudente? A palavra importante é administrador. O homem não foi posto no mundo como dono, mas como alguém a quem se confia uma casa. Já no jardim, Deus colocou Adão para cultivar e guardar. A vida, o tempo, os talentos, a família, a fé, tudo isso foi entregue às mãos do homem, e todo recebimento é também uma responsabilidade. Isso torna a existência séria e, ao mesmo tempo, honrosa: Deus confia em nós.",
+      "A parábola mostra como o pecado entra nesse quadro. O empregado diz consigo mesmo: meu senhor demora a chegar. A partir dessa frase, tudo se desfaz. Como o dono não aparece, ele passa a agir como se a casa fosse sua, bate nos outros criados, come e bebe até a embriaguez. A ausência aparente de Deus vira licença, e quem deveria servir passa a dominar. O mesmo movimento está em Adão, que ouve a serpente dizer que Deus esconde algo e decide governar por conta própria o que não lhe pertence. Vem em seguida o texto sobre os muitos açoites e os poucos, com a conclusão que vale para todos: a quem muito foi dado, muito será pedido. Quem recebeu mais luz responde por mais luz.",
+      "O que a Escritura oferece em resposta é o Senhor que realmente vem, e vem como o servo fiel por excelência. Na primeira leitura, Paulo diz que a graça de Deus lhe foi confiada em favor dos pagãos: o mistério escondido por séculos foi revelado, e em Cristo os pagãos são co-herdeiros, membros do mesmo corpo, participantes da mesma promessa. Paulo não se chama dono do Evangelho. Chama-se administrador de uma graça que não é sua, e fala das riquezas insondáveis de Cristo que lhe coube anunciar. O verdadeiro administrador é o próprio Filho, que recebeu do Pai tudo o que tinha para dar e entregou até a vida, sem reter nada. Cada um de nós só é fiel porque Ele o foi primeiro.",
+      "O cântico de Isaías, que serve de salmo, completa o quadro com uma imagem de alegria: com júbilo vocês tirarão água das fontes da salvação. A fidelidade que o Senhor pede nasce do reconhecimento de que a água não vem de nós. Quem entende que apenas distribui o que recebe fica livre da avareza e livre também do desânimo. Não precisa produzir a graça, só deixá-la correr.",
+      "Talvez hoje eu precise perguntar o que me foi confiado e que ando tratando como meu. O tempo livre, a influência que tenho sobre os outros, a fé que recebi em casa, um talento que deixei sem uso. E talvez eu precise reparar em quem está sob a minha responsabilidade, filhos, colegas, pessoas que dependem de mim, e perguntar se lhes dou o alimento na hora certa ou se uso a minha posição para me servir.",
+      "Hoje, que eu anote uma responsabilidade que venho adiando e lhe dê um passo concreto, e que eu trate com mais delicadeza quem depende de mim."
+    ],
+    "oracao": [
+      "Pai, Tu me confiaste a vida, o tempo, os dons, as pessoas que amo, e eu muitas vezes me comportei como dono. Obrigado pela confiança que depositaste em mim.",
+      "Perdoa-me quando disse em meu coração que o Senhor demora, e quando usei o que me deste para servir a mim mesmo. Cura em mim o desânimo de quem esquece que a graça não vem de si mesmo, e dá-me um coração fiel.",
+      "Faze de mim um administrador atento da tua graça, como Paulo, para que eu dê, na hora certa, o alimento a quem me deste cuidar. E, no dia da tua vinda, que eu seja achado agindo assim, na alegria de quem tira água das fontes da salvação."
+    ],
+    "imagem": "assets/2026-10-21.jpg"
+  },
+  {
+    "data": "2026-10-22",
+    "tempo": "29ª Semana do Tempo Comum — Ano II",
+    "memoria": "São João Paulo II, papa — Memória facultativa",
+    "titulo": "Eu vim para lançar fogo sobre a terra",
+    "frase": "O fogo de Cristo não consome para destruir. Consome o que em nós impedia o amor.",
+    "minutos": 7,
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Efésios 3,14-21"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 32(33),1-2.4-5.11-12.18-19 (R. 5b)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 12,49-53"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 12,49-53",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, disse Jesus aos seus discípulos: “Eu vim para lançar fogo sobre a terra, e como gostaria que já estivesse aceso! Devo receber um batismo, e como estou ansioso até que isto se cumpra! Pensais que vim trazer a paz à terra? Não, eu vos digo, mas a divisão. Daqui em diante, cinco pessoas na mesma casa estarão divididas: três contra duas e duas contra três. Ficarão divididos: o pai contra o filho e o filho contra o pai; a mãe contra a filha e a filha contra a mãe; a sogra contra a nora e a nora contra a sogra”."
+    },
+    "reflexao": [
+      "Jesus diz que veio lançar fogo sobre a terra e que gostaria que já estivesse aceso. Quem fala assim não está resignado, está com pressa de amar. O fogo, na Escritura, é imagem de Deus, que se mostra na sarça e no Sinai, e é sempre imagem de uma presença que purifica e ilumina. O homem foi criado para ser tocado por esse fogo. Há em nós um desejo de plenitude que nada de morno satisfaz, e é por isso que as vidas mornas costumam ser tão cansadas.",
+      "Paulo, na primeira leitura, diz o que Deus deseja nos dar. Dobra os joelhos diante do Pai e pede que, segundo a riqueza da sua glória, Ele nos fortaleça pelo Espírito no nosso interior, de modo que Cristo habite pela fé nos nossos corações. Pede que, enraizados e fundados no amor, possamos compreender, com todos os santos, a largura, o comprimento, a altura e a profundidade, e conhecer o amor de Cristo que excede todo conhecimento, para que sejamos plenos da plenitude de Deus. Esse é o fogo, e é a vocação do homem: ser habitado.",
+      "O pecado atua em sentido contrário. Em vez de arder, o homem prefere conservar-se, e muitas vezes chama de paz o que é apenas ausência de conflito. Por isso Jesus afirma que não veio trazer a paz, mas a divisão, e a frase só se entende no contexto. Ele não deseja a discórdia. O que Ele diz é que a sua presença obriga a escolher, e que a escolha por Cristo pode custar a harmonia superficial de uma família que prefere não olhar para a verdade. Ele mesmo teve de receber um batismo, o da cruz, e a angústia que confessa diante dele mostra que o amor verdadeiro tem custo. A paz que Ele nos dá é outra, e passa pela cruz.",
+      "O fogo se acende a partir da cruz e ardeu no dia de Pentecostes, quando o Espírito Santo desceu sobre os apóstolos em línguas de fogo. Desde então, quem foi batizado carrega uma centelha que pode ser avivada. O salmo diz que a palavra do Senhor é reta, que Ele ama a justiça e o direito e que a terra está cheia do seu amor. O fogo de Cristo não consome para destruir. Consome o que em nós impedia o amor.",
+      "Hoje a Igreja recorda, em memória facultativa, São João Paulo II. No dia 22 de outubro de 1978, na missa de início do seu pontificado, ele pediu que se abrissem as portas a Cristo e confiou ao mundo, sem rodeios, que o Redentor sabe o que há no homem. Passou o resto da vida repetindo isso em palavras e em viagens, e também no sofrimento dos últimos anos, quando já não tinha forças para falar. Foi canonizado em 2014. É difícil imaginar um testemunho mais próximo do fogo de que o Evangelho fala.",
+      "Talvez hoje eu precise examinar onde tenho trocado a verdade por uma paz barata. Pode ser em casa, para evitar uma discussão que precisava acontecer com caridade, ou na fé, quando abafo o que o Evangelho me pede para não destoar. E talvez eu precise pedir, com simplicidade, que o Espírito acenda de novo o que esfriou.",
+      "Hoje, que eu reze invocando o Espírito Santo, pedindo que Ele acenda em mim o fogo de Cristo, e que eu diga com caridade uma verdade que andava calada."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu vieste lançar fogo sobre a terra, e eu muitas vezes me contentei com uma fé morna. Obrigado por teres desejado esse fogo e por o teres acendido com a tua cruz.",
+      "Perdoa-me a paz fácil que escolhi para não ter de me decidir por Ti. Cura em mim a covardia e o cansaço, e faze arder o que esfriou.",
+      "Dobro os joelhos diante do Pai, como Paulo, e peço que o teu Espírito me fortaleça por dentro e que Tu habites em meu coração. Por intercessão de São João Paulo II, que escancarou as portas a Ti, faze-me acolher o teu amor, que excede todo conhecimento, e levá-lo aos irmãos."
+    ],
+    "imagem": "assets/2026-10-22.jpg"
+  },
+  {
+    "data": "2026-10-23",
+    "tempo": "29ª Semana do Tempo Comum — Ano II",
+    "memoria": "São João de Capistrano, presbítero — Memória facultativa",
+    "titulo": "Procura reconciliar-te com ele no caminho",
+    "frase": "Enquanto se está a caminho, há tempo de reconciliar-se.",
+    "minutos": 7,
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Efésios 4,1-6"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 23(24),1-2.3-4ab.5-6 (R. cf. 6)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 12,54-59"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 12,54-59",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus dizia às multidões: “Quando vedes uma nuvem se levantar no ocidente, logo dizeis: ‘Vai chover’, e assim acontece. E quando vedes soprar o vento sul, dizeis: ‘Vai fazer calor’, e assim acontece. Hipócritas! Sabeis interpretar o aspecto da terra e do céu; como é que não sabeis interpretar o tempo presente? Por que não julgais por vós mesmos o que é justo? Quando fores com o teu adversário ao magistrado, procura reconciliar-te com ele no caminho, para que ele não te arraste ao juiz, o juiz te entregue ao oficial de justiça, e o oficial de justiça te jogue na prisão. Eu te digo: dali não sairás enquanto não pagares o último centavo”."
+    },
+    "reflexao": [
+      "O povo sabe ler as nuvens e o vento e acerta quase sempre a previsão do tempo. Jesus lhe pergunta por que não sabe ler o tempo presente. O homem foi criado com inteligência para perceber o mundo e com liberdade para responder a ele. Mas há um tempo que não se descobre pela observação do céu, e é o tempo da visita de Deus. Cada hora tem um peso, porque Deus age nela e espera uma resposta. O Senhor chama essa atenção, e Ele mesmo é o sinal que ninguém quer interpretar.",
+      "O pecado deixa o homem hábil nas coisas que não o comprometem e cego nas que exigem conversão. É mais fácil falar do clima, da política, da vida dos outros, do que olhar para o que Deus está pedindo agora. Jesus chama isso de hipocrisia, porque se trata de uma cegueira escolhida. Ele pergunta por que não julgam por si mesmos o que é justo. Ninguém precisa de uma revelação especial para saber que está em dívida com alguém, que deve um perdão, uma palavra, uma restituição. A consciência fala, e o que falta é a vontade de ouvir.",
+      "A imagem seguinte é a do adversário a caminho do magistrado. Enquanto se está a caminho, há tempo de reconciliar-se. Depois do tribunal, já não há. A Igreja sempre leu aqui um aviso sobre o momento presente, que é o tempo da misericórdia. Hoje a porta está aberta. Os Padres viram nesse adversário o próprio caminho que nos conduz à presença de Deus, e a reconciliação como a única moeda que ali vale. Quem chega ao juízo com contas abertas tem de pagá-las até o último centavo. Mas o Evangelho completo mostra que Alguém já pagou. Cristo quitou a dívida que não podíamos quitar, e nos deixou o sacramento da Penitência, onde o perdão chega a cada um pelo nome.",
+      "Paulo, na primeira leitura, fala como prisioneiro no Senhor e pede aos efésios que vivam de modo digno da vocação que receberam, com toda a humildade, mansidão e paciência, suportando-se uns aos outros no amor, esforçando-se por conservar a unidade do Espírito pelo vínculo da paz. Em seguida, quase em forma de hino: há um só corpo e um só Espírito, uma só esperança, um só Senhor, uma só fé, um só batismo, um só Deus e Pai de todos. A reconciliação que Jesus pede no caminho tem esse alicerce. Somos de um só corpo, e quem fere o irmão fere algo que lhe pertence. O salmo pergunta quem poderá subir à montanha do Senhor, e responde: quem tem as mãos limpas e o coração puro. Quem sobe reconciliado.",
+      "Hoje a Igreja recorda, em memória facultativa, São João de Capistrano, frade franciscano do século XV. Era jurista e chegou a governar a cidade de Perugia, mas, depois de passar um período na prisão em tempos de guerra, deixou a carreira e entrou para os Franciscanos. Tornou-se um pregador incansável, e as multidões o ouviam pela Europa central. Em 1456, já idoso, acompanhou o exército cristão que defendeu Belgrado. Conhecia a lei e conhecia a conversão, e passou a vida chamando as pessoas a se reconciliarem com Deus enquanto era tempo.",
+      "Talvez hoje eu precise perguntar quem é o meu adversário a caminho. Pode ser alguém com quem estou brigado, uma dívida que preciso quitar, uma ofensa que preciso reconhecer. Se eu sei que a conta existe, a sabedoria é acertá-la agora, quando ainda há estrada.",
+      "Hoje, que eu procure uma pessoa com quem estou em desacordo e dê o primeiro passo de reconciliação, e que, se me faltar uma confissão há tempo adiada, eu a marque ainda esta semana."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu pagaste por mim a dívida que eu não podia pagar. Obrigado porque o tempo presente é o tempo da tua misericórdia e a tua porta ainda está aberta.",
+      "Perdoa-me a facilidade com que leio o mundo e a dificuldade de ler a minha consciência. Cura em mim a hipocrisia e a resistência a reconciliar-me, e dá-me humildade, mansidão e paciência para suportar os meus irmãos no amor.",
+      "Pela intercessão de São João de Capistrano, ensina-me a aproveitar o caminho enquanto há caminho. Faze que eu viva na unidade do teu corpo, e que um dia, de mãos limpas e coração puro, eu possa subir à tua montanha."
+    ],
+    "imagem": "assets/2026-10-23.jpg"
   }
 ];
 
