@@ -1425,6 +1425,132 @@ window.REFLEXOES = [
       "Por intercessão de São João de Capistrano, ensina-me a aproveitar o caminho enquanto há caminho. Faze que eu viva na unidade do teu corpo, e que um dia, de mãos limpas e coração puro, eu possa subir à tua montanha."
     ],
     "imagem": "assets/2026-10-23.jpg"
+  },
+  {
+    "data": "2026-10-24",
+    "tempo": "29ª Semana do Tempo Comum — Ano II",
+    "titulo": "Deixa a figueira ainda este ano",
+    "frase": "A paciência de Deus não é indiferença, é um prazo obtido por alguém que se coloca entre a árvore e o machado.",
+    "minutos": 7,
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Efésios 4,7-16"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 121(122),1-2.3-4a.4b-5 (R. cf. 1)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 13,1-9"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 13,1-9",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, algumas pessoas vieram contar a Jesus o caso dos galileus que Pilatos tinha mandado matar, misturando o sangue deles com o dos sacrifícios que ofereciam. Jesus lhes disse: “Vós pensais que esses galileus eram mais pecadores do que todos os outros galileus, por terem sofrido tal sorte? Eu vos digo que não; mas, se não vos converterdes, todos perecereis do mesmo modo. E aqueles dezoito que morreram quando a torre de Siloé caiu sobre eles, pensais que eram mais culpados do que todos os outros moradores de Jerusalém? Eu vos digo que não; mas, se não vos converterdes, todos perecereis do mesmo modo”.\n\nE Jesus contou esta parábola: “Certo homem tinha uma figueira plantada na sua vinha. Foi até ela procurar figos e não encontrou. Então disse ao vinhateiro: ‘Já faz três anos que venho procurar figos nesta figueira e não encontro. Corta-a! Por que ela está inutilizando a terra?’ Mas o vinhateiro respondeu: ‘Senhor, deixa a figueira ainda este ano. Vou cavar em volta dela e colocar adubo. Pode ser que venha a dar fruto. Se não, então tu a cortarás’”."
+    },
+    "reflexao": [
+      "Trazem a Jesus a notícia de dois desastres, o massacre dos galileus e a queda da torre de Siloé, e por trás do relato está a pergunta que todo homem faz diante da desgraça alheia: que mal fizeram essas pessoas para merecer isso? Deus criou o homem para a vida e o chamou à comunhão consigo, e por isso a morte, a violência e o acaso nos parecem sempre uma ofensa a que se procura dar uma causa, de preferência uma causa que nos deixe de fora.",
+      "É esse o gesto que Jesus desmonta, porque explicar a tragédia dos outros pelo pecado deles é a maneira mais confortável de adiar o exame da própria vida. O pecado nos ensinou a olhar para fora, a medir quem é pior, a nos tranquilizar na comparação, e Jesus corta a manobra duas vezes com a mesma frase: não eram mais culpados, mas, se não vos converterdes, todos perecereis do mesmo modo. A notícia da morte alheia, em vez de dar sossego, passa a ser um chamado dirigido a quem a ouve, de modo que a conversão deixa de ser assunto para depois e se torna a questão do dia.",
+      "A parábola da figueira mostra o que Deus faz com o tempo que nos dá. O dono procura fruto durante três anos e, não achando, manda cortar, o que é a linguagem da justiça, mas o vinhateiro pede mais um ano, promete cavar em volta e pôr adubo, e o dono concede. A paciência de Deus não é indiferença, é um prazo obtido por alguém que se coloca entre a árvore e o machado, e a tradição cristã costuma reconhecer nesse vinhateiro o próprio Cristo, que intercede e cuida. Cada manhã que nos é dada é um desses anos de adubo, e a conversão que Jesus pede é a resposta a um cuidado que já está em curso.",
+      "O adubo da figueira, a carta aos Efésios o nomeia ao falar dos dons que Cristo, ao subir, deu aos homens: apóstolos, profetas, evangelistas, pastores e mestres, para que os santos sejam aperfeiçoados e o corpo cresça até a estatura de Cristo. A imagem muda da figueira para o corpo, mas a lógica é a mesma, pois Paulo acrescenta que, quando cada membro faz a sua parte, o corpo todo cresce na caridade, e assim o fruto que o dono procura nasce de uma vida ligada aos outros, e não do esforço de quem tenta dar frutos sozinho.",
+      "É por isso que o salmo, cantado pelos peregrinos que subiam a Jerusalém, cai tão bem aqui: que alegria quando me disseram, vamos à casa do Senhor. Quem caminha para a casa do Senhor com os irmãos está no lugar onde a figueira é cavada e adubada, e o refrão guarda o desejo de quem entendeu que a conversão se vive em peregrinação com outros, e não em solidão.",
+      "Cabe-me, então, perguntar onde está a minha figueira, o ponto da vida em que há anos aparecem folhas e nenhum fruto, e por que ainda explico as desgraças alheias pelos pecados dos outros e quase nunca pela minha necessidade de conversão. Hoje, que eu escolha esse ponto e dê a ele uma ação concreta, uma oração que não faço, uma reconciliação que adio, uma esmola prometida, e que me deixe cuidar pelos meios que a Igreja me oferece, a confissão, a Missa e a Palavra."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu és o vinhateiro que intercede por mim e cuida da minha terra. Obrigado pela paciência do Pai, que me concede mais um dia para dar fruto.",
+      "Perdoa-me a mania de julgar os outros para não olhar para mim, e a facilidade com que deixo passar o tempo da conversão. Cura em mim a esterilidade de quem só produz folhas e dá-me um coração que se deixe adubar.",
+      "Faze-me crescer no teu corpo, unido aos meus irmãos, para que a caridade me ajude a dar fruto. E que eu caminhe com alegria para a casa do Senhor, até chegar à Jerusalém definitiva."
+    ],
+    "imagem": "assets/2026-10-24.jpg"
+  },
+  {
+    "data": "2026-10-25",
+    "tempo": "30º Domingo do Tempo Comum — Ano A",
+    "memoria": "Hoje, omite-se a Memória de Santo Antônio de Sant’Ana Galvão, religioso",
+    "titulo": "Amarás com todo o teu coração",
+    "frase": "O mandamento fala do homem inteiro porque o homem foi criado inteiro para Deus.",
+    "minutos": 8,
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Êxodo 22,20-26"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 17(18),2-3a.3bc-4.47.51ab (R. 2)"
+      },
+      {
+        "rotulo": "Segunda leitura",
+        "ref": "1 Tessalonicenses 1,5c-10"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Mateus 22,34-40"
+      }
+    ],
+    "evangelho": {
+      "ref": "Mt 22,34-40",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Mateus",
+      "texto": "Naquele tempo, os fariseus, ouvindo dizer que Jesus tinha feito calar os saduceus, reuniram-se em grupo, e um deles, doutor da Lei, perguntou-lhe, para pô-lo à prova: “Mestre, qual é o maior mandamento da Lei?”\n\nJesus respondeu: “Amarás o Senhor teu Deus com todo o teu coração, com toda a tua alma e com todo o teu entendimento. Esse é o maior e o primeiro mandamento. O segundo é semelhante a esse: Amarás o teu próximo como a ti mesmo. Toda a Lei e os Profetas dependem desses dois mandamentos”."
+    },
+    "reflexao": [
+      "O doutor da Lei pergunta qual é o maior mandamento para pôr Jesus à prova, e a pergunta pede, no fundo, uma classificação: entre tantos preceitos, qual deles pesa mais? Quem pergunta assim vê a Lei como um conjunto de exigências a administrar, e Jesus responde indicando o fim a que todas elas servem, que é amar o Senhor com todo o coração, com toda a alma e com todo o entendimento. O mandamento fala do homem inteiro porque o homem foi criado inteiro para Deus, de modo que o coração inquieto, que procura em tantas coisas o que nenhuma delas lhe dá, está procurando sem saber esse amor.",
+      "Essa procura se extravia porque o pecado nos ensinou a repartir o coração, reservando uma parte a Deus e entregando o resto a outros senhores, e algo disso aparece no próprio doutor, que trata o amor como matéria de exame, em que se pode acertar a resposta sem pôr a vida nela. Jesus, porém, junta ao primeiro um segundo mandamento “semelhante” a ele, e essa semelhança fecha a saída cômoda de amar a Deus em geral e o próximo apenas quando convém.",
+      "A primeira leitura mostra o que a semelhança significa na prática, porque o livro do Êxodo, ao dizer como amar o próximo, não fala de sentimentos: manda não oprimir o estrangeiro, não maltratar a viúva e o órfão, não cobrar juros do pobre a quem se empresta dinheiro e devolver antes do pôr do sol o manto tomado em penhor, já que é a única coberta de quem o deu. A razão vem no fim, pois, se o pobre clamar, Deus o ouvirá, porque é compassivo. O amor ao próximo fica assim preso ao amor a Deus pelo ouvido do próprio Deus, que atende o clamor de quem foi lesado, de modo que quem se faz surdo ao pobre se faz surdo a alguém que o escuta.",
+      "Que alguém consiga cumprir os dois mandamentos com o coração inteiro é coisa que a nossa experiência desmente, e por isso o salmo, que começa com “Eu te amo, Senhor, minha força”, encontra em Cristo a voz que o diz sem reserva. Só Ele ama o Pai com todo o coração, toda a alma e todo o entendimento e ama o próximo até dar a vida, de modo que o amor que a Lei manda se realiza plenamente nele, e é por isso que toda a Lei e os Profetas dependem desses dois mandamentos: ambos apontam para a sua pessoa.",
+      "O que Cristo viveu passa a nós pelo Espírito Santo, e Paulo o reconhece nos tessalonicenses, que acolheram a Palavra, em meio a muita tribulação, com a alegria do Espírito, e se converteram dos ídolos para servir o Deus vivo e verdadeiro e esperar o seu Filho. Os ídolos eram as partes do coração entregues a outros senhores, e a conversão deles consistiu em devolver a Deus o amor inteiro, com o resultado de que a fé deles se tornou exemplo para os fiéis da Macedônia e da Acaia, isto é, o amor a Deus recomposto transbordou em direção aos outros.",
+      "Frei Antônio de Sant’Ana Galvão, cuja memória a liturgia omite neste domingo, viveu esses dois amores juntos. Nascido em Guaratinguetá em 1739, franciscano, consagrou-se a Nossa Senhora e fundou em São Paulo o Recolhimento da Luz, onde viveu até a morte, em 1822. Aos doentes que o procuravam dava, sem cobrar nada, papeizinhos enrolados com uma oração a Maria, as chamadas pílulas de Frei Galvão, e é difícil não ver nesse gesto a mesma compaixão do Deus que, no Êxodo, ouve o clamor do pobre. Bento XVI o canonizou em 2007, em São Paulo, como o primeiro santo nascido no Brasil.",
+      "Se eu disser que amo a Deus e retiver comigo o “manto” de alguém, o que lhe devo antes que o dia termine, uma resposta que adiei, um pagamento atrasado, uma atenção devida a alguém de casa, o primeiro mandamento fica sem o segundo, e o segundo só se sustenta se o primeiro lhe der fundamento. Hoje, que eu devolva a alguém, ainda antes de o dia acabar, algo que lhe devo, e que o faça depois de oferecê-lo ao Senhor na oração."
+    ],
+    "oracao": [
+      "Senhor, meu Deus, Tu me criaste para Te amar com o coração inteiro, e eu muitas vezes o repartia entre coisas que não me podem saciar. Obrigado por teres vindo buscar o que eu dividi.",
+      "Perdoa-me quando fiz do amor um assunto de resposta certa e deixei de lado o irmão que estava ao meu lado. Cura em mim a surdez ao clamor do pobre e dá-me um coração compassivo como o teu.",
+      "Por intercessão de Frei Galvão, ensina-me a unir a oração e o serviço, e faze que eu, convertido a Ti como os tessalonicenses, sirva ao Deus vivo e espere o teu Filho."
+    ],
+    "imagem": "assets/2026-10-25.jpg"
+  },
+  {
+    "data": "2026-10-26",
+    "tempo": "30ª Semana do Tempo Comum — Ano II",
+    "titulo": "Mulher, estás livre",
+    "frase": "A libertação chega antes de qualquer pedido, e o louvor vem depois.",
+    "minutos": 7,
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Efésios 4,32–5,8"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 1,1-2.3.4 e 6 (R. cf. Ef 5,1)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 13,10-17"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 13,10-17",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus estava ensinando numa sinagoga, em dia de sábado. Havia lá uma mulher possuída por um espírito que a tornava doente havia dezoito anos. Ela andava encurvada e não conseguia de modo algum ficar direita. Quando a viu, Jesus chamou-a e disse: “Mulher, estás livre da tua doença”. E impôs as mãos sobre ela. No mesmo instante ela se endireitou e começou a louvar a Deus.\n\nMas o chefe da sinagoga, indignado porque Jesus tinha feito uma cura em dia de sábado, tomou a palavra e disse à multidão: “Existem seis dias para trabalhar. Vinde então nesses dias para serdes curados, e não no dia de sábado!” O Senhor lhe respondeu: “Hipócritas! Cada um de vós não solta da manjedoura o boi ou o jumento, para levá-lo a beber, em dia de sábado? E esta filha de Abraão, que Satanás prendeu durante dezoito anos, não podia ser libertada dessa prisão em dia de sábado?” Quando Jesus disse isso, todos os seus adversários ficaram envergonhados, e toda a multidão se alegrava com as maravilhas que ele fazia."
+    },
+    "reflexao": [
+      "A mulher que Jesus encontra na sinagoga anda encurvada há dezoito anos e não consegue levantar o rosto, e o corpo dela mostra de modo visível o contrário do que Deus quis para o homem, criado de pé, com o rosto voltado para quem o fez. Ela vive com os olhos no chão desde que a doença a prendeu, e o evangelista deixa claro que a causa era um espírito, de modo que ninguém poderia dizer que lhe faltou esforço para se erguer.",
+      "Essa curvatura se parece com o que o pecado faz com o coração, que se fecha sobre si mesmo até só enxergar o próprio chão, e quem vive assim há muito tempo já nem lembra que foi feito para olhar para cima. Por isso o primeiro movimento da cena não vem dela: Jesus a vê, chama-a, diz que está livre da doença e impõe as mãos, e ela se endireita no mesmo instante e começa a louvar a Deus. A libertação chega antes de qualquer pedido, e o louvor vem depois, como resposta de quem volta a olhar para onde foi feito para olhar.",
+      "O chefe da sinagoga assiste à mesma cena e se indigna, porque a cura aconteceu em dia de sábado, e a objeção dele, de que há seis dias para trabalhar, mostra outra curvatura, a de quem guarda o preceito sem enxergar a pessoa diante de si. Jesus o chama de hipócrita, junto com os que pensam como ele, e lembra que todos soltam o boi e o jumento da manjedoura em dia de sábado para dar-lhes de beber. Depois chama a mulher de filha de Abraão, título que ninguém naquela sinagoga lhe dava, e pergunta se ela não podia ser solta justamente no sábado, que o Deuteronômio apresenta como memória da libertação do Egito.",
+      "A hipocrisia do chefe da sinagoga é o oposto do que Paulo pede aos efésios na primeira leitura, quando manda que sejam bondosos e compassivos uns com os outros, perdoando-se como Deus os perdoou em Cristo. Imitar a Deus, como o apóstolo também diz, equivale a fazer na própria vida o que Jesus fez ali: perceber quem está curvado e chamá-lo, sem esperar que a pessoa peça nem que o calendário permita. E o motivo que Paulo dá para isso é que Cristo nos amou e se entregou por nós, oferenda e sacrifício de suave odor, de modo que o gesto de endireitar alguém tem a cruz por fundamento.",
+      "O salmo, por sua vez, põe diante de nós uma figura que se opõe à da mulher encurvada, a árvore plantada à beira da água corrente, firme e de pé, que dá fruto no tempo certo, e a imagem convém à mulher depois da cura, agora ereta e louvando. O salmo diz que esse homem tem seu prazer na lei do Senhor, e é isso que separa a mulher do chefe da sinagoga, pois ele cumpria a lei com exatidão e sem alegria, enquanto ela, ao ser libertada, a cumpriu no louvor. O refrão, tirado da própria carta aos efésios, pede que sejamos imitadores de Deus como filhos amados, e é o filho amado quem consegue ficar de pé.",
+      "Isso me obriga a olhar para dois lados: para quem está curvado perto de mim, alguém que carrega há anos um peso que o faz olhar só para o chão e que nunca ouviu de mim uma palavra que o chamasse pelo nome, e para o ponto da minha vida em que me acostumei a olhar para baixo e deixei de pedir ao Senhor que me levantasse. Hoje, que eu procure uma pessoa desanimada ou esquecida e lhe diga uma palavra que a levante, e que, se houver alguém a quem ainda não perdoei, eu comece a perdoá-lo em oração."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu me viste antes que eu pedisse e me chamaste pelo nome. Obrigado por não esperares que eu me levantasse sozinho.",
+      "Perdoa-me o tempo que passei de olhos no chão, preso ao que me pesava, e a dureza com que tantas vezes passei ao lado de quem estava curvado. Cura em mim a hipocrisia de quem cumpre a regra e deixa de ver o irmão.",
+      "Faze de mim um imitador de Deus, como filho amado, bondoso e compassivo, pronto a perdoar como Tu me perdoaste. Endireita o meu coração, para que eu te louve de pé e ajude outros a se erguerem."
+    ],
+    "imagem": "assets/2026-10-26.jpg"
   }
 ];
 
