@@ -1551,6 +1551,164 @@ window.REFLEXOES = [
       "Faze de mim um imitador de Deus, como filho amado, bondoso e compassivo, pronto a perdoar como Tu me perdoaste. Endireita o meu coração, para que eu te louve de pé e ajude outros a se erguerem."
     ],
     "imagem": "assets/2026-10-26.jpg"
+  },
+  {
+    "data": "2026-10-27",
+    "tempo": "30ª Semana do Tempo Comum — Ano II",
+    "titulo": "Como um grão de mostarda",
+    "frase": "O Reino cresce a partir de um começo que mal se vê.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Efésios 5,21-33"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 127(128),1-2.3.4-5 (R. 1a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 13,18-21"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 13,18-21",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus dizia: “A que é semelhante o Reino de Deus? Com que o compararei? É semelhante a um grão de mostarda que um homem pegou e semeou em sua horta. Ele cresceu, tornou-se uma árvore, e os pássaros do céu fizeram ninhos em seus ramos”.\n\nJesus disse ainda: “Com que mais poderei comparar o Reino de Deus? É semelhante ao fermento que uma mulher pegou e escondeu em três medidas de farinha, até que tudo ficasse fermentado”."
+    },
+    "reflexao": [
+      "Jesus pergunta a que o Reino de Deus se assemelha e responde com duas coisas pequenas, um grão de mostarda jogado numa horta e um punhado de fermento escondido na farinha. A escolha diz algo sobre o modo como Deus trabalha no homem, que foi criado para crescer e para dar abrigo a outros, e que só chega a isso a partir de um começo que mal se vê.",
+      "O pecado nos acostumou a medir tudo pelo que aparece e pelo que rende depressa, e por isso as duas parábolas desconcertam: o grão some debaixo da terra e o fermento some na massa, e só depois de muito tempo aparecem a árvore e o pão. O próprio Jesus aplicaria a mesma lei a si mesmo, ao dizer em outra ocasião que o grão de trigo, se não cair na terra e morrer, fica só, e foi assim que a sua morte semeou a Igreja que cresceria como árvore.",
+      "A carta aos Efésios mostra um lugar onde essa semente e esse fermento trabalham bem de perto, que é o casamento. Paulo pede que todos sejam submissos uns aos outros no temor de Cristo, e manda que os maridos amem as esposas como Cristo amou a Igreja e se entregou por ela. A medida do amor conjugal vem, portanto, da cruz, e Paulo chega a chamar essa união de grande mistério, que se refere a Cristo e à Igreja. Um gesto de entrega feito em casa e quase sempre sem testemunhas é o fermento no qual o Reino cresce.",
+      "O salmo desenha o mesmo quadro de dentro da casa, com a esposa como videira fecunda e os filhos como rebentos de oliveira ao redor da mesa, e a imagem lembra a árvore da mostarda, onde os pássaros fazem ninhos. Uma família que teme o Senhor se torna, em ponto pequeno, essa árvore, porque oferece a quem passa um lugar onde pousar.",
+      "Se o Reino cresce assim, a pergunta que me cabe é onde estou desprezando o pequeno por não ver nele resultado, e que gesto discreto em casa ou no trabalho, uma tarefa feita sem aviso, uma palavra paciente, uma oração por alguém da mesa, eu deixei de semear por achar que não mudaria nada. Hoje, que eu faça um serviço que ninguém vai notar e o ofereça a Deus, confiando que o fermento age enquanto não olho."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu comparaste o Reino a um grão e a um punhado de fermento, e eu ando sempre atrás de resultados que se vejam. Obrigado por trabalhares no escondido da minha vida.",
+      "Perdoa-me a pressa de crescer e a facilidade com que desprezo os gestos pequenos. Cura em mim a vaidade de só fazer o bem que alguém vai notar.",
+      "Faze da minha casa uma árvore onde outros encontrem abrigo, e ensina-me a amar como Tu amaste a tua Igreja, até a entrega. Que a minha mesa seja cercada de bênção e a minha vida inteira, fermento do teu Reino."
+    ],
+    "minutos": 3,
+    "imagem": "assets/2026-10-27.jpg"
+  },
+  {
+    "data": "2026-10-28",
+    "tempo": "30ª Semana do Tempo Comum",
+    "memoria": "Santos Simão e Judas, Apóstolos — Festa",
+    "titulo": "Escolheu doze dentre eles",
+    "frase": "Toda vocação nasce da oração do Filho com o Pai.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Efésios 2,19-22"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 18(19A),2-3.4-5 (R. 5a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 6,12-19"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 6,12-19",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus foi à montanha para rezar e passou a noite toda em oração a Deus. Quando amanheceu, chamou seus discípulos e escolheu doze dentre eles, aos quais deu o nome de apóstolos: Simão, a quem impôs o nome de Pedro, e seu irmão André; Tiago e João; Filipe e Bartolomeu; Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelota; Judas, filho de Tiago, e Judas Iscariotes, que se tornou traidor.\n\nJesus desceu da montanha com eles e parou num lugar plano. Ali se encontravam muitos dos seus discípulos e grande multidão de gente de toda a Judeia, de Jerusalém e do litoral de Tiro e Sidônia. Tinham vindo para ouvi-lo e serem curados de suas doenças. Também eram curados os que estavam atormentados por espíritos impuros. E toda a multidão procurava tocá-lo, porque saía dele uma força que curava a todos."
+    },
+    "reflexao": [
+      "Lucas faz questão de dizer que a escolha dos doze veio depois de uma noite inteira de oração, de modo que o chamado dos apóstolos nasce da conversa do Filho com o Pai, antes de qualquer mérito dos escolhidos. O homem foi criado para ser chamado pelo nome, e aquela manhã na montanha mostra a origem de toda vocação: Deus se dirige a alguém com amor e passa a contar com ele.",
+      "Ser chamado, porém, não põe ninguém a salvo de si mesmo, e a lista termina com Judas Iscariotes, “que se tornou traidor”. O verbo indica um caminho percorrido, pois a liberdade ferida pelo pecado continua inteira nos escolhidos, e a traição de um dos doze mostra que se pode estar muito perto de Jesus e ainda assim recusar o que Ele oferece. Diante dele, os dois nomes que a Igreja celebra hoje, Simão, chamado Zelota, e Judas, filho de Tiago, a quem a tradição também chama de Tadeu, mostram o caminho oposto, o dos que permaneceram até o fim. Os Evangelhos dizem pouco sobre eles, e João guarda apenas uma pergunta de Judas na última ceia, quando, distinguido do Iscariotes, quer saber por que Jesus se manifestará aos discípulos e não ao mundo.",
+      "A Igreja guardou com carinho o que veio depois: os dois apóstolos anunciaram juntos o Evangelho na Pérsia e ali deram a vida por Cristo, e é por isso que a liturgia os celebra no mesmo dia. A tradição lembra que Simão foi serrado ao meio e que Judas morreu a golpes de clava ou de machado, e daí vêm a serra e a clava que a arte cristã põe em suas mãos. O que importa a quem os venera é que ambos selaram com o sangue o testemunho que haviam recebido do Senhor, e que suas relíquias repousam hoje na Basílica de São Pedro.",
+      "Esse sangue tem lugar na construção de que fala a carta aos Efésios, quando Paulo diz que já não somos estrangeiros nem hóspedes, mas membros da família de Deus, edificados sobre o fundamento dos apóstolos, tendo o próprio Cristo como pedra angular. Um fundamento fica debaixo da terra, onde ninguém o vê, e Simão e Judas ficaram assim na memória dos Evangelhos, quase escondidos, sustentando o que se levantou depois. Tertuliano resumiu o que isso significa na história da Igreja ao escrever que o sangue dos mártires é semente de cristãos, e a mostarda e o fermento de ontem ganham aqui o seu reverso mais duro, pois a semente que cai e morre é a mesma que faz crescer a casa.",
+      "A força que sustentou esses dois até a morte é a mesma que os doze viram agir ao pé da montanha, onde Jesus desceu com eles a um lugar plano e a multidão procurava tocá-lo, porque dele saía uma força que curava a todos. A oração da noite se faz missão ao amanhecer, e a missão desce até onde estão os doentes e os atormentados, antes de chegar aos confins que o salmo canta ao dizer que o som dos céus percorre a terra e as palavras chegam aos limites do mundo. Quem foi tocado por essa força e a levou adiante, como os apóstolos, aprendeu que ela vale mais do que a própria vida.",
+      "Se a escolha dos doze veio de uma noite de oração, e se dois deles a levaram até o martírio, a decisão que tenho adiado ou tomado às pressas talvez peça a mesma ordem, na qual se reza primeiro e se resolve depois, sem poupar a vida no que o Senhor me pedir. Hoje, que eu leve a Deus uma escolha que me pesa antes de decidi-la, e que depois desça ao plano, onde alguém espera de mim uma ajuda concreta, ainda que ninguém venha a saber que fui eu."
+    ],
+    "oracao": [
+      "Pai, Tu quiseste que a tua Igreja fosse edificada sobre os apóstolos, escolhidos pelo teu Filho depois de uma noite de oração. Obrigado por me chamares também pelo nome.",
+      "Perdoa-me quando decidi sem Te consultar e quando estive perto de Ti sem Te acolher. Cura em mim a liberdade que se volta contra o teu amor, e dá-me a fidelidade que não recua diante do custo.",
+      "Por intercessão de São Simão e São Judas, que deram a vida pelo teu Filho, faze de mim pedra escondida e firme na construção da tua Igreja. Que a minha oração me conduza ao plano, onde os que sofrem procuram tocar o teu Filho, e que a tua força passe por mim para curar quem encontrar."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-10-28.jpg"
+  },
+  {
+    "data": "2026-10-29",
+    "tempo": "30ª Semana do Tempo Comum — Ano II",
+    "titulo": "Debaixo das suas asas",
+    "frase": "O homem foi feito para viver abrigado.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Efésios 6,10-20"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 143(144),1.2.9-10 (R. 1a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 13,31-35"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 13,31-35",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, alguns fariseus aproximaram-se de Jesus e disseram: “Vai-te embora daqui, porque Herodes quer te matar”. Jesus respondeu: “Ide dizer a essa raposa: Hoje e amanhã expulso demônios e faço curas, e no terceiro dia terminarei a minha obra. Mas é preciso que eu caminhe hoje, amanhã e depois de amanhã, pois não convém que um profeta morra fora de Jerusalém.\n\nJerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados! Quantas vezes quis reunir os teus filhos, como a galinha reúne os seus pintinhos debaixo das asas, e vós não o quisestes! Eis que a vossa casa ficará abandonada. Eu vos digo que não me vereis, até que chegue o tempo em que direis: Bendito o que vem em nome do Senhor!”"
+    },
+    "reflexao": [
+      "Jesus sabe que Herodes quer matá-lo e, em vez de mudar de rota, responde que continuará a expulsar demônios e a curar hoje e amanhã, e que no terceiro dia chegará ao termo, que fica em Jerusalém. Ele caminha para lá porque deseja reunir o povo, e a imagem que usa diz o que Deus quis do homem desde a criação, a de uma galinha que junta os pintinhos debaixo das asas, de modo que o homem foi feito para viver abrigado.",
+      "O pecado aparece na frase seguinte, “e vós não o quisestes”, e é a recusa desse abrigo por quem prefere confiar nas próprias muralhas. Jerusalém mata os profetas que lhe são enviados porque a voz deles lembra que a cidade precisa de proteção, e quem se acha seguro sozinho não suporta ouvir isso. A casa que Jesus diz que ficará abandonada é a de quem fechou a porta ao único que podia guardá-la.",
+      "A carta aos Efésios também fala de defesa, mas muda o lugar do abrigo ao mandar que os cristãos se revistam da armadura de Deus, já que a luta não é contra homens de carne e osso, e sim contra forças que nenhuma muralha humana detém. As peças que Paulo enumera, a verdade, a justiça, o zelo pelo Evangelho da paz, a fé, a salvação e a Palavra de Deus, são dons de Cristo, e é em Jerusalém que Ele os conquista, dizendo a verdade, sofrendo a injustiça e fazendo a paz pela cruz.",
+      "O salmo confirma que quem protege é o mesmo que treina, porque nele a voz que diz “bendito seja o Senhor, meu rochedo” acrescenta que é Ele quem adestra as minhas mãos para o combate. A luta do cristão se faz, portanto, de dentro do abrigo, e Paulo termina a passagem pedindo oração, a que se reza em todo tempo, e pedindo ainda que lhe seja dada a palavra para anunciar o Evangelho com ousadia, como quem sabe que o armado também depende de quem reza por ele.",
+      "Isso me leva a perguntar em quais defesas próprias ando confiando e onde estou dizendo a Jesus o “não quisestes”, seja no ressentimento que guardo, na ironia com que me protejo ou no silêncio que uso para não me expor. Hoje, diante da primeira situação em que eu costumo me defender sozinho, que eu pare antes de reagir, reze com simplicidade e diga ao Senhor que desta vez quero ser reunido debaixo das suas asas."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu caminhaste para Jerusalém sabendo o que te esperava, porque querias reunir os teus filhos. Obrigado pelo abrigo das tuas asas.",
+      "Perdoa-me as vezes em que Te disse que não quis, e a confiança que depositei em muralhas feitas por mim. Cura em mim o orgulho de quem prefere defender-se sozinho.",
+      "Reveste-me da tua armadura, de verdade, de justiça, de paz, de fé e de salvação, e ensina-me a rezar em todo tempo. Sê Tu o meu rochedo, para que, abrigado em Ti, eu enfrente com coragem o que me for pedido."
+    ],
+    "minutos": 4,
+    "imagem": "assets/2026-10-29.jpg"
+  },
+  {
+    "data": "2026-10-30",
+    "tempo": "30ª Semana do Tempo Comum — Ano II",
+    "titulo": "É permitido curar em dia de sábado?",
+    "frase": "O amor de Deus antecede a explicação.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Filipenses 1,1-11"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 110(111),1-2.3-4.5-6 (R. 2a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 14,1-6"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 14,1-6",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Aconteceu que Jesus entrou, num sábado, na casa de um dos chefes dos fariseus, para uma refeição. E eles o observavam. Diante dele estava um hidrópico. Jesus perguntou aos doutores da Lei e aos fariseus: “É permitido ou não curar em dia de sábado?” Eles ficaram calados. Então Jesus pegou o homem, curou-o e mandou-o embora.\n\nE disse-lhes: “Se um de vós tem um filho ou um boi que caiu num poço, não o tirará logo, mesmo em dia de sábado?” E eles não foram capazes de responder a isso."
+    },
+    "reflexao": [
+      "Jesus entra numa casa para uma refeição e Lucas nota que os presentes o observavam, enquanto diante dele está um homem com o corpo inchado pela doença. A mesa que devia reunir pessoas serve de palco, e o doente é posto à vista como quem apresenta um caso. O homem foi criado para ser olhado com amor, e a cena mostra quão fácil é olhar alguém só como pretexto.",
+      "A pergunta de Jesus, se é permitido curar em dia de sábado, recebe como resposta um silêncio, e o silêncio dessa gente tem uma razão que o pecado conhece bem: eles sabem o que responder e, se o disserem, terão de mudar. O mesmo vale para o fim da cena, em que, diante do argumento do filho ou do boi caído no poço, não conseguem responder. Quem observa para julgar e se cala para não ceder acaba ocupando a casa com o doente à frente e a obra de Deus parada.",
+      "Jesus não discute primeiro, pois pega o homem, cura-o e o manda embora, e só depois apresenta a razão. A ordem importa, porque o amor de Deus antecede a explicação, e o doente recebe a cura antes de qualquer defesa da cura. É um gesto de quem pega alguém caído pelas mãos, como Deus faz com o homem que se perdeu.",
+      "Esse gesto é o começo de uma obra que Paulo menciona na carta aos Filipenses, ao dizer que tem a certeza de que aquele que começou a boa obra nos fiéis a levará à perfeição até o dia de Cristo. A cura no sábado é uma dessas obras, iniciada e levada até o fim naquele homem, e o salmo dá a razão dela ao dizer que o Senhor é misericordioso e compassivo e que as suas obras são grandes, de modo que a lei do sábado não é desfeita por Jesus, mas cumprida na compaixão para a qual foi dada.",
+      "Paulo pede ainda que o amor dos filipenses cresça em conhecimento e em toda a sensibilidade, para que saibam discernir o que é melhor, e é justamente o que faltava aos fariseus daquela mesa, que tinham muito conhecimento e pouco discernimento. A pergunta que me cabe é onde estou apenas observando alguém que sofre perto de mim, em casa, no trabalho ou na comunidade, e usando o silêncio ou a prudência como motivo para não agir. Hoje, que eu responda com um gesto concreto a uma necessidade que já está diante de mim e que peça ao Senhor, que começou em mim a boa obra, a coragem para completá-la."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu pegaste o doente pela mão e o curaste antes de qualquer discussão. Obrigado por não esperares que eu seja digno para me levantares.",
+      "Perdoa-me o olhar que observa sem se comover e o silêncio que escolho para não mudar. Cura em mim a falta de discernimento e dá-me um amor que cresça em conhecimento e em sensibilidade.",
+      "Leva à perfeição a boa obra que começaste em mim, até o dia da tua vinda. Que eu veja o irmão que sofre à minha mesa e faça por ele o que o teu amor me pede, sem esperar licença do calendário."
+    ],
+    "minutos": 3,
+    "imagem": "assets/2026-10-30.jpg"
   }
 ];
 
