@@ -1709,6 +1709,145 @@ window.REFLEXOES = [
     ],
     "minutos": 3,
     "imagem": "assets/2026-10-30.jpg"
+  },
+  {
+    "data": "2026-10-31",
+    "tempo": "30ª Semana do Tempo Comum — Ano II",
+    "titulo": "Amigo, vem mais para cima",
+    "frase": "O último lugar foi ocupado primeiro por Cristo.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Filipenses 1,18b-26"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 41(42),2.3.5bcd (R. 3a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 14,1.7-11"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 14,1.7-11",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Aconteceu que Jesus entrou, num sábado, na casa de um dos chefes dos fariseus, para uma refeição. E eles o observavam. Jesus notou como os convidados escolhiam os primeiros lugares e contou-lhes uma parábola: “Quando alguém te convidar para uma festa de casamento, não ocupes o primeiro lugar. Pode ser que tenha sido convidado alguém mais digno do que tu. E aquele que convidou a ti e a ele venha dizer-te: ‘Dá o lugar a este’. Então, ficarás envergonhado e irás ocupar o último lugar.\n\nPelo contrário, quando fores convidado, vai sentar-te no último lugar. Assim, quando chegar quem te convidou, dirá: ‘Amigo, vem mais para cima’. Então ficarás honrado diante de todos os convidados. Pois quem se exalta será humilhado, e quem se humilha será exaltado”."
+    },
+    "reflexao": [
+      "Lucas faz questão de dizer que Jesus observou como os convidados escolhiam os primeiros lugares. Essa observação merece atenção, porque a disputa pela cabeceira da mesa, embora pareça apenas uma questão de etiqueta, revela algo profundo sobre o coração humano.",
+      "O homem foi criado para ter um lugar junto de Deus, um lugar onde ninguém possa dizer que ele não pertence. A pressa de ocupar os lugares mais altos nasce dessa verdadeira vocação, mas acaba sendo procurada no lugar errado.",
+      "Quando buscamos esse reconhecimento entre as pessoas, ele se transforma em disputa. O primeiro lugar só existe enquanto alguém permanece atrás. O pecado nos ensinou a medir o nosso valor pela comparação, como se, para sermos maiores, fosse necessário que o outro valesse menos.",
+      "Por isso, o conselho de Jesus para que alguém se sente no último lugar parece, à primeira vista, uma simples regra de boa educação. Na verdade, Ele está desmontando essa lógica. Quem não depende de ser visto como o maior fica livre para ocupar qualquer lugar. A frase final da parábola — “quem se humilha será exaltado” — está no passivo porque a verdadeira exaltação vem de Deus. Só Ele pode dar um lugar que não se perde.",
+      "Paulo é um exemplo de quem compreendeu isso. Mesmo escrevendo aos filipenses da prisão, sem qualquer posição de honra, ele afirma que, para ele, viver é Cristo e morrer é lucro. Encontra-se dividido entre permanecer neste mundo para servir aos irmãos e partir para estar com Cristo. Quem tem Cristo como sua vida já não precisa de uma cadeira de destaque para saber quanto vale. Por isso Paulo consegue falar da própria morte com tanta serenidade.",
+      "A origem dessa liberdade aparece na mesma carta, quando Paulo recorda que Cristo, sendo de condição divina, esvaziou-se, assumiu a condição de servo e humilhou-se até a morte, e morte de cruz. Por isso, Deus o exaltou. Jesus foi o primeiro a ocupar o último lugar. Quando nos convida a fazer o mesmo, está nos chamando a seguir os seus passos. A honra verdadeira não é conquistada diante dos homens; é recebida das mãos do Pai.",
+      "A sede que nos leva a disputar os primeiros lugares é, no fundo, a mesma sede expressa pelo salmista: “A minha alma tem sede de Deus, do Deus vivo; quando verei a face de Deus?” Aquilo que a vaidade procura nos olhares das pessoas, somente Deus pode oferecer. Quando encontramos o seu olhar, já não precisamos viver olhando para os lados.",
+      "Por isso, se existe algum ambiente, no trabalho, na família ou na comunidade, em que costumo disputar espaço, posso perguntar: de que olhar estou à procura? Por que preciso tanto ser reconhecido justamente ali?",
+      "Hoje, posso escolher uma situação em que normalmente tento aparecer e, de modo consciente, ceder o primeiro lugar. Posso oferecer esse gesto a Deus como um pequeno passo de confiança, lembrando que o meu lugar já está guardado junto dele."
+    ],
+    "oracao": [
+      "Pai, Tu me criaste para estar junto de Ti, e eu tantas vezes te procurei em outros lugares. Obrigado porque o meu valor foi dado por Ti, antes de qualquer merecimento meu.",
+      "Perdoa-me a vaidade com que disputei os primeiros lugares e a necessidade de ser maior para sentir-me seguro. Cura em mim a sede mal dirigida e dá-me a sede do teu rosto.",
+      "Faze-me seguir teu Filho, que se esvaziou e ocupou o último lugar por mim. E, quando chegar a hora, que eu ouça de Ti o convite de subir para mais perto."
+    ],
+    "minutos": 4,
+    "imagem": "assets/2026-10-31.jpg"
+  },
+  {
+    "data": "2026-11-01",
+    "tempo": "31ª Semana do Tempo Comum — Ano A",
+    "memoria": "Todos os Santos — Solenidade",
+    "titulo": "Bem-aventurados",
+    "frase": "A santidade que celebramos foi vivida por gente comum.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 7,2-4.9-14"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 23(24),1-2.3-4ab.5-6 (R. cf. 6)"
+      },
+      {
+        "rotulo": "Segunda leitura",
+        "ref": "1 João 3,1-3"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Mateus 5,1-12a"
+      }
+    ],
+    "evangelho": {
+      "ref": "Mt 5,1-12a",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Mateus",
+      "texto": "Naquele tempo, vendo Jesus as multidões, subiu à montanha e sentou-se. Os discípulos aproximaram-se, e Jesus começou a ensiná-los:\n\n“Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus.\n\nBem-aventurados os aflitos, porque serão consolados.\n\nBem-aventurados os mansos, porque possuirão a terra.\n\nBem-aventurados os que têm fome e sede de justiça, porque serão saciados.\n\nBem-aventurados os misericordiosos, porque alcançarão misericórdia.\n\nBem-aventurados os puros de coração, porque verão a Deus.\n\nBem-aventurados os que promovem a paz, porque serão chamados filhos de Deus.\n\nBem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus.\n\nBem-aventurados sois vós quando vos insultarem e perseguirem e, por minha causa, disserem todo tipo de calúnia contra vós. Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus”."
+    },
+    "reflexao": [
+      "Jesus sobe à montanha, senta-se e começa a ensinar. Suas palavras respondem à pergunta que todo ser humano carrega: onde está a verdadeira felicidade? “Bem-aventurado” significa feliz. Ao iniciar seu ensinamento com essa palavra, o Senhor confirma que fomos criados para a felicidade, uma felicidade cuja promessa maior aparece no fim: ver a Deus. Por isso a Igreja propõe este texto na solenidade de Todos os Santos: os santos são os que encontraram essa felicidade e já a possuem, e as bem-aventuranças descrevem o rosto deles.",
+      "O problema é que muitas vezes procuramos essa felicidade justamente nos lugares que as bem-aventuranças apresentam como carência. O pecado nos convenceu de que seríamos felizes se fôssemos ricos, protegidos, vencedores e temidos. Mas a experiência mostra o contrário: quem apoia a vida nessas coisas vive com medo de perdê-las. Cada bem-aventurança aponta para uma situação que o mundo costuma considerar fracasso (a pobreza, o choro, a mansidão, a perseguição) e revela que Deus está próximo justamente ali.",
+      "As bem-aventuranças não são um programa que devemos cumprir apenas com esforço e força de vontade. O primeiro a vivê-las foi o próprio Cristo: nasceu pobre, foi manso e misericordioso, e morreu perseguido. O homem que se senta na montanha é também aquele que o salmo procura, quando pergunta: “Quem subirá à montanha do Senhor?” A resposta é: aquele que tem mãos puras e coração limpo. Ninguém chega lá por mérito próprio. Jesus sobe primeiro e conduz consigo todos os que desejam segui-lo.",
+      "Esse caminho de elevação aparece também na Primeira Carta de João, numa frase cheia de admiração: “Vede que grande presente de amor o Pai nos deu: sermos chamados filhos de Deus. E nós o somos!” João acrescenta que ainda não se manifestou plenamente o que seremos, mas sabemos que, quando Cristo aparecer, seremos semelhantes a Ele, porque o veremos como Ele é. Os santos são aqueles que se deixaram transformar à imagem de Cristo. Neles se realiza, de modo especial, a promessa feita aos puros de coração.",
+      "A primeira leitura nos mostra essa realização. O Apocalipse apresenta primeiro os servos de Deus marcados na fronte com o selo do Deus vivo, sinal que a tradição cristã relaciona ao Batismo. Depois vem a visão de uma multidão incontável, formada por pessoas de todas as nações, tribos, povos e línguas, em pé diante do trono, vestidas de branco e lavadas no sangue do Cordeiro. A solenidade de Todos os Santos celebra todos eles.",
+      "É significativo que suas vestes tenham sido lavadas no sangue do Cordeiro. Eles não se tornaram santos sozinhos, nem alcançaram a pureza apenas pelas próprias forças. Foram purificados pela graça de Cristo e permaneceram fiéis no meio das provações. A grande tribulação da qual vieram recorda também a perseguição anunciada na oitava bem-aventurança.",
+      "Essa multidão é muito maior do que a lista de santos que a Igreja conhece pelo nome. Ao canonizar alguém, a Igreja declara com segurança que aquela pessoa vive junto de Deus e a propõe a todos como modelo e intercessora. Mas os nomes proclamados são uma parte pequena. A maioria dos que estão no convívio dos eleitos nunca teve o nome reconhecido em altar algum, e neste dia a Igreja se lembra deles de modo especial, porque os santos canonizados têm o seu dia no calendário e esses não têm. Entre eles pode haver gente que conhecemos, como uma avó que rezava o terço todos os dias ou um vizinho que cuidava em silêncio de quem estava só. Ninguém os canonizou, e Deus conhece cada um pelo nome.",
+      "Celebrar a solenidade de Todos os Santos é professar o que rezamos no Credo: a comunhão dos santos. A Igreja é uma só família, que une os que ainda caminham na terra e os que já veem a Deus, e entre eles circula uma ajuda constante. Os santos do céu não deixaram de nos amar: intercedem por nós e, com a própria vida, mostram que o que Jesus ensinou na montanha pode ser vivido por gente de carne e osso. O Concílio Vaticano II lembrou que todos os fiéis, de qualquer condição, são chamados à santidade.",
+      "Agora, resta perguntar: qual dessas bem-aventuranças o Senhor me chama a viver neste momento? Em que situação concreta, em casa ou no trabalho, ser manso, misericordioso ou promotor da paz me custa mais? Por que continuo adiando esse passo?",
+      "Hoje, posso escolher uma bem-aventurança e praticá-la por meio de um gesto concreto. Posso pedir a intercessão dos santos, conhecidos e desconhecidos, para conseguir começar. Afinal, a santidade que celebramos hoje foi vivida por pessoas comuns, em casas, famílias e trabalhos tão semelhantes aos nossos."
+    ],
+    "oracao": [
+      "Pai, Tu me criaste para ver a tua face e me chamas teu filho. Obrigado pelo teu Filho, que subiu à montanha e abriu para nós o caminho da felicidade, e pelos santos, que me mostram que esse caminho pode ser percorrido.",
+      "Perdoa-me por ter buscado a felicidade em lugares que não a dão. Cura em mim o medo de ser pobre, manso e misericordioso, e faze-me confiar que ali está a tua presença.",
+      "Por intercessão de todos os santos, os que conheço e os que só Tu conheces, faze-me semelhante ao teu Filho. E, quando chegar a minha hora, que eu me una à multidão de vestes brancas que Te louva diante do trono."
+    ],
+    "minutos": 6,
+    "imagem": "assets/2026-11-01.jpg"
+  },
+  {
+    "data": "2026-11-02",
+    "tempo": "Comemoração de Todos os Fiéis Defuntos — Ano A",
+    "titulo": "Com a lâmpada acesa",
+    "frase": "A morte não tem a última palavra sobre os que Ele ama.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Jó 19,1.23-27a"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 23(24),1-2.3-4ab.5-6 (R. cf. 6)"
+      },
+      {
+        "rotulo": "Segunda leitura",
+        "ref": "1 Coríntios 15,20-24a.25-28"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 12,35-40"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 12,35-40",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, disse Jesus aos seus discípulos: “Estejam cingidos os vossos rins e acesas as vossas lâmpadas. Sede como homens que esperam o seu senhor, que volta de uma festa de casamento, para abrir-lhe logo que chegar e bater à porta. Felizes os empregados que o senhor encontrar acordados quando chegar! Em verdade vos digo, ele mesmo vai cingir-se, fazê-los sentar à mesa e passar para servi-los. Se ele chegar à meia-noite ou de madrugada e os encontrar assim, felizes serão eles!\n\nSabei isto: se o dono da casa soubesse a que hora viria o ladrão, não deixaria arrombar a sua casa. Estai também vós preparados! Porque o Filho do Homem virá na hora em que menos esperardes”."
+    },
+    "reflexao": [
+      "Jesus fala de empregados que esperam o senhor com as lâmpadas acesas, porque não sabem a que hora ele vai chegar. A hora que quase todos nós ignoramos é a da morte. O homem foi criado para a vida, e talvez seja por isso que a morte lhe pareça tão estranha, como algo que não deveria existir. A inquietação que sentimos diante dela revela que fomos feitos para não acabar. Hoje a Igreja celebra a Comemoração de Todos os Fiéis Defuntos, o dia de Finados, e essa inquietação ganha o rosto de cada pessoa que perdemos.",
+      "Paulo explica essa estranheza na Carta aos Coríntios, quando diz que, por meio de um homem, veio a morte, e que, em Adão, todos morrem. A morte entrou na história por causa do pecado. Viver como se o dono da casa nunca fosse voltar, ou simplesmente evitar pensar nesse assunto, é uma das formas de nos acostumarmos com ela. A imagem do ladrão que chega sem avisar confirma aquilo que a experiência nos ensina: ninguém sabe o dia nem a hora.",
+      "Jó, na primeira leitura, mostra como é possível esperar com a lâmpada acesa mesmo quando tudo parece perdido. Desfeito e abandonado pelos amigos, ele pede que suas palavras sejam gravadas na rocha para sempre. Então declara que sabe que o seu redentor está vivo e que, na sua própria carne, verá a Deus. A esperança de Jó ainda não tem um rosto claramente revelado. Ele a pronuncia voltado para um futuro que ainda não consegue enxergar, como o empregado que vigia a porta durante a madrugada.",
+      "Aquilo que Jó apenas pressentiu, Paulo anuncia como realidade: Cristo ressuscitou dos mortos, como primícias dos que adormeceram. Assim como em Adão todos morrem, em Cristo todos serão vivificados. As primícias são o começo de uma colheita que ainda está por vir. A ressurreição de Jesus é a garantia de que também ressuscitarão aqueles que morreram unidos a Ele, até que o último inimigo, a morte, seja destruído e Deus seja tudo em todos.",
+      "Por isso, quando o senhor da parábola volta, ele se cinge, manda os empregados se sentarem à mesa e começa a servi-los. A espera termina num banquete em que o próprio dono da casa se coloca a serviço dos que permaneceram vigilantes.",
+      "Entre esses que esperam estão também os nossos mortos, e é por eles que a Igreja reserva a Comemoração de Todos os Fiéis Defuntos à oração. O salmo da liturgia pergunta: “Quem subirá à montanha do Senhor?” Os que morreram na graça e na amizade de Deus caminham para lá, e a Igreja ensina que quem ainda não está plenamente purificado passa por uma purificação antes de entrar na alegria do céu. Esse estado é o que chamamos de purgatório, e os que estão nele já têm a salvação garantida.",
+      "A oração pelos falecidos se apoia na comunhão da Igreja, que a morte não rompe. A Igreja a pratica desde os primeiros tempos, e o Segundo Livro dos Macabeus já chama de santo e piedoso o pensamento de rezar por eles. Oferecemos por eles Missas, orações e esmolas, confiando que o amor de Deus complete neles a obra que começou.",
+      "Essa passagem me coloca diante de duas perguntas: uma sobre aqueles que partiram e outra sobre mim. Por qual falecido da minha família ou do meu convívio ainda não rezei pelo nome? E o que eu continuaria adiando se soubesse que o Senhor viria esta noite?",
+      "Hoje, posso oferecer uma Missa ou uma oração por uma pessoa falecida em particular. Se for possível, posso visitar o seu túmulo. Também posso dar um passo em direção à reconciliação ou procurar a confissão que venho deixando para depois. Quem decide viver assim já começa a manter a lâmpada acesa."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu ressuscitaste dentre os mortos como primícias dos que adormeceram. Obrigado porque a morte não tem a última palavra sobre os que Tu amas.",
+      "Perdoa-me o descuido com que vivo, como se a tua vinda fosse distante, e a pressa com que esqueço os que já partiram. Cura em mim o medo de pensar na minha própria morte e dá-me uma lâmpada sempre acesa.",
+      "Recebe na tua paz os meus pais, parentes, amigos e todos os que morreram na esperança da ressurreição, e de modo especial aqueles de quem ninguém se lembra. Purifica neles o que ainda precisa ser purificado, até que subam à tua montanha. E que um dia eu me sente com eles à mesa onde Tu mesmo nos servirás."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-02.jpg"
   }
 ];
 
