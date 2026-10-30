@@ -1804,7 +1804,8 @@ window.REFLEXOES = [
   },
   {
     "data": "2026-11-02",
-    "tempo": "Comemoração de Todos os Fiéis Defuntos — Ano A",
+    "tempo": "31ª Semana do Tempo Comum — Ano A",
+    "memoria": "Comemoração de Todos os Fiéis Defuntos",
     "titulo": "Com a lâmpada acesa",
     "frase": "A morte não tem a última palavra sobre os que Ele ama.",
     "leituras": [
