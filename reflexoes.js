@@ -1757,6 +1757,7 @@ window.REFLEXOES = [
     "data": "2026-11-01",
     "tempo": "31ª Semana do Tempo Comum — Ano A",
     "memoria": "Todos os Santos — Solenidade",
+    "cor": "#f3efe8",
     "titulo": "Bem-aventurados",
     "frase": "A santidade que celebramos foi vivida por gente comum.",
     "leituras": [
@@ -1806,6 +1807,7 @@ window.REFLEXOES = [
     "data": "2026-11-02",
     "tempo": "31ª Semana do Tempo Comum — Ano A",
     "memoria": "Comemoração de Todos os Fiéis Defuntos",
+    "cor": "oklch(0.6 0.15 305)",
     "titulo": "Com a lâmpada acesa",
     "frase": "A morte não tem a última palavra sobre os que Ele ama.",
     "leituras": [
@@ -1878,7 +1880,8 @@ window.IA = (function () {
       href: (local ? pagReflexao + "?d=" + r.data : r.data + ".html") + (new URLSearchParams(location.search).get("hoje") ? "&hoje=" + new URLSearchParams(location.search).get("hoje") : ""),
       oracao: r.oracao.map(t => ({ t })),
       temEvangelho: !!(r.evangelho && r.evangelho.texto),
-      bg: "url('" + r.imagem + "')"
+      bg: "url('" + r.imagem + "')",
+      cor: r.cor || "oklch(0.55 0.1 145)"
     });
   }
   function hojeLonga() { const d = parse(hoje()); return DIAS[d.getDay()] + ", " + d.getDate() + " de " + MESES[d.getMonth()] + " de " + d.getFullYear(); }
