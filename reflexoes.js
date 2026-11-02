@@ -1757,7 +1757,6 @@ window.REFLEXOES = [
     "data": "2026-11-01",
     "tempo": "31ª Semana do Tempo Comum — Ano A",
     "memoria": "Todos os Santos — Solenidade",
-    "cor": "#f3efe8",
     "titulo": "Bem-aventurados",
     "frase": "A santidade que celebramos foi vivida por gente comum.",
     "leituras": [
@@ -1807,7 +1806,6 @@ window.REFLEXOES = [
     "data": "2026-11-02",
     "tempo": "31ª Semana do Tempo Comum — Ano A",
     "memoria": "Comemoração de Todos os Fiéis Defuntos",
-    "cor": "oklch(0.6 0.15 305)",
     "titulo": "Com a lâmpada acesa",
     "frase": "A morte não tem a última palavra sobre os que Ele ama.",
     "leituras": [
@@ -1851,6 +1849,179 @@ window.REFLEXOES = [
     ],
     "minutos": 5,
     "imagem": "assets/2026-11-02.jpg"
+  },
+  {
+    "data": "2026-11-03",
+    "tempo": "31ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Vinde, tudo está pronto!",
+    "frase": "Antes de qualquer mérito nosso, a mesa já está posta.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Filipenses 2,5-11"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 21(22),26b-27.28-30a.31-32 (R. 26a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 14,15-24"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 14,15-24",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, um dos que estavam à mesa com Jesus disse-lhe: “Feliz aquele que tomar parte no banquete do Reino de Deus!” Jesus respondeu: “Certo homem deu uma grande ceia e convidou muita gente. Na hora da ceia, mandou seu empregado dizer aos convidados: ‘Vinde, tudo está pronto!’ Mas todos, sem exceção, começaram a pedir desculpas. O primeiro disse: ‘Comprei um campo e preciso ir vê-lo; peço-te que me desculpes’. Outro disse: ‘Comprei cinco juntas de bois e vou experimentá-las; peço-te que me desculpes’. Um terceiro disse: ‘Acabo de me casar, e por isso não posso ir’.\n\nO empregado voltou e contou tudo ao seu senhor. Então o dono da casa ficou irado e disse ao empregado: ‘Sai depressa pelas praças e ruas da cidade e traze para cá os pobres, os aleijados, os cegos e os coxos’. Em seguida, o empregado disse: ‘Senhor, o que mandaste fazer já foi feito, e ainda há lugar’. O senhor respondeu ao empregado: ‘Sai pelos caminhos e pelas cercas e obriga todos a entrar, para que a minha casa fique cheia. Pois eu vos digo: nenhum daqueles que foram convidados provará da minha ceia’”."
+    },
+    "reflexao": [
+      "Um dos convidados exclama: “Feliz aquele que tomar parte no banquete do Reino de Deus!”, e Jesus responde com uma parábola em que o banquete já está servido. O convidado fala de uma felicidade futura, e o dono da casa manda dizer, no presente: “Vinde, tudo está pronto!” Deus criou o homem para a comunhão com Ele, e a Escritura costuma descrever essa comunhão como uma mesa. Antes de qualquer mérito nosso, a mesa já está posta.",
+      "Então começam as desculpas, e vale reparar no que elas dizem. Um comprou um campo, outro comprou bois, outro acabou de se casar, e nenhuma dessas coisas é má. O pecado muitas vezes se apresenta com cara de ocupação: coisas boas que, aos poucos, passam à frente do essencial. Quem vive assim raramente recusa o convite de forma aberta, só pede que o deixem para depois, e a vida vai se enchendo de compromissos que parecem sempre mais urgentes que a mesa.",
+      "O dono da casa fica irado, mas não cancela a festa. Manda o empregado às praças e ruas da cidade buscar os pobres, os aleijados, os cegos e os coxos, e depois aos caminhos e às cercas, até que a casa fique cheia. Assim age a graça: o convite passa a quem ninguém tinha pensado em convidar, e quem o aceita entra e se senta, ainda que nunca tenha tido título algum para isso.",
+      "Esse movimento de sair da sala e ir ao encontro dos que estão fora tem um modelo na carta aos Filipenses, onde Paulo canta que Cristo, existindo em condição divina, esvaziou-se, assumiu a condição de servo e se humilhou até a morte de cruz. Para nos convidar, o próprio Filho foi buscar os pobres, os cegos e os coxos que somos, e o convite lhe custou a cruz.",
+      "O salmo da liturgia, o mesmo cujo primeiro verso Jesus pronuncia na cruz, termina com a promessa dessa mesa: os pobres comerão e ficarão saciados, e o coração dos que procuram o Senhor viverá para sempre. A Igreja reconhece essa mesa na Eucaristia, onde o Cristo que se humilhou até a cruz se dá como alimento a quem chega das praças e dos caminhos.",
+      "Agora, resta perguntar: qual é o meu campo ou a minha junta de bois, isto é, a ocupação boa que venho colocando à frente do convite? Em que momentos da semana digo a Deus “peço-te que me desculpes”?",
+      "Hoje, posso reservar um horário certo para o Senhor, uma oração, a Missa, uma visita ao Santíssimo, e tratá-lo como um compromisso que não se adia. Posso também pensar em alguém que ninguém convida, um vizinho sozinho, um colega que sempre fica de fora, e chamá-lo para uma conversa, uma refeição ou a Missa de domingo."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu deixaste a sala do banquete para me buscar nas ruas e me sentaste à tua mesa sem que eu tivesse título algum. Obrigado porque tudo está pronto e ainda há lugar.",
+      "Perdoa-me as desculpas que dei ao teu convite e as boas ocupações que coloquei diante de Ti. Cura em mim a pressa que adia a oração e o serviço.",
+      "Faze-me sair de mim para convidar os que ninguém convida, e dá-me, no fim, o lugar à mesa do teu Reino, onde os pobres comerão e ficarão saciados."
+    ],
+    "minutos": 4,
+    "imagem": "assets/2026-11-03.jpg"
+  },
+  {
+    "data": "2026-11-04",
+    "tempo": "31ª Semana do Tempo Comum",
+    "memoria": "São Carlos Borromeu, bispo — Memória",
+    "cor": "Branco",
+    "titulo": "Sentar-se e calcular",
+    "frase": "O discípulo constrói a torre, mas quem fornece o material é Deus.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Filipenses 2,12-18"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 26(27),1.4.13-14 (R. 1a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 14,25-33"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 14,25-33",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, grandes multidões acompanhavam Jesus. Ele voltou-se e disse: “Se alguém vem a mim, e não odeia seu pai, sua mãe, sua esposa, seus filhos, seus irmãos e irmãs, e até a própria vida, não pode ser meu discípulo. Quem não carrega a sua cruz e não vem após mim, não pode ser meu discípulo.\n\nCom efeito, se alguém de vós quer construir uma torre, não se senta primeiro para calcular os gastos, para ver se tem o suficiente para terminá-la? Para que não aconteça que, depois de ter lançado os alicerces, ele não consiga acabá-la, e todos os que virem isso comecem a zombar, dizendo: ‘Este homem começou a construir e não foi capaz de acabar!’ Ou, qual o rei que, ao sair para guerrear contra outro rei, não se senta primeiro e examina se com dez mil homens poderá enfrentar o outro que marcha contra ele com vinte mil? Se não for capaz, enquanto o outro ainda está longe, envia mensageiros para negociar as condições de paz.\n\nDo mesmo modo, portanto, qualquer um de vós que não renunciar a tudo o que possui, não pode ser meu discípulo”."
+    },
+    "reflexao": [
+      "Grandes multidões acompanhavam Jesus, e é para elas que Ele se volta e diz o que custa segui-lo. Seguir alguém pelo caminho é fácil enquanto o caminho agrada, e Jesus, em vez de aproveitar o número, para e propõe as condições. Deus criou o homem para amar, e a exigência que Ele faz agora, a de preferi-lo ao pai, à mãe, à esposa, aos filhos, aos irmãos e à própria vida, quer pôr em ordem esse amor, para que ele alcance cada pessoa sem se perder em nenhuma.",
+      "O verbo que o texto usa é duro, e a Igreja sempre o leu segundo o modo de falar dos semitas, em que odiar significa amar menos. Em Mateus, Jesus diz a mesma coisa sem rodeios: quem ama pai ou mãe mais do que a Ele não é digno dele. A exigência, portanto, não manda desprezar ninguém, e sim colocar cada amor no seu lugar.",
+      "O pecado desordenou o nosso amor e nos acostumou a agarrar-nos às pessoas, aos bens e à própria vida como se fossem a última coisa que temos. Quem faz isso acaba tratando como propriedade o que deveria receber como dom. Por isso Jesus junta à renúncia a cruz: quem não carrega a sua cruz e vem atrás dele não pode ser seu discípulo.",
+      "Em seguida vêm duas imagens, a da torre e a do rei que sai à guerra, e as duas falam de calcular. Quem constrói senta-se para ver se tem com que terminar, e o rei examina se com dez mil homens enfrenta quem vem com vinte mil. Feita a conta com honestidade, a resposta é desconfortável: não temos o bastante. Nem a torre da nossa santidade se completa com as nossas forças, nem a guerra contra o pecado se ganha com os nossos soldados.",
+      "É a esse cálculo que a carta aos Filipenses responde. Paulo manda os cristãos trabalharem pela própria salvação e logo explica de onde vem a capacidade: é Deus quem realiza em nós o querer e o fazer, conforme o seu desígnio de amor. O discípulo constrói a torre, mas quem fornece o material é Deus, e a cruz que Jesus manda carregar é a que Ele mesmo carregou primeiro.",
+      "O salmo mostra a mesma lógica pelo lado do desejo: o salmista pede ao Senhor uma única coisa, morar na casa do Senhor por toda a vida. Quem só deseja uma coisa pode largar o resto sem tristeza, e é nisso que a renúncia pedida por Jesus se torna possível.",
+      "Foi esse desejo único que moveu São Carlos Borromeu, a quem a Igreja recorda hoje. Sobrinho do papa Pio IV, foi feito cardeal ainda muito jovem e tinha diante de si uma vida de prestígio e riqueza. Passou a viver como arcebispo de Milão, dedicou-se à formação dos padres e, durante a peste de 1576, distribuiu seus bens aos famintos e foi ele mesmo visitar os doentes. Morreu aos 46 anos e foi canonizado em 1610.",
+      "Essa passagem me deixa duas perguntas: qual pessoa, bem ou projeto ocupou em meu coração o lugar que só a Deus cabe? E, se eu fizesse a conta da torre com honestidade, o que descobriria que não consigo terminar sozinho?",
+      "Hoje, posso escolher um apego concreto, um horário, um bem, uma opinião, uma pessoa a quem me prendo mais do que deveria, e entregá-lo a Deus em oração. Posso pedir também que Ele realize em mim o querer e o fazer, porque sozinho não completo a obra."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu te voltaste para as multidões e disseste sem rodeios o que custa seguir-te, e Tu mesmo carregaste a cruz que me pedes que carregue. Obrigado por não me deixares a sós com a conta.",
+      "Perdoa-me os amores desordenados, as seguranças a que me agarro e a pressa com que prometo o que não consigo cumprir. Cura em mim o apego que me impede de seguir-te com liberdade.",
+      "Por intercessão de São Carlos Borromeu, que deixou a riqueza para servir o teu povo, concede-me desejar uma só coisa: habitar na tua casa todos os dias da minha vida. E realiza em mim o querer e o fazer, para que a obra que começaste chegue ao fim."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-04.jpg"
+  },
+  {
+    "data": "2026-11-05",
+    "tempo": "31ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Alegrai-vos comigo",
+    "frase": "Deus não espera que o homem volte por si, vai buscá-lo e o carrega.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Filipenses 3,3-8a"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 104(105),2-3.4-5.6-7 (R. 3b)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 15,1-10"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 15,1-10",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, os publicanos e pecadores aproximavam-se de Jesus para o escutar. Os fariseus e os mestres da Lei murmuravam, dizendo: “Este homem acolhe os pecadores e come com eles”. Então Jesus contou-lhes esta parábola: “Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto, para ir atrás da ovelha perdida, até encontrá-la? Quando a encontra, coloca-a nos ombros, cheio de alegria, e, chegando em casa, reúne os amigos e vizinhos, e diz-lhes: ‘Alegrai-vos comigo, porque encontrei a minha ovelha perdida!’ Eu vos digo: assim haverá no céu mais alegria por um só pecador que se converte do que por noventa e nove justos que não precisam de conversão.\n\nE se uma mulher tem dez moedas e perde uma, não acende uma lâmpada, varre a casa e a procura cuidadosamente, até encontrá-la? Quando a encontra, reúne as amigas e vizinhas, e diz-lhes: ‘Alegrai-vos comigo, porque encontrei a moeda que eu tinha perdido!’ Eu vos digo: assim há alegria entre os anjos de Deus por um só pecador que se converte”."
+    },
+    "reflexao": [
+      "Os publicanos e pecadores se aproximam de Jesus para escutá-lo, e os fariseus e mestres da Lei murmuram: “Este homem acolhe os pecadores e come com eles”. A murmuração acaba dizendo, sem querer, o que há de mais belo no Evangelho: Jesus acolhe. O homem foi criado para ser acolhido por Deus, e a primeira coisa que o Senhor faz com quem se aproxima é sentá-lo à mesa.",
+      "Jesus responde com duas parábolas, e as duas começam por uma perda. Um pastor tem cem ovelhas e perde uma, uma mulher tem dez moedas e perde uma. É isso o pecado: a ovelha que se afasta do rebanho e não sabe voltar, a moeda que cai no chão da casa e não pode se recolocar sozinha. Quem está perdido não tem meios de achar o caminho de volta, e ninguém pede à ovelha que se encontre sozinha.",
+      "Quem toma a iniciativa é o dono. O pastor deixa as noventa e nove e vai atrás da perdida até encontrá-la, a mulher acende uma lâmpada, varre a casa e procura com cuidado. Achada a ovelha, o pastor não a castiga nem a tange de volta: coloca-a nos ombros, cheio de alegria. A tradição cristã costuma ver nesses ombros a cruz, e a imagem diz o que é a salvação: Deus não espera que o homem volte por si, vai buscá-lo e o carrega.",
+      "Depois da busca vem a festa. O pastor reúne amigos e vizinhos, a mulher reúne as amigas, e Jesus conclui que há alegria no céu, entre os anjos de Deus, por um só pecador que se converte. A conversão, vista do céu, é motivo de festa, e por isso a murmuração dos fariseus soa fora de lugar: ficaram do lado de fora da alegria ao tratar como problema o que Deus trata como encontro.",
+      "Na carta aos Filipenses, Paulo poderia ter ficado entre os que murmuram. Ele mesmo enumera os seus títulos: circuncidado no oitavo dia, da tribo de Benjamim, hebreu filho de hebreus, fariseu quanto à Lei, irrepreensível quanto à justiça. Tudo isso lhe parecia lucro, até que Cristo o encontrou no caminho de Damasco, e então passou a considerar perda o que antes valia. Paulo é a ovelha que se achava entre as noventa e nove justas e só soube que estava perdida quando foi encontrada.",
+      "O salmo da liturgia diz que se alegra o coração dos que procuram o Senhor e convida a buscar sempre a sua face. Na parábola quem procura é Deus, no salmo é o homem que procura a Deus, e as duas buscas se encontram, de modo que a alegria passa a ser dos dois lados.",
+      "Resta saber em que lugar da cena eu costumo estar: entre os que murmuram contra quem se aproxima de Jesus, achando que a mesa é para os que já estão certos, ou entre os que precisam ser buscados? Há também alguém na minha família ou no meu convívio que se afastou do rebanho e por quem eu parei de procurar?",
+      "Hoje, posso procurar essa pessoa com uma mensagem, uma visita ou uma oração com o nome dela, sem esperar que seja ela a dar o primeiro passo. E posso aproximar-me do Senhor na confissão, reconhecendo que também fui encontrado e que a alegria do céu por um pecador que se converte inclui o meu nome."
+    ],
+    "oracao": [
+      "Senhor Jesus, Bom Pastor, Tu não esperaste que eu voltasse sozinho: vieste buscar-me e me trouxeste nos teus ombros. Obrigado por acolheres os pecadores e comeres com eles, e por me teres sentado à tua mesa.",
+      "Perdoa-me a murmuração de quem se julga justo e a frieza com que deixei de procurar os que se afastaram. Cura em mim a confiança nos meus títulos e dá-me a ousadia de Paulo, que tudo considerou perda diante de Ti.",
+      "Faze alegrar-se o meu coração em procurar-te, e concede-me buscar com perseverança os que estão perdidos, até a alegria do encontro."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-05.jpg"
+  },
+  {
+    "data": "2026-11-06",
+    "tempo": "31ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Presta contas da tua administração",
+    "frase": "A nossa cidadania está nos céus.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Filipenses 3,17–4,1"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 121(122),1-2.3-4a.4b-5 (R. 1)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 16,1-8"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 16,1-8",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus dizia aos discípulos: “Um homem rico tinha um administrador, que foi denunciado por estar esbanjando os bens dele. Ele o chamou e lhe disse: ‘Que é isto que ouço a teu respeito? Presta contas da tua administração, porque já não podes mais ser administrador’. O administrador então começou a refletir: ‘O senhor vai tirar-me a administração. Que vou fazer? Para cavar não tenho forças; de mendigar tenho vergonha. Ah! Já sei o que fazer, para que, quando for afastado da administração, haja quem me receba em sua casa’.\n\nConvocou então os devedores do seu patrão, um por um, e perguntou ao primeiro: ‘Quanto deves ao meu patrão?’ Ele respondeu: ‘Cem barris de óleo’. O administrador disse: ‘Pega tua conta, senta-te depressa e escreve cinquenta’. Depois perguntou a outro: ‘E tu, quanto deves?’ Ele respondeu: ‘Cem sacas de trigo’. O administrador disse: ‘Pega tua conta e escreve oitenta’.\n\nE o senhor elogiou o administrador desonesto, porque ele agiu com esperteza. Com efeito, os filhos deste mundo são mais espertos com os seus semelhantes do que os filhos da luz”."
+    },
+    "reflexao": [
+      "O administrador da parábola é denunciado por esbanjar os bens do patrão e ouve do dono: “Presta contas da tua administração”. O homem foi criado para cuidar de um mundo que não é seu, e cedo ou tarde chega o dia em que o dono pede as contas. A pergunta que o administrador faz a si mesmo é a que todos fazemos nessa hora: “Que vou fazer?”",
+      "O pecado começa antes da denúncia. Ele consiste em gastar o que foi confiado como se não houvesse dono nem contas, e em só pensar no assunto quando a conta chega. O administrador vai descobrindo, pela ordem, o que lhe resta: não tem forças para cavar e tem vergonha de mendigar.",
+      "Mas, uma vez encurralado, ele pensa com clareza, e é por isso que o senhor da parábola o elogia. O elogio recai sobre a previdência dele, que usou o presente para preparar o lugar onde seria recebido, e a fraude continua sendo fraude. Jesus conclui que os filhos deste mundo são mais espertos com os seus semelhantes do que os filhos da luz, e com isso diz que muita gente se empenha mais em garantir o amanhã do mundo do que o amanhã eterno.",
+      "A cena das dívidas lembra uma verdade que o Evangelho ensina em outro lugar. No Pai-nosso, segundo Mateus, chamamos de dívidas aquilo que pedimos a Deus que nos perdoe, e de devedores aqueles a quem prometemos perdoar. Quem recebeu o perdão de uma dívida que não podia pagar tem como usar o que tem em favor dos que lhe devem.",
+      "Paulo diz, na carta aos Filipenses, de onde convém olhar: a nossa cidadania está nos céus, de onde esperamos o Salvador, o Senhor Jesus Cristo. O administrador pensava em quem o receberia em casa quando perdesse o cargo, e o cristão sabe que tem uma pátria à sua espera, de modo que a prudência dele está em viver desde já como cidadão dela. Paulo adverte que há quem viva como inimigo da cruz de Cristo, com o ventre por deus e os olhos postos só nas coisas da terra.",
+      "O salmo canta essa casa: “Que alegria quando me disseram: Vamos à casa do Senhor!” O administrador escolheu a casa que o receberia, e o peregrino do salmo se alegra porque a casa do Senhor já está à sua espera. Tudo o que recebemos, tempo, bens, talentos, relações, serve de material para preparar essa chegada.",
+      "Diante disso, cabe perguntar: se o Senhor me pedisse hoje a prestação de contas, o que eu teria a mostrar? Em que gasto o que me foi confiado, e onde é mais difícil olhar para o futuro? Há alguém que me deve, e não só dinheiro, mas uma desculpa, uma atenção, um reconhecimento, e cuja dívida eu poderia perdoar?",
+      "Hoje, posso reservar um momento para o exame de consciência, com honestidade, como quem presta contas a um Pai que ama, e procurar a confissão para as dívidas que reconhecer. Posso também perdoar de verdade uma dívida concreta que alguém tem comigo e usar parte do que tenho, tempo ou dinheiro, para ajudar quem não pode retribuir."
+    ],
+    "oracao": [
+      "Pai, Tu me confiaste a vida, os bens e as pessoas que amo, e um dia pedirás contas. Obrigado porque me chamas à prestação de contas com amor de pai e porque o meu verdadeiro lar está nos céus.",
+      "Perdoa-me o que desperdicei e a falta de visão com que vivi, atento ao amanhã do mundo e distraído do teu. Cura em mim a vergonha que me impede de pedir ajuda e a pressa de justificar-me.",
+      "Ensina-me a perdoar as dívidas dos meus irmãos como Tu perdoas as minhas, e faze-me viver como cidadão do céu, de onde espero o Salvador. Que eu chegue um dia à casa do Senhor e encontre a porta aberta."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-06.jpg"
   }
 ];
 
@@ -1880,8 +2051,7 @@ window.IA = (function () {
       href: (local ? pagReflexao + "?d=" + r.data : r.data + ".html") + (new URLSearchParams(location.search).get("hoje") ? "&hoje=" + new URLSearchParams(location.search).get("hoje") : ""),
       oracao: r.oracao.map(t => ({ t })),
       temEvangelho: !!(r.evangelho && r.evangelho.texto),
-      bg: "url('" + r.imagem + "')",
-      cor: r.cor || "oklch(0.55 0.1 145)"
+      bg: "url('" + r.imagem + "')"
     });
   }
   function hojeLonga() { const d = parse(hoje()); return DIAS[d.getDay()] + ", " + d.getDate() + " de " + MESES[d.getMonth()] + " de " + d.getFullYear(); }
