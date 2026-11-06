@@ -19,7 +19,7 @@
   <div style="background:#0e1830;color:#a7b0c4;font-family:'Source Sans 3',sans-serif;font-size:11px;letter-spacing:0.04em">
     <div style="max-width:1120px;margin:0 auto;padding:8px 20px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap">
       <span>{{ hojeLonga }}</span>
-      <span style="display:flex;align-items:center;gap:8px"><span style="width:8px;height:8px;border-radius:50%;background:{{ r.cor }}"></span>{{ r.tempo }}</span>
+      <span style="display:flex;align-items:center;gap:8px"><span title="{{ corNome }}" style="width:8px;height:8px;border-radius:50%;background:{{ corDot }}"></span>{{ r.tempo }}</span>
     </div>
   </div>
 
@@ -164,6 +164,8 @@ class Component extends DCLogic {
     const outros = todos.filter((_, k) => k !== i).slice(0, 6).map(IA.enfeitar);
     if (r.titulo) document.title = r.titulo + ' — Ide, anunciai!';
     return {
+      corDot: ({Verde:'oklch(0.55 0.1 145)',Branco:'#ffffff',Vermelho:'oklch(0.55 0.17 25)',Roxo:'oklch(0.45 0.13 305)',Rosa:'oklch(0.75 0.1 0)',Preto:'#000000'})[r.cor || 'Verde'] || 'oklch(0.55 0.1 145)',
+      corNome: 'Cor litúrgica: ' + (r.cor || 'Verde'),
       r, anterior: anterior || {}, temAnterior: !!anterior, outros, temOutros: outros.length > 0,
       pagTodas: IA.pagTodas, hojeLonga: IA.hojeLonga(), pagInicio: IA.pagInicio, pagReflexao: IA.pagReflexao,
       shareStory: async () => {

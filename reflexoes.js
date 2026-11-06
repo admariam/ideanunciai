@@ -2022,6 +2022,140 @@ window.REFLEXOES = [
     ],
     "minutos": 5,
     "imagem": "assets/2026-11-06.jpg"
+  },
+  {
+    "data": "2026-11-07",
+    "tempo": "31ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Não podeis servir a Deus e ao Dinheiro",
+    "frase": "O que é dado fica, e o que é guardado fica para trás.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Filipenses 4,10-19"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 111(112),1-2.5-6.8a e 9 (R. 1a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 16,9-15"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 16,9-15",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, disse Jesus aos seus discípulos: “Usai o dinheiro injusto para fazer amigos, para que, quando ele acabar, eles vos recebam nas moradas eternas. Quem é fiel nas pequenas coisas, também é fiel nas grandes; e quem é injusto nas pequenas, também é injusto nas grandes. Se vós não fostes fiéis na administração do dinheiro injusto, quem vos confiará o verdadeiro bem? E se não fostes fiéis no que é dos outros, quem vos dará aquilo que é vosso?\n\nNenhum empregado pode servir a dois senhores, porque ou odiará um e amará o outro, ou se apegará a um e desprezará o outro. Não podeis servir a Deus e ao Dinheiro”.\n\nOs fariseus, que gostavam muito de dinheiro, ouviam tudo isso e zombavam de Jesus. Então Jesus lhes disse: “Vós gostais de vos fazer passar por justos diante dos homens, mas Deus conhece os vossos corações; pois aquilo que é elevado para os homens é abominável diante de Deus”."
+    },
+    "reflexao": [
+      "Jesus manda fazer amigos com o dinheiro injusto, e o que chama a atenção é o adjetivo. O dinheiro, em si, não é mau, mas tem o costume de passar de instrumento a dono, e é por isso que o Evangelho desconfia dele. Deus criou o mundo e o confiou ao homem para que, por meio das coisas, ele criasse laços: o que se tem serve para se aproximar de alguém. Fazer amigos com o dinheiro é devolver as coisas a esse uso.",
+      "Esse uso depende de fidelidade. Jesus diz que quem é fiel no pouco é fiel no muito, e que quem não foi fiel no que é dos outros não receberá o que é seu. Tudo o que temos nas mãos foi dado para administrar, e o verdadeiro bem, que será de fato nosso, Deus o entrega a quem aprendeu a lidar com o pouco. A vida de cada dia, com suas pequenas contas, é a escola em que isso se aprende.",
+      "O que desfaz essa fidelidade é o dinheiro tomar o lugar de senhor, e Jesus o diz com uma frase sem saída: “Não podeis servir a Deus e ao Dinheiro”. O coração não se divide ao meio, e quem serve a um acaba amando-o e desprezando o outro. Os fariseus, que gostavam de dinheiro, ouviam e zombavam, e Jesus responde que eles se fazem passar por justos diante dos homens, mas Deus conhece os corações. Quem vive para ser visto como justo precisa de plateia, e por isso fica dependente de quem o olha.",
+      "Os filipenses fizeram o que Jesus ensina. Paulo, preso, agradece a ajuda que eles lhe enviaram mais de uma vez e a chama de perfume suave, sacrifício agradável a Deus. O dinheiro que poderiam ter guardado virou amizade com o apóstolo e oferta ao Senhor, e Paulo promete que Deus proverá todas as necessidades deles, segundo a sua riqueza, em Cristo Jesus.",
+      "O próprio Paulo mostra a liberdade de quem serve a um só Senhor. Diz que aprendeu a viver na abundância e na penúria, na fartura e na fome, e que tudo pode naquele que o fortalece. Quem não depende do que tem pode usar o que tem. Essa liberdade é fruto da salvação, porque, com Cristo como único Senhor, o dinheiro pode voltar a ser instrumento.",
+      "O salmo descreve esse homem: feliz quem respeita o Senhor, quem se compadece e empresta, quem distribui e dá aos pobres, porque a sua justiça permanece para sempre. A tradição cristã reconhece nos pobres os amigos que nos recebem nas moradas eternas: o que é dado fica, e o que é guardado fica para trás. O coração desse homem, diz o salmo, é firme e nada teme.",
+      "Agora, resta perguntar: o dinheiro está a meu serviço ou estou a serviço dele? Há alguém, uma pessoa pobre, um amigo, uma obra da Igreja, para quem eu uso o que tenho? Em que situações procuro parecer justo, em vez de ser?",
+      "Hoje, posso escolher uma pessoa ou uma obra concreta e dar algo que me faça falta, em silêncio, sem esperar reconhecimento. Posso também rever com honestidade um hábito de gasto que me prende e decidir uma mudança pequena, mas real."
+    ],
+    "oracao": [
+      "Senhor Deus, Tu me confiaste bens, tempo e pessoas, e me deste a liberdade de usá-los para aproximar-me dos irmãos. Obrigado porque o verdadeiro bem, que é teu, será meu se eu aprender a ser fiel no pouco.",
+      "Perdoa-me quando servi ao dinheiro e quis ser visto como justo diante dos homens, esquecendo que conheces o meu coração. Cura em mim o apego e a vaidade, e dá-me a liberdade de Paulo, que soube viver na abundância e na penúria.",
+      "Ensina-me a repartir com alegria o que me deste, para que os pobres sejam meus amigos diante de Ti. E que eu seja recebido um dia nas moradas eternas, onde permanece para sempre a justiça dos que dão."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-07.jpg"
+  },
+  {
+    "data": "2026-11-08",
+    "tempo": "32º Domingo do Tempo Comum — Ano A",
+    "cor": "Verde",
+    "titulo": "O noivo está chegando!",
+    "frase": "Ninguém repara no óleo enquanto a lâmpada brilha.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Sabedoria 6,12-16"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 62(63),2.3-4.5-6.7-8 (R. 2b)"
+      },
+      {
+        "rotulo": "Segunda leitura",
+        "ref": "1 Tessalonicenses 4,13-18 (ou mais breve 4,13-14)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Mateus 25,1-13"
+      }
+    ],
+    "evangelho": {
+      "ref": "Mt 25,1-13",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Mateus",
+      "texto": "Naquele tempo, Jesus contou esta parábola a seus discípulos: “O Reino dos Céus é como a história das dez moças que pegaram suas lâmpadas e foram ao encontro do noivo. Cinco dentre elas eram insensatas e cinco eram prudentes. As insensatas, ao pegarem as lâmpadas, não levaram óleo consigo. As prudentes, porém, levaram vasilhas de óleo junto com as lâmpadas.\n\nComo o noivo demorasse, todas elas acabaram cochilando e dormindo. No meio da noite, ouviu-se um grito: ‘O noivo está chegando! Ide ao seu encontro!’ Então todas as moças se levantaram e prepararam as lâmpadas. As insensatas disseram às prudentes: ‘Dai-nos um pouco do vosso óleo, pois as nossas lâmpadas estão se apagando’. As prudentes responderam: ‘De modo nenhum, porque o óleo pode não ser suficiente para nós e para vós. Ide comprá-lo dos vendedores’.\n\nEnquanto elas foram comprar óleo, o noivo chegou. As que estavam prontas entraram com ele para a festa de casamento. E a porta foi fechada. Mais tarde, chegaram também as outras moças, dizendo: ‘Senhor, senhor, abre-nos a porta!’ Ele, porém, respondeu: ‘Em verdade vos digo: não vos conheço’. Portanto, ficai vigiando, porque não sabeis o dia nem a hora”."
+    },
+    "reflexao": [
+      "Jesus compara o Reino dos Céus a uma festa de casamento, e as dez moças saem de casa, todas com a lâmpada na mão, para ir ao encontro do noivo. A cena responde para que o homem foi criado: para um encontro de amor, em que Deus vem buscar o seu povo como o esposo vem buscar a esposa. Por isso a vida cristã tem o jeito de uma espera, e a pergunta da parábola é como estamos esperando.",
+      "O noivo demora, e todas cochilam e dormem, as prudentes junto com as insensatas. A diferença entre elas só aparece no meio da noite, quando o grito anuncia que ele chegou e é preciso acender as lâmpadas. Aí se descobre que cinco tinham levado óleo e cinco não. O pecado, nesse caso, não tem cara de maldade: é um descuido que se parece com tranquilidade. As insensatas levaram a lâmpada, que se vê, e deixaram de providenciar o óleo, que não se vê e é o que a mantém acesa. A tradição cristã costuma reconhecer no óleo a caridade e a vida de graça, e é fácil entender por quê, já que ninguém repara no óleo enquanto a lâmpada brilha.",
+      "Quando as insensatas pedem um pouco de óleo, as prudentes respondem que não têm o bastante para todas. A resposta soa dura, mas diz uma verdade séria sobre a fé: ninguém pode viver o amor de Deus por outra pessoa, nem receber na última hora o que não cultivou. Cada um responde pela própria lâmpada. Enquanto as insensatas vão procurar o que lhes falta, o noivo chega e a porta se fecha, e quando elas voltam ouvem: “Não vos conheço”.",
+      "O livro da Sabedoria, na primeira leitura, mostra o outro lado dessa porta. Diz que a Sabedoria se deixa encontrar por quem a procura e que quem madruga por ela a encontra sentada à sua porta. As insensatas chegam tarde e acham a porta fechada, enquanto quem se levantou cedo encontra a Sabedoria já sentada diante da sua. O texto acrescenta que pensar nela é a perfeição da prudência e que quem vigia por causa dela logo estará livre de preocupações, e a conclusão da parábola segue a mesma linha: “ficai vigiando”.",
+      "O salmo dá a esse madrugar o seu conteúdo. O salmista busca a Deus desde a aurora, tem sede dele, lembra-se dele na cama e passa a noite pensando nele. Esse homem também dorme, mas dorme com o coração voltado para Deus. O óleo que faz a diferença na parábola é essa busca de todos os dias, feita muito antes da hora do grito: a oração e a caridade vivida nas pequenas coisas.",
+      "Quem espera assim espera com esperança, e é o que Paulo ensina aos tessalonicenses, preocupados com os que já tinham morrido: não vos entristeçais como os que não têm esperança, porque, se Jesus morreu e ressuscitou, Deus levará com Ele os que morreram. O Senhor mesmo descerá do céu, ao sinal dado, à voz do arcanjo e ao som da trombeta de Deus, e iremos ao seu encontro, expressão que ecoa o grito da parábola: “Ide ao seu encontro!” O noivo vem de verdade e vem para ficar conosco para sempre. A salvação é a chegada de Cristo, e o óleo é o dom com que Ele nos prepara para recebê-lo: dado no Batismo, precisa ser cuidado todos os dias.",
+      "Agora, resta perguntar: se o grito soasse esta noite, o que faltaria na minha lâmpada? Em que parte da vida mantenho a aparência sem o óleo, seja uma prática religiosa feita por costume e sem oração, uma confissão adiada ou uma caridade que reservo para depois?",
+      "Hoje, posso escolher um horário fixo de oração, de preferência logo ao acordar, e guardá-lo como quem enche a lâmpada antes de sair. Posso marcar a confissão que venho adiando e fazer uma obra de caridade sem que ninguém saiba. Ao fim do dia, posso dizer ao Senhor, com as palavras do Apocalipse: “Vem, Senhor Jesus!”"
+    ],
+    "oracao": [
+      "Senhor Jesus, noivo da tua Igreja, Tu vens ao meu encontro e me chamas para a tua festa. Obrigado porque a porta ainda está aberta e o óleo me foi dado no Batismo.",
+      "Perdoa-me o descuido de quem confia na aparência e deixa para depois o que não se vê. Cura em mim a tranquilidade falsa e dá-me um coração que te procure desde a aurora.",
+      "Faze-me vigiar, sem medo, até o dia em que ouvir o teu chamado. E que eu entre contigo para a festa, para estar contigo para sempre."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-08.jpg"
+  },
+  {
+    "data": "2026-11-09",
+    "tempo": "32ª Semana do Tempo Comum — Ano A",
+    "memoria": "Dedicação da Basílica do Latrão (Catedral de Roma) — Festa",
+    "cor": "Branco",
+    "titulo": "O zelo por tua casa me consumirá",
+    "frase": "O verdadeiro lugar de encontro entre Deus e o homem é uma pessoa: Cristo.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Ezequiel 47,1-2.8-9.12"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 45(46),2-3.5-6.8-9 (R. 5)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "João 2,13-22"
+      }
+    ],
+    "evangelho": {
+      "ref": "Jo 2,13-22",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São João",
+      "texto": "Estava próxima a Páscoa dos judeus, e Jesus subiu a Jerusalém. No Templo, encontrou vendedores de bois, ovelhas e pombas, e os cambistas em suas bancas. Fez então um chicote de cordas e expulsou todos do Templo, junto com as ovelhas e os bois; espalhou as moedas dos cambistas e derrubou as bancas. Aos que vendiam pombas, disse: “Tirai isto daqui! Não façais da casa de meu Pai uma casa de comércio!”\n\nSeus discípulos lembraram-se do que está escrito: “O zelo por tua casa me consumirá”. Os judeus então perguntaram a Jesus: “Que sinal nos mostras para agir assim?” Jesus respondeu: “Destruí este templo, e em três dias eu o levantarei”. Os judeus disseram: “Foram precisos quarenta e seis anos para a construção deste templo, e tu vais levantá-lo em três dias?”\n\nMas Jesus falava do templo do seu corpo. Quando ele ressuscitou dos mortos, os discípulos lembraram-se do que ele tinha dito, e creram na Escritura e na palavra que Jesus tinha dito."
+    },
+    "reflexao": [
+      "Jesus chama o Templo de “casa de meu Pai”, e a expressão mostra para que o homem foi feito: para morar em casa com Deus, como filho. Desde o jardim do Éden, a Escritura conta a história de um Deus que quer habitar com os seus, e o Templo de Jerusalém era o sinal desse desejo. Hoje a Igreja celebra a Dedicação da Basílica do Latrão, a catedral do Papa em Roma, dedicada ao Santíssimo Salvador. É a igreja-mãe de Roma e traz inscrito que é mãe e cabeça de todas as igrejas da cidade e do mundo. A festa lembra que a Igreja é uma só casa, e que o bispo de Roma serve à unidade de todos os que a habitam.",
+      "O que Jesus encontra no Templo, porém, é um mercado. Havia vendedores de bois, ovelhas e pombas, e cambistas com suas bancas, e tudo isso tinha uma razão prática: os fiéis precisavam de animais para o sacrifício. O pecado entra quando o necessário passa a mandar no sagrado e a relação com Deus vira negócio, com a lógica de quem dá para receber e vai ao Templo para fechar um acordo. Jesus não aceita isso, e o seu gesto, o chicote de cordas, as bancas derrubadas, as moedas espalhadas, é a defesa da casa de seu Pai. Os discípulos se lembram da Escritura: “O zelo por tua casa me consumirá”.",
+      "Os judeus pedem um sinal que justifique o gesto, e Jesus responde com uma frase que ninguém entende: “Destruí este templo, e em três dias eu o levantarei”. Eles pensam nas pedras, que levaram quarenta e seis anos para ser erguidas, mas Jesus fala do templo do seu corpo. Esse é o anúncio central da festa: o verdadeiro lugar de encontro entre Deus e o homem é uma pessoa, Cristo, que foi destruído na cruz e levantado na ressurreição. Os discípulos só entendem isso depois que Ele ressuscita, e então creem na Escritura e na palavra que Ele disse.",
+      "A primeira leitura mostra o que sai desse templo. Ezequiel vê uma água que brota de debaixo do limiar, do lado direito, e que vai crescendo até se tornar um rio. Onde ela chega, as águas salgadas ficam sadias, tudo o que ali vive tem vida, e nas margens crescem árvores cujos frutos servem de alimento e cujas folhas servem de remédio. A tradição cristã reconheceu nessa água a que jorrou do lado aberto de Cristo, o novo templo, e a do Batismo, que nasce desse mesmo lado.",
+      "O salmo canta essa mesma realidade: um rio cujos braços alegram a cidade de Deus, a santa morada do Altíssimo. Deus está no meio dela, e por isso ela não vacila. A firmeza que a Igreja tem ao longo dos séculos vem dessa presença e dessa água, e não da solidez de suas construções, e é isso que um templo de pedra, como o do Latrão, faz lembrar.",
+      "Uma basílica, no fim, aponta para outra coisa. São Paulo diz aos coríntios que somos templo do Espírito Santo, e São Pedro chama os cristãos de pedras vivas de uma casa espiritual. O prédio de pedra nos ensina como entrar no templo que somos: com respeito e em silêncio, para estar com o Pai e não para negociar.",
+      "Agora, resta perguntar: quando entro na casa do Pai, estou ali para estar com Ele ou para fechar negócio, rezando como quem diz “faço isto para que me dês aquilo”? Que bancas deixei se instalarem no templo que sou, no meu tempo, no meu corpo, nas minhas intenções?",
+      "Hoje, posso entrar numa igreja, de preferência a minha matriz ou a catedral da diocese, e ficar alguns minutos em silêncio, sem pedir nada. Posso rezar pelo Papa e pelo meu bispo, em sinal de que pertenço à única casa da Igreja. E posso escolher uma troca que costumo propor a Deus e entregá-la a Ele, deixando que decida como e quando agir."
+    ],
+    "oracao": [
+      "Senhor Jesus, verdadeiro templo, Tu foste destruído na cruz e levantado na ressurreição, e do teu lado aberto brotou a água que dá vida. Obrigado por me chamares a morar na casa do teu Pai.",
+      "Perdoa-me as vezes em que fiz da oração uma negociação e da tua casa um lugar de conveniência. Expulsa do meu coração o que o profana e faze dele uma morada digna do teu Espírito.",
+      "Faze de nós, tua Igreja, pedras vivas bem unidas ao redor do Papa e dos bispos, e concede que a tua água corra por nós até onde há sede. Que um dia habitemos para sempre na casa do Pai."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-09.jpg"
   }
 ];
 
