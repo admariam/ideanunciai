@@ -2158,6 +2158,186 @@ window.REFLEXOES = [
     ],
     "minutos": 6,
     "imagem": "assets/2026-11-09.jpg"
+  },
+  {
+    "data": "2026-11-10",
+    "tempo": "32ª Semana do Tempo Comum — Ano II",
+    "memoria": "São Leão Magno, papa e doutor da Igreja — Memória",
+    "cor": "Branco",
+    "titulo": "Somos servos inúteis",
+    "frase": "A graça precede o trabalho e o torna possível.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Tito 2,1-8.11-14"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 36(37),3-4.18.23.27.29 (R. 39a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 17,7-10"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 17,7-10",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, disse Jesus: “Se um de vós tem um empregado que trabalha a terra ou cuida dos animais, por acaso vai dizer-lhe, quando ele voltar do campo: ‘Venha depressa para a mesa’? Pelo contrário, não vai dizer-lhe: ‘Prepare-me o jantar, ponha o avental e sirva-me, até que eu tenha comido e bebido. Depois você poderá comer e beber’? O patrão deve ficar agradecido ao empregado, porque este fez o que lhe foi mandado? Assim também vós: quando tiverdes feito tudo o que vos mandaram, dizei: ‘Somos servos inúteis; fizemos o que devíamos fazer’”."
+    },
+    "reflexao": [
+      "Jesus descreve uma cena que o ouvinte conhecia: o empregado volta do campo, e o patrão, em vez de mandá-lo sentar-se, pede o jantar e deixa a refeição do servo para depois. A parábola termina com uma frase que soa como desprezo, «Somos servos inúteis». O adjetivo grego, achreîoi, quer dizer sem proveito, e o que a frase tira do servo é a pretensão de ter direito a pagamento. O Catecismo diz o mesmo com outras palavras ao ensinar que, diante de Deus, o homem não tem mérito em sentido estrito, porque entre o Criador e a criatura a desigualdade é incomensurável e tudo o que temos foi recebido (CIC 2007).",
+      "Essa pretensão é um dos pecados mais discretos da vida religiosa, porque se esconde atrás de coisas boas. Lembra o filho mais velho da parábola do pai misericordioso, que reclama de servir há tantos anos sem jamais transgredir uma ordem e sem nunca ter ganho sequer um cabrito (Lc 15,29). Mora na casa do pai e se comporta como empregado que recebe o salário. O coração ferido pelo pecado tende a transformar o dom em dívida, e por isso faz do bem que pratica um crédito e da relação com Deus um comércio.",
+      "A carta a Tito responde a esse coração dizendo de onde vem a vida cristã: «a graça de Deus se manifestou» trazendo salvação a todos os homens (Tt 2,11). O verbo, epephánē, é parente da palavra epifania, e o texto mostra logo quem é a graça que aparece: Jesus Cristo, «o grande Deus e Salvador nosso», que se entregou por nós a fim de nos resgatar de toda iniquidade e purificar para si um povo zeloso de boas obras (Tt 2,13-14). As obras do cristão são, portanto, o fruto de um resgate já pago. A mesma graça que salva nos educa a renunciar à impiedade e a viver com sobriedade (Tt 2,12), de modo que o servo não tem o que cobrar, já que a graça precede o trabalho e o torna possível.",
+      "A parábola diz como o servo deve proceder, e o próprio Jesus se encarrega de revelar quem é o patrão que de fato temos. Ele promete que, ao voltar e encontrar os servos vigilantes, será Ele quem se cingirá e os servirá à mesa (Lc 12,37), e na Última Ceia diz estar no meio dos discípulos como quem serve (Lc 22,27), lavando-lhes os pés (Jo 13,4-5). O Senhor quebra a regra da própria parábola, e Paulo reconhece nisso o mistério da Encarnação, em que o Filho assumiu a condição de servo e se humilhou até a morte de cruz (Fl 2,7-8). Quem foi servido assim sabe de quem recebeu e pode servir com liberdade, sem a ansiedade de quem espera salário.",
+      "É sobre esse fundamento que a Igreja recorda hoje São Leão Magno, papa de 440 a 461 e Doutor da Igreja. Em 449 ele escreveu ao patriarca Flaviano de Constantinopla uma carta, o Tomo a Flaviano, em que expõe que Jesus Cristo é uma só Pessoa em duas naturezas, verdadeiro Deus e verdadeiro homem. Os bispos reunidos em Calcedônia, em 451, a receberam aclamando que Pedro havia falado por meio de Leão. A doutrina que ele defendeu é a mesma que Tito resume ao chamar Jesus de «grande Deus e Salvador». Dela depende tudo o que vimos, porque só um Redentor que fosse Deus poderia pagar a dívida, e só um que fosse homem poderia pagá-la em nosso nome e servir em nosso lugar.",
+      "O mesmo papa que defendeu com tanto rigor a divindade de Cristo pregou no Natal que o cristão deve reconhecer a sua dignidade e, feito participante da natureza divina (2Pd 1,4), não voltar à antiga baixeza por uma vida indigna (Sermão 1 no Natal do Senhor, 3). As duas afirmações se completam: a criatura que nada pode exigir de Deus foi chamada por graça a partilhar a vida divina, e a humildade que a parábola ensina é a verdade sobre a origem dessa dignidade, a de quem sabe que tudo é dom.",
+      "O salmo de hoje descreve quem vive assim, ao mandar confiar no Senhor e praticar o bem, pôr nele a alegria, e afirmar que é o Senhor quem firma os passos do homem justo (Sl 36[37],3-4.23). A ação do justo começa e termina em Deus, e é por isso que ele pode cumprir tudo o que lhe mandaram e dizer, sem amargura, que fez só o que devia.",
+      "Agora, resta perguntar: quando faço o bem, espero que alguém reconheça, agradeça ou retribua? E diante de Deus trato a minha vida de fé como quem espera receber crédito, a ponto de me sentir injustiçado quando as coisas não saem como eu pensava merecer?",
+      "Hoje, posso escolher um dever que costumo cumprir na expectativa de ser notado, em casa, no trabalho ou na comunidade, e cumpri-lo sem comentar com ninguém. Posso também, ao fim do dia, agradecer a Deus por ter podido servir, reconhecendo que foi Ele quem me deu a força e o tempo."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu, que sendo o Senhor te cingiste e me serviste, ensina-me a servir sem cobrar nada de ninguém e sem esperar agradecimento. Perdoa-me quando transformei em direito o que recebi de graça e quando fiquei contando o bem que fiz.",
+      "Cura em mim o coração de filho mais velho e faze-me viver da tua graça, que me educa e me resgata. Pela intercessão de São Leão Magno, que defendeu a fé em Ti, concede-me amar a sã doutrina e reconhecer a dignidade a que me chamaste.",
+      "E quando eu tiver feito tudo o que me mandaste, que eu possa dizer com verdade e com alegria que sou servo inútil, que fiz o que devia, e que o resto foi graça tua."
+    ],
+    "minutos": 6,
+    "imagem": "assets/2026-11-10.jpg"
+  },
+  {
+    "data": "2026-11-11",
+    "tempo": "32ª Semana do Tempo Comum — Ano II",
+    "memoria": "São Martinho de Tours, bispo — Memória",
+    "cor": "Branco",
+    "titulo": "A tua fé te salvou",
+    "frase": "O benefício só cumpre o seu fim quando leva o coração de volta ao Doador.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Tito 3,1-7"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 22(23),1-3a.3b-4.5.6 (R. 1)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 17,11-19"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 17,11-19",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus ia a caminho de Jerusalém e passava entre a Samaria e a Galileia. Quando estava para entrar num povoado, dez leprosos foram ao seu encontro. Pararam a distância e gritaram: “Jesus, Mestre, tem piedade de nós!” Ao vê-los, Jesus disse: “Ide apresentar-vos aos sacerdotes”. Enquanto eles estavam a caminho, aconteceu que ficaram curados.\n\nUm dos dez, assim que se viu curado, voltou, glorificando a Deus em alta voz. Caiu aos pés de Jesus, com o rosto por terra, e lhe agradeceu. Este era um samaritano. Então Jesus lhe perguntou: “Não foram dez os que ficaram curados? E os outros nove, onde estão? Não houve quem voltasse para dar glória a Deus, a não ser este estrangeiro?” E Jesus lhe disse: “Levanta-te e vai! A tua fé te salvou”."
+    },
+    "reflexao": [
+      "Dez leprosos vêm ao encontro de Jesus e param a distância, como mandava a Lei, que obrigava o leproso a viver fora do povoado e a avisar que estava impuro (Lv 13,45-46). Entre eles havia um samaritano, e judeus e samaritanos não se davam (Jo 4,9), de modo que foi a doença que os aproximou, e o grito que sobe deles é um só: «Jesus, Mestre, tem piedade de nós!». O homem foi criado para a comunhão com Deus e com os irmãos, e a lepra, que isola o corpo, simboliza o que o pecado faz com a alma, ao separá-la de Deus e dos que a cercam.",
+      "Jesus não os cura de imediato e manda que se apresentem aos sacerdotes, como a Lei prescrevia a quem estivesse curado (Lv 14,2-3), de maneira que a ordem pede que eles caminhem antes de estarem curados. O Evangelho diz que, enquanto iam, ficaram purificados. A cura vem pelo caminho da obediência, e a fé desses homens consiste em pôr-se a caminhar sobre uma palavra que ainda não se cumpriu.",
+      "Nove continuam rumo aos sacerdotes, o que era regular, e um deles, vendo que estava curado, volta. A narrativa distingue o que aconteceu: todos os dez foram purificados, mas só ao samaritano Jesus diz «a tua fé te salvou». Há, portanto, uma diferença entre receber uma cura e ser salvo, e ela se encontra no retorno, porque o samaritano volta glorificando a Deus em alta voz e se lança aos pés de Jesus, agradecendo. O verbo é eucharistôn, de onde vem a palavra Eucaristia, que a Igreja usa para o sacramento por ser, antes de tudo, ação de graças a Deus (CIC 1328). Jesus liga a salvação ao retorno, já que o benefício só cumpre o seu fim quando leva o coração de volta ao Doador.",
+      "Por isso Jesus pergunta se não houve quem voltasse para dar glória a Deus, a não ser este estrangeiro. O samaritano dá glória a Deus caindo aos pés de Jesus, e em Lucas as duas ações são uma só, porque é em Cristo que a presença de Deus agora se encontra. A palavra para estrangeiro, allogenés, só aparece aqui no Novo Testamento e é a mesma que figurava nas inscrições do Templo que vetavam o acesso dos não judeus ao pátio interno. Quem estava, por lei, fora do Templo foi o único que reconheceu em Jesus o verdadeiro santuário.",
+      "A carta a Tito mostra de onde vem essa passagem do isolamento à comunhão. Paulo lembra que também nós fomos insensatos e extraviados, escravos de paixões e prazeres. Mas, quando se manifestou a bondade de Deus nosso Salvador e o seu amor pelos homens, Ele nos salvou sem levar em conta obras de justiça praticadas por nós, apenas por sua misericórdia, mediante o banho da regeneração e a renovação do Espírito Santo (Tt 3,3-5). O Batismo é a purificação que a lepra pedia, e o Catecismo recorda que o sacramento recebe esse nome do próprio texto, porque realiza o nascimento da água e do Espírito (CIC 1215). O que recebemos ali é um dom do mesmo gênero da cura dos dez, gratuito e anterior a qualquer mérito, e por isso pede o retorno do samaritano.",
+      "São Martinho de Tours, que a Igreja recorda hoje, mostra a mesma passagem do dom recebido ao dom devolvido. Soldado romano e ainda catecúmeno, aos dezoito anos, num inverno em Amiens, dividiu com a espada a sua capa e deu a metade a um pobre que pedia à porta da cidade. Na noite seguinte, conta Sulpício Severo, viu Cristo vestido com aquela metade e ouviu-o dizer aos anjos que Martinho, ainda catecúmeno, o havia coberto, e logo depois recebeu o Batismo. O gesto realiza ao pé da letra o que o Senhor diria sobre os pequeninos (Mt 25,40), e a vida inteira dele foi uma devolução: deixou o exército, fez-se monge e tornou-se bispo de Tours, onde pastoreou o povo até morrer, em 397.",
+      "O salmo canta o fim desse caminho: o Senhor é o pastor que conduz a águas tranquilas, restaura a alma e guia por veredas justas, prepara uma mesa diante do homem, e o salmista conclui que habitará na casa do Senhor por longos dias (Sl 22[23],1-3.5-6). É o destino de quem volta, a mesa do pastor que a Missa antecipa.",
+      "Agora, resta perguntar: de quantos benefícios recebidos eu voltei para agradecer a Deus, e quantos tomei por garantidos, seguindo adiante como os outros nove? E a gratidão que digo sentir chega a se traduzir em dar a quem precisa?",
+      "Hoje, posso reservar um tempo para agradecer a Deus por um benefício que costumo tomar por garantido. Posso também separar uma roupa ou um alimento que me sobre e entregá-lo a quem precisa, como Martinho entregou a metade da capa."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu me purificaste no Batismo quando eu estava longe de Ti e dos meus irmãos, e não por obras que eu tivesse feito. Perdoa-me por tantas vezes ter seguido o meu caminho sem voltar para agradecer.",
+      "Dá-me um coração agradecido, que volte sempre aos teus pés, e, pela intercessão de São Martinho, ensina-me a dividir com os pobres o que recebi de Ti, reconhecendo em cada um deles o teu rosto.",
+      "Conduze-me como bom Pastor até a tua casa, onde te darei graças para sempre."
+    ],
+    "minutos": 6,
+    "imagem": "assets/2026-11-11.jpg"
+  },
+  {
+    "data": "2026-11-12",
+    "tempo": "32ª Semana do Tempo Comum — Ano II",
+    "memoria": "São Josafá, bispo e mártir — Memória",
+    "cor": "Vermelho",
+    "titulo": "O Reino de Deus está no meio de vós",
+    "frase": "Os fariseus queriam um calendário, e Jesus lhes oferece uma presença.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Filêmon 7-20"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 145(146),7.8-9a.9bc-10 (R. 5a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 17,20-25"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 17,20-25",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, os fariseus perguntaram a Jesus: “Quando chegará o Reino de Deus?” Jesus respondeu: “O Reino de Deus não vem de modo que se possa observar. Nem se poderá dizer: ‘Está aqui’ ou ‘Está ali’, porque o Reino de Deus já está no meio de vós”.\n\nJesus disse então aos discípulos: “Virão dias em que desejareis ver um só dos dias do Filho do Homem, mas não o vereis. Vão dizer-vos: ‘Ele está aqui’ ou ‘Ele está ali’. Não vades, nem corrais atrás. Pois, assim como o relâmpago brilha de um extremo ao outro do céu, assim será o Filho do Homem no seu dia. Mas antes é necessário que ele sofra muito e seja rejeitado por esta geração”."
+    },
+    "reflexao": [
+      "Os fariseus perguntam quando chega o Reino de Deus, e Jesus responde que ele não vem de modo que se possa observar, que ninguém poderá dizer «Está aqui» ou «Está ali», porque o Reino de Deus já está no meio de vós. O termo grego por trás desse «observar», paratérēsis, designa a vigilância de quem espera um sinal para conferir. Os fariseus queriam um calendário, e Jesus lhes oferece uma presença. Orígenes chamou Cristo de autobasileía, o próprio Reino, e a expressão resume a resposta: o Reino já está entre aqueles homens, porque o Rei está diante deles.",
+      "O homem foi feito para habitar com Deus e com os seus semelhantes, e o Reino de Cristo se estabelece onde essa comunhão se restabelece. O pecado a rompeu nas duas direções, e o resultado é um mundo em que se olha para o céu à procura de sinais e que ignora o irmão. Por isso a primeira leitura, tirada de uma das cartas mais curtas do Novo Testamento, mostra o Reino chegando por onde ninguém olhava. Paulo escreve a Filêmon, que tinha escravos, e intercede por Onésimo, que estivera longe do dono e a quem Paulo encontrou na prisão.",
+      "Paulo, que se apresenta como velho e prisioneiro de Cristo Jesus, prefere pedir a mandar, e pede em nome da caridade (Fm 8-9). O nome Onésimo significa «útil», e o apóstolo brinca com ele: o escravo que antes fora inútil a Filêmon agora é útil, porque o Evangelho o gerou de novo (Fm 10-11). Pede que Filêmon o receba não mais como escravo, mas como irmão querido (Fm 15-16), e, para que a acolhida seja possível, assume a dívida: se ele te causou algum dano ou te deve alguma coisa, põe na minha conta (Fm 18).",
+      "A carta é pequena, e a cena que ela conta mostra a nossa história. Todos nós estamos na posição de Onésimo, com uma dívida que não podemos pagar e uma relação com o Pai que o pecado rompeu, e o que nos devolveu à casa foi Alguém que se pôs como fiador. Cristo tomou sobre si a nossa dívida e a quitou na cruz, cancelando o documento que nos acusava (Cl 2,14), e foi o amor com que se entregou até o fim que deu ao seu sacrifício valor de redenção (CIC 616). Quando Filêmon recebe Onésimo como irmão, o Reino de Deus aparece sem sinais espetaculares, no meio de dois homens que se sentam à mesma mesa em Cristo.",
+      "Jesus continua o ensino dirigindo-se aos discípulos. Virão dias em que desejarão ver o Filho do Homem e não poderão, e haverá quem diga que Ele está aqui ou está ali; a esses não devem seguir, porque a vinda gloriosa será como o relâmpago, que brilha de uma ponta a outra do céu. Antes, porém, é necessário que Ele sofra muito e seja rejeitado por esta geração. O Reino não tem atalho, passa pela cruz, e o discípulo que quer participar dele conta com a mesma rejeição.",
+      "Foi esse o caminho de São Josafá Kuntsevych, monge da ordem de São Basílio e arcebispo de Polotsk, que a Igreja celebra hoje. Ele trabalhou pela unidade dos cristãos orientais da sua região com a Sé de Pedro, na linha da União de Brest, de 1596, e foi morto por uma multidão em Vitebsk, em 1623, por causa dessa unidade. Pio IX o canonizou em 1867. O que Jesus pede ao Pai na oração sacerdotal, que todos sejam um (Jo 17,21), custou a vida a Josafá, e a sua morte confirma o que o Evangelho de hoje diz do Reino, que cresce onde há rejeição e sofrimento.",
+      "O salmo confessa o que Josafá e Paulo viveram: o Senhor faz justiça aos oprimidos, liberta os cativos, protege os estrangeiros e reinará para sempre (Sl 145[146],7-10). É o que Paulo vivia na prisão, Onésimo longe de casa, Josafá na iminência do martírio, e o reinar de que o salmo fala é o mesmo Reino que Jesus diz estar no meio de nós.",
+      "Agora, resta perguntar: há alguém a quem mantenho na posição de devedor, de quem cobro de novo uma ofensa que já deveria ter perdoado? E o que me impede de dar o primeiro passo na direção de quem se afastou de mim?",
+      "Hoje, posso procurar a pessoa de quem me afastei e dar o primeiro passo da reconciliação, num telefonema ou numa visita, sem repetir o que já foi dito. Posso também rezar, ao fim do dia, pela unidade dos cristãos, pedindo a São Josafá que alcance ao Papa e aos bispos a graça de manter a Igreja unida."
+    ],
+    "oracao": [
+      "Senhor Jesus, Reino de Deus no meio de nós, Tu me devolveste à casa do Pai como filho, sem cobrar nada. Perdoa-me as dívidas que ainda cobro dos meus irmãos e dá-me coragem para recebê-los como a Ti mesmo.",
+      "Pela intercessão de São Josafá, que deu a vida pela unidade da tua Igreja, faze que todos os que creem em Ti sejam um, como Tu e o Pai são um. Livra-me da pressa de procurar sinais e faze-me reconhecer-Te nos irmãos que estão ao meu lado.",
+      "Conduze-me pelo caminho da cruz até o dia em que o teu Reino se manifestar para sempre."
+    ],
+    "minutos": 6,
+    "imagem": "assets/2026-11-12.jpg"
+  },
+  {
+    "data": "2026-11-13",
+    "tempo": "32ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Lembrai-vos da mulher de Ló",
+    "frase": "No dia do Senhor se descobre o que cada um amou.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "2 João 4-9"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 118(119),1.2.10.11.17.18 (R. 1b)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 17,26-37"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 17,26-37",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, disse Jesus aos seus discípulos: “Como aconteceu nos dias de Noé, assim também será nos dias do Filho do Homem. Eles comiam e bebiam, casavam-se e davam-se em casamento, até o dia em que Noé entrou na arca. Então veio o dilúvio e fez morrer todos eles. A mesma coisa aconteceu nos dias de Ló: comiam e bebiam, compravam e vendiam, plantavam e construíam. Mas, no dia em que Ló saiu de Sodoma, caiu do céu uma chuva de fogo e enxofre, que fez morrer todos eles. O mesmo acontecerá no dia em que o Filho do Homem for revelado.\n\nNaquele dia, quem estiver no terraço e tiver as suas coisas dentro de casa, não desça para pegá-las. Da mesma forma, quem estiver no campo não volte para trás. Lembrai-vos da mulher de Ló! Quem procurar conservar a sua vida, vai perdê-la; e quem a perder, vai conservá-la. Eu vos digo: naquela noite, dois estarão numa cama: um será levado, o outro será deixado. Duas mulheres estarão moendo juntas: uma será levada, a outra será deixada”.\n\nEntão os discípulos perguntaram: “Senhor, onde acontecerá isso?” Jesus respondeu: “Onde estiver o cadáver, aí se reunirão os abutres”."
+    },
+    "reflexao": [
+      "Jesus compara os dias do Filho do Homem aos de Noé e aos de Ló, e a lista de atividades daquelas gerações é curiosa porque não traz crime algum: comiam, bebiam, casavam-se, compravam, vendiam, plantavam, construíam. Os verbos estão no imperfeito, que em grego indica ação habitual. O que Jesus põe em evidência é a vida vivida como se aquilo fosse tudo, sem erguer os olhos para quem deu os bens, de modo que o dilúvio e o fogo chegaram a quem não esperava nada além do cotidiano.",
+      "As coisas boas da criação foram dadas ao homem para que o levassem ao Doador, e o pecado as converte em fim, de maneira que o coração se fixa nelas e esquece o que deve vir depois. O Filho do Homem será «revelado», diz o texto, e o verbo grego, apokalýptetai, é o que dá origem à palavra apocalipse: no dia dele se descobre o que cada um amou, porque então se verá o que de fato ocupava o coração.",
+      "A advertência mais curta de todo o trecho é «Lembrai-vos da mulher de Ló!». Ela saiu de Sodoma por misericórdia, conduzida pelos anjos, e olhou para trás (Gn 19,16-17.26): o corpo estava fora da cidade, e o coração continuava dentro. Por isso Jesus manda que quem estiver no terraço não desça para apanhar o que deixou em casa e que quem estiver no campo não volte. Acrescenta então a frase que Lucas já registrara noutro lugar (Lc 9,24): quem procurar conservar a sua vida a perderá, e quem a perder a conservará.",
+      "Perder a vida para conservá-la só é possível porque Cristo o fez primeiro, pois o Bom Pastor dá a vida por livre vontade e a retoma (Jo 10,17-18). Quem se une a Ele pelo Batismo morre com Ele para o pecado a fim de viver para Deus (Rm 6,3-4.11). A perda que o Evangelho pede é a entrada numa vida que a morte não alcança.",
+      "Jesus acrescenta que, naquela noite, de dois que estiverem numa cama, um será levado e o outro deixado, e de duas mulheres que moerem juntas, uma será levada e a outra deixada. São as pessoas mais próximas que há, de leito e de trabalho, e a separação passa entre elas porque a resposta a Deus é pessoal e ninguém a dá no lugar do outro. O Catecismo ensina que a morte põe fim à vida do homem como tempo aberto ao acolhimento ou à recusa da graça (CIC 1021). À pergunta dos discípulos sobre o lugar, Jesus responde com a imagem dos abutres que se juntam onde há um corpo morto: o juízo será inconfundível.",
+      "A segunda carta de João mostra como se vive entre o hoje e o dia da revelação. O Ancião se alegra porque alguns filhos da comunidade andam na verdade e lembra o mandamento que vem desde o princípio, o de amar uns aos outros, explicando que o amor consiste em andar segundo os mandamentos (2Jo 4-6). Em seguida adverte contra os sedutores que não confessam que Jesus Cristo veio na carne e manda que cada um olhe por si, para não perder o fruto do trabalho (2Jo 7-8). O texto termina com uma frase que serve de regra: quem se adianta e não permanece na doutrina de Cristo não possui Deus, e quem permanece nela possui o Pai e o Filho (2Jo 9).",
+      "O verbo proágōn, traduzido por «se adianta», indica quem corre à frente e deixa o ponto de partida para trás, e o texto o contrapõe a «permanecer», o verbo preferido de João para a união com Cristo (Jo 15,4). A doutrina de Cristo, que a Igreja guarda como depósito recebido dos apóstolos e transmite pela Tradição e pelo Magistério, é o terreno em que se espera o dia do Senhor. As duas advertências se ajudam: o exemplo de Ló previne contra o apego ao que passa, e a carta de João previne contra a pressa de quem troca o que recebeu por novidades, e ambas pedem fidelidade.",
+      "O salmo oferece o meio dessa fidelidade: é feliz quem anda na lei do Senhor e quem guarda a Palavra no coração para não pecar contra Deus (Sl 118[119],1.11). O salmista pede ainda que o Senhor lhe abra os olhos para contemplar as maravilhas da sua lei (v. 18), pedido que responde ao problema da geração de Noé, cujos olhos viam só o que se come e o que se compra. A Palavra guardada antes do dia é o que permite reconhecer o dia quando ele vier.",
+      "Agora, resta perguntar: em que bem de hoje, legítimo em si mesmo, o meu coração se fixou a ponto de esquecer a quem ele pertence? E que ponto da doutrina recebida da Igreja eu deixei de lado porque me incomodava?",
+      "Hoje, posso reservar alguns minutos de silêncio, de preferência diante do sacrário, para examinar a que estou apegado e entregar isso ao Senhor. Posso também ler, no Catecismo, o ponto sobre a verdade da fé que mais me custa aceitar, para permanecer na doutrina em vez de passar adiante dela."
+    ],
+    "oracao": [
+      "Senhor Jesus, que serás revelado no último dia, abre os meus olhos para as maravilhas da tua lei e não deixes que o meu coração se prenda ao que passa. Perdoa-me os apegos de que não tive coragem de me desfazer e a pressa com que passei à frente da tua doutrina.",
+      "Faze-me permanecer em Ti, como Tu permaneces no Pai, e guarda a tua Palavra no meu coração para que eu não peque contra Ti. Que eu perca a vida por amor e a encontre em Ti.",
+      "Quando vieres, encontra-me vigilante e fiel, e conduze-me ao teu Reino, onde o Pai e o Filho permanecem para sempre."
+    ],
+    "minutos": 6,
+    "imagem": "assets/2026-11-13.jpg"
   }
 ];
 
