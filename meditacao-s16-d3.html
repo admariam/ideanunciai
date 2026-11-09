@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="robots" content="noindex">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Ide, anunciai!">
+<meta property="og:title" content="Meditações Diárias do Tratado da Verdadeira Devoção">
+<meta property="og:description" content="Quarta · 17/03 · Há uma total diferença entre um servo e um escravo">
+<meta name="description" content="Quarta · 17/03 · Há uma total diferença entre um servo e um escravo">
+<meta property="og:image" content="https://ideanunciai.com.br/assets/meditacao-verdadeira-devocao-thumb.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="675">
+<meta property="og:url" content="https://ideanunciai.com.br/meditacao-s16-d3.html">
+<meta name="twitter:card" content="summary_large_image">
+<script>window.MED_FIXO={s:16,d:3};</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Meditações Diárias do Tratado da Verdadeira Devoção — Ide, anunciai!</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&amp;family=Source+Sans+3:wght@400;500;600&amp;display=swap" rel="stylesheet">
+<script src="reflexoes.js"></script>
+<script src="meditacoes.js"></script>
+<style>*{box-sizing:border-box}body{margin:0;background:#ffffff}a{color:#8a2f2a;text-decoration:none}a:hover{color:#6b221e}::selection{background:#dbe3f0}</style>
+</helmet>
+<div style="min-height:100vh;background:#ffffff;color:#1b2436;font-family:'EB Garamond',Georgia,serif;display:flex;flex-direction:column">
+  <header style="background:#14213d;color:#f3efe8">
+    <div style="max-width:1120px;margin:0 auto;padding:14px 20px;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap">
+      <a href="{{ pagInicio }}" style="display:flex;flex-direction:column;gap:2px;color:#f3efe8">
+        <span style="font-size:21px;font-weight:500;letter-spacing:0.02em;line-height:1">Ide, anunciai!</span>
+        <span style="font-family:'Source Sans 3',sans-serif;font-size:9px;letter-spacing:0.24em;text-transform:uppercase;color:#a7b0c4">Meditação diária do Evangelho</span>
+      </a>
+      <nav style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;letter-spacing:0.06em">
+        <a href="{{ pagInicio }}" style="color:#d3d9e6;padding:7px 14px;border-radius:999px;white-space:nowrap" style-hover="color:#fff;background:#23325a">Início</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="flex:1;max-width:880px;width:100%;margin:0 auto;padding:32px 20px 64px;display:flex;flex-direction:column;gap:28px">
+    <sc-if value="{{ naCapa }}" hint-placeholder-val="{{ true }}">
+      <section style="display:flex;flex-direction:column;gap:28px">
+        <div role="img" style="aspect-ratio:16/9;border-radius:20px;background-color:#23325a;background-image:url('assets/meditacao-verdadeira-devocao.jpg');background-size:cover;background-position:center 25%"></div>
+        <div style="display:flex;flex-direction:column;gap:10px">
+          <span style="font-family:'Source Sans 3',sans-serif;font-size:11px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:#8a2f2a">São Luís Maria Grignion de Montfort</span>
+          <h1 style="margin:0;font-weight:500;font-size:clamp(32px,5.2vw,48px);line-height:1.06;text-wrap:balance"><i>Meditações Diárias do Tratado da Verdadeira Devoção</i></h1>
+          
+        </div>
+        <div style="display:flex;flex-direction:column;gap:14px;border-top:1px solid #e3e8f0;padding-top:22px">
+          <div style="display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap">
+            <h2 style="margin:0;font-weight:500;font-size:26px">Semanas</h2>
+            
+          </div>
+          <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(92px,1fr));gap:10px">
+            <sc-for list="{{ semanas }}" as="s" hint-placeholder-count="52">
+              <button onClick="{{ s.abrir }}" disabled="{{ s.off }}" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;aspect-ratio:1/1;border-radius:14px;font-family:'Source Sans 3',sans-serif;cursor:{{ s.cursor }};border:1px solid {{ s.borda }};background:{{ s.fundo }};color:{{ s.cor }}" style-hover="border-color:#14213d">
+                <span style="font-size:10px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase">Semana</span>
+                <span style="font-family:'EB Garamond',Georgia,serif;font-size:30px;font-weight:500;line-height:1">{{ s.n }}</span>
+                <span style="font-size:11px;font-weight:500;opacity:0.85">{{ s.data }}</span>
+              </button>
+            </sc-for>
+          </div>
+        </div>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{ naSemana }}" hint-placeholder-val="{{ false }}">
+      <article style="display:flex;flex-direction:column;gap:22px">
+        <div>
+          <button onClick="{{ voltar }}" style="font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#14213d;background:#fff;border:1px solid #c9d3e3;padding:8px 14px;border-radius:999px;cursor:pointer" style-hover="border-color:#14213d">← Todas as semanas</button>
+        </div>
+        <div style="display:flex;flex-direction:column;gap:12px">
+          <div style="display:flex;flex-direction:column;gap:4px">
+            <h2 style="margin:0;font-weight:500;font-size:26px">Semana {{ n }}</h2>
+            <span style="font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;letter-spacing:0.08em;color:#8a2f2a">{{ periodo }}</span>
+            <p style="margin:0;font-size:19px;font-style:italic;color:#3d4660;text-wrap:pretty">{{ temaSemana }}</p>
+          </div>
+          <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(112px,1fr));gap:8px">
+            <sc-for list="{{ dias }}" as="d" hint-placeholder-count="6">
+              <button onClick="{{ d.abrir }}" disabled="{{ d.off }}" style="display:flex;flex-direction:column;align-items:center;gap:4px;font-family:'Source Sans 3',sans-serif;font-size:13px;font-weight:600;padding:12px 10px;border-radius:12px;cursor:{{ d.cursor }};border:1px solid {{ d.borda }};background:{{ d.fundo }};color:{{ d.cor }}" style-hover="border-color:#14213d">
+                <span>{{ d.nome }} · {{ d.data }}</span>
+                <span style="font-family:'EB Garamond',Georgia,serif;font-size:14px;font-weight:400;font-style:italic;line-height:1.2;text-align:center">{{ d.tema }}</span>
+              </button>
+            </sc-for>
+          </div>
+        </div>
+        <sc-if value="{{ semTexto }}" hint-placeholder-val="{{ false }}">
+          <p style="margin:0;font-family:'Source Sans 3',sans-serif;font-size:14px;color:#5a6478">Ainda não há meditação para este dia.</p>
+        </sc-if>
+        <sc-if value="{{ temTexto }}" hint-placeholder-val="{{ true }}">
+        <div style="display:flex;flex-direction:column;gap:22px">
+        <sc-if value="{{ a.temImg }}" hint-placeholder-val="{{ true }}">
+          <div role="img" style="aspect-ratio:16/9;border-radius:20px;background-color:#23325a;background-image:{{ a.bg }};background-size:cover;background-position:center 25%"></div>
+        </sc-if>
+        <sc-if value="{{ a.temTema }}" hint-placeholder-val="{{ true }}">
+          <div style="display:flex;flex-direction:column;gap:6px">
+            <span style="font-family:'Source Sans 3',sans-serif;font-size:11px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:#8a2f2a">{{ a.dia }}</span>
+            <sc-if value="{{ a.temFesta }}" hint-placeholder-val="{{ false }}">
+              <span style="align-self:flex-start;font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#fff;background:#8a2f2a;padding:5px 12px;border-radius:999px">{{ a.festa }}</span>
+            </sc-if>
+            <h3 style="margin:0;font-weight:500;font-size:clamp(28px,4.6vw,38px);line-height:1.1;text-wrap:pretty">{{ a.tema }}</h3>
+          </div>
+        </sc-if>
+        <div style="display:flex;flex-direction:column;gap:16px">
+          <sc-for list="{{ a.blocos }}" as="b" hint-placeholder-count="6">
+            <sc-if value="{{ b.sub }}" hint-placeholder-val="{{ false }}">
+              <h3 style="margin:10px 0 0;font-family:'Source Sans 3',sans-serif;font-size:13px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;color:#14213d">{{ b.texto }}</h3>
+            </sc-if>
+            <sc-if value="{{ b.par }}" hint-placeholder-val="{{ true }}">
+              <p style="margin:0;font-size:19px;line-height:1.65;text-align:justify;hyphens:auto">{{ b.texto }}</p>
+            </sc-if>
+            <sc-if value="{{ b.sub3 }}" hint-placeholder-val="{{ false }}">
+              <h4 style="margin:6px 0 -6px;font-size:20px;font-weight:600;color:#14213d">{{ b.texto }}</h4>
+            </sc-if>
+            <sc-if value="{{ b.item }}" hint-placeholder-val="{{ false }}">
+              <div style="display:flex;gap:10px;font-size:18px;line-height:1.55;margin-top:-8px">
+                <span style="color:#8a2f2a;flex-shrink:0">•</span>
+                <span style="text-wrap:pretty">{{ b.texto }}</span>
+              </div>
+            </sc-if>
+            <sc-if value="{{ b.verso }}" hint-placeholder-val="{{ false }}">
+              <div style="display:flex;flex-direction:column;gap:6px">
+                <sc-for list="{{ b.estrofes }}" as="e" hint-placeholder-count="2">
+                  <p style="margin:0;white-space:pre-line;font-size:18px;line-height:1.5;font-style:italic;color:#23325a;text-align:justify;hyphens:auto">{{ e }}</p>
+                </sc-for>
+              </div>
+            </sc-if>
+            <sc-if value="{{ b.centro }}" hint-placeholder-val="{{ false }}">
+              <p style="margin:0;white-space:pre-line;font-size:19px;line-height:1.5;font-weight:600;text-align:center;color:#14213d">{{ b.texto }}</p>
+            </sc-if>
+            <sc-if value="{{ b.cit }}" hint-placeholder-val="{{ false }}">
+              <blockquote style="margin:4px 0;padding:18px 22px;border-radius:14px;background:#f3f5f9;font-size:19px;line-height:1.6;font-style:italic;color:#23325a;text-align:justify">{{ b.texto }}</blockquote>
+            </sc-if>
+          </sc-for>
+        </div>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;font-family:'Source Sans 3',sans-serif">
+          <button onClick="{{ copiar }}" style="font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#fff;background:#14213d;border:none;padding:9px 16px;border-radius:999px;cursor:pointer" style-hover="background:#23325a">{{ rotuloCopiar }}</button>
+          <sc-if value="{{ temProxima }}" hint-placeholder-val="{{ false }}">
+            <button onClick="{{ proxima }}" style="font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#14213d;background:#fff;border:1px solid #c9d3e3;padding:8px 14px;border-radius:999px;cursor:pointer" style-hover="border-color:#14213d">{{ rotuloProxima }}</button>
+          </sc-if>
+        </div>
+        </div>
+        </sc-if>
+      </article>
+    </sc-if>
+  </main>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  state = { ok: false, semana: null, dia: null, copiado: false };
+  componentDidMount() {
+    const q = new URLSearchParams(location.search), F = window.MED_FIXO || {}, s = +(q.get('s') || F.s), d = +(q.get('d') || F.d);
+    if (s >= 1 && s <= 52) this.setState({ semana: s, dia: d >= 1 && d <= 6 ? d : null });
+    const pronto = () => window.IA && window.MEDITACOES;
+    if (pronto()) this.setState({ ok: true });
+    else this.t = setInterval(() => { if (pronto()) { clearInterval(this.t); this.setState({ ok: true }); } }, 50);
+  }
+  componentWillUnmount() { clearInterval(this.t); }
+  abrir(n, d) { this.setState({ semana: n, dia: d || null, copiado: false }); window.scrollTo(0, 0); }
+  renderVals() {
+    const base = { naCapa: true, naSemana: false, semanas: [], prontas: 0, dias: [] };
+    if (!this.state.ok) return base;
+    const IA = window.IA, M = window.MEDITACOES;
+    const NOMES = ['Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado', 'Domingo'];
+    const MESES = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+    const dt = (s, d) => new Date(2026, 10, 30 + (s - 1) * 7 + (d - 1));
+    const curta = x => String(x.getDate()).padStart(2, '0') + '/' + String(x.getMonth() + 1).padStart(2, '0');
+    const longa = x => x.getDate() + ' de ' + MESES[x.getMonth()] + ' de ' + x.getFullYear();
+    const porSemana = {};
+    Object.keys(M).forEach(k => { const m = k.match(/s(\d+)-d(\d)$/); if (m) { (porSemana[+m[1]] = porSemana[+m[1]] || {})[+m[2]] = M[k]; } });
+    const ES = window.MEDITACOES_ESPECIAIS || {};
+    Object.keys(ES).forEach(k => { const e = ES[k]; (porSemana[e.semana] = porSemana[e.semana] || {})[e.dia] = Object.assign({ especial: true }, e); });
+    const semanas = Array.from({ length: 52 }, (_, i) => {
+      const n = i + 1, tem = !!porSemana[n];
+      return { n, data: curta(dt(n, 1)), off: !tem, cursor: tem ? 'pointer' : 'default', borda: tem ? '#14213d' : '#e3e8f0', fundo: tem ? '#14213d' : '#fff', cor: tem ? '#fff' : '#a7b0c4', abrir: () => tem && this.abrir(n) };
+    });
+    const comum = { hojeLonga: IA.hojeLonga(), pagInicio: IA.pagInicio, semanas, prontas: Object.keys(porSemana).length };
+    const n = this.state.semana, sem = n && porSemana[n];
+    if (!sem) return { ...comum, naCapa: true, naSemana: false, dias: [] };
+    const disp = Object.keys(sem).map(Number).sort((a, b) => a - b);
+    const h0 = new Date(); h0.setHours(0, 0, 0, 0);
+    const off = Math.round((h0 - new Date(2026, 10, 30)) / 864e5);
+    const hojeDia = Math.floor(off / 7) + 1 === n ? (off % 7) + 1 : 0;
+    const dia = this.state.dia && sem[this.state.dia] ? this.state.dia : (sem[hojeDia] ? hojeDia : disp[0]);
+    try { const u = new URL(location.href); if (u.searchParams.get('s') != n || u.searchParams.get('d') != dia) { u.searchParams.set('s', n); u.searchParams.set('d', dia); history.replaceState(null, '', u); } } catch (e) {}
+    const dias = NOMES.map((nome, i) => {
+      const d = i + 1, tem = !!sem[d], on = d === dia;
+      return { nome, data: curta(dt(n, d)), tema: !tem ? '' : sem[d].especial ? sem[d].festa : (sem[d].tema || '').replace(/\s*\(§.*\)$/, ''), off: !tem, cursor: tem ? 'pointer' : 'default', borda: on ? '#14213d' : tem ? '#c9d3e3' : '#e3e8f0', fundo: on ? '#14213d' : '#fff', cor: on ? '#fff' : tem ? '#14213d' : '#a7b0c4', abrir: () => tem && this.setState({ dia: d, copiado: false }) };
+    });
+    if (!sem[7]) dias.pop();
+    const ar = sem[dia];
+    const temaSemana = (Object.values(sem).find(x => x.temaSemana) || {}).temaSemana || '';
+    comum.temaSemana = temaSemana;
+    comum.periodo = curta(dt(n, 1)) + ' a ' + curta(dt(n, 6)) + '/' + dt(n, 6).getFullYear();
+    const voltar = () => { try { const u = new URL(location.href); u.searchParams.delete('s'); u.searchParams.delete('d'); history.replaceState(null, '', u); } catch (e) {} this.setState({ semana: null, dia: null }); window.scrollTo(0, 0); };
+    if (!ar) return { ...comum, naCapa: false, naSemana: true, n, dias, temTexto: false, semTexto: true, voltar, a: { blocos: [] } };
+    const tipo = t => t.startsWith('## ') ? 'sub' : t.startsWith('#3 ') ? 'sub3' : t.startsWith('• ') ? 'item' : t.startsWith('> ') ? 'cit' : t.startsWith('~ ') ? 'verso' : t.startsWith('^ ') ? 'centro' : 'par';
+    const limpa = t => t.replace(/^(## |#3 |• |> |~ |\^ )/, '');
+    const blocos = [];
+    ar.corpo.forEach(t => {
+      const k = tipo(t), ult = blocos[blocos.length - 1];
+      if (k === 'verso' && ult && ult.verso) { ult.estrofes.push(limpa(t)); return; }
+      blocos.push({ sub: k === 'sub', sub3: k === 'sub3', item: k === 'item', cit: k === 'cit', verso: k === 'verso', centro: k === 'centro', par: k === 'par', texto: limpa(t), estrofes: k === 'verso' ? [limpa(t)] : [] });
+    });
+    const texto = [ar.titulo, ar.linhaFina, ''].concat(ar.corpo.map(t => { const k = tipo(t); return k === 'sub' || k === 'sub3' ? '\n' + limpa(t) : limpa(t); })).join('\n\n');
+    const proxDia = disp.find(x => x > dia);
+    const proxSem = !proxDia && porSemana[n + 1] ? n + 1 : null;
+    return {
+      ...comum, naCapa: false, naSemana: true, n, dias, temTexto: true, semTexto: false,
+      a: { titulo: ar.titulo, linhaFina: ar.linhaFina, blocos, temTema: !!ar.tema, tema: ar.tema, dia: 'Semana ' + n + ' · ' + NOMES[dia - 1] + ', ' + longa(dt(n, dia)), temFesta: !!ar.especial, festa: ar.festa || '', temImg: !!ar.imagem, bg: 'url("' + ar.imagem + '")', kicker: 'Semana ' + n + ' · ' + NOMES[dia - 1] + (ar.kicker ? ' · ' + ar.kicker : '') },
+      voltar,
+      temProxima: !!(proxDia || proxSem), rotuloProxima: proxDia ? NOMES[proxDia - 1] + ' →' : 'Próxima semana →',
+      proxima: () => proxDia ? (this.setState({ dia: proxDia, copiado: false }), window.scrollTo(0, 0)) : this.abrir(proxSem),
+      rotuloCopiar: this.state.copiado ? 'Copiado ✓' : 'Copiar texto',
+      copiar: () => { navigator.clipboard && navigator.clipboard.writeText(texto).then(() => this.setState({ copiado: true })); }
+    };
+  }
+}
+</script>
+</body>
+</html>

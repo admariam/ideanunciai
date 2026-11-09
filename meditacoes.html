@@ -6,6 +6,7 @@
 <meta property="og:site_name" content="Ide, anunciai!">
 <meta property="og:title" content="Meditações Diárias do Tratado da Verdadeira Devoção">
 <meta property="og:description" content="Um caminho de 52 semanas pelo Tratado de São Luís Maria Grignion de Montfort.">
+<meta name="description" content="Um caminho de 52 semanas pelo Tratado de São Luís Maria Grignion de Montfort.">
 <meta property="og:image" content="https://ideanunciai.com.br/assets/meditacao-verdadeira-devocao-thumb.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="675">
@@ -153,7 +154,7 @@
 class Component extends DCLogic {
   state = { ok: false, semana: null, dia: null, copiado: false };
   componentDidMount() {
-    const q = new URLSearchParams(location.search), s = +q.get('s'), d = +q.get('d');
+    const q = new URLSearchParams(location.search), F = window.MED_FIXO || {}, s = +(q.get('s') || F.s), d = +(q.get('d') || F.d);
     if (s >= 1 && s <= 52) this.setState({ semana: s, dia: d >= 1 && d <= 6 ? d : null });
     const pronto = () => window.IA && window.MEDITACOES;
     if (pronto()) this.setState({ ok: true });
