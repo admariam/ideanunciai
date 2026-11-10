@@ -71,22 +71,11 @@
 
     <sc-if value="{{ naSemana }}" hint-placeholder-val="{{ false }}">
       <article style="display:flex;flex-direction:column;gap:22px">
-        <div>
-          <button onClick="{{ voltar }}" style="font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#14213d;background:#fff;border:1px solid #c9d3e3;padding:8px 14px;border-radius:999px;cursor:pointer" style-hover="border-color:#14213d">← Todas as semanas</button>
-        </div>
         <div style="display:flex;flex-direction:column;gap:12px">
           <div style="display:flex;flex-direction:column;gap:4px">
             <h2 style="margin:0;font-weight:500;font-size:26px;text-wrap:pretty">Semana {{ n }} · Meditações Diárias do Tratado da Verdadeira Devoção</h2>
             <span style="font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;letter-spacing:0.08em;color:#8a2f2a">{{ periodo }}</span>
             <p style="margin:0;font-size:19px;font-style:italic;color:#3d4660;text-wrap:pretty">{{ temaSemana }}</p>
-          </div>
-          <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(112px,1fr));gap:8px">
-            <sc-for list="{{ dias }}" as="d" hint-placeholder-count="6">
-              <button onClick="{{ d.abrir }}" disabled="{{ d.off }}" style="display:flex;flex-direction:column;align-items:center;gap:4px;font-family:'Source Sans 3',sans-serif;font-size:13px;font-weight:600;padding:12px 10px;border-radius:12px;cursor:{{ d.cursor }};border:1px solid {{ d.borda }};background:{{ d.fundo }};color:{{ d.cor }}" style-hover="border-color:#14213d">
-                <span>{{ d.nome }} · {{ d.data }}</span>
-                <span style="font-family:'EB Garamond',Georgia,serif;font-size:14px;font-weight:400;font-style:italic;line-height:1.2;text-align:center">{{ d.tema }}</span>
-              </button>
-            </sc-for>
           </div>
         </div>
         <sc-if value="{{ semTexto }}" hint-placeholder-val="{{ false }}">
@@ -140,9 +129,6 @@
         </div>
         <div style="display:flex;gap:8px;flex-wrap:wrap;font-family:'Source Sans 3',sans-serif">
           <button onClick="{{ copiar }}" style="font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#fff;background:#14213d;border:none;padding:9px 16px;border-radius:999px;cursor:pointer" style-hover="background:#23325a">{{ rotuloCopiar }}</button>
-          <sc-if value="{{ temProxima }}" hint-placeholder-val="{{ false }}">
-            <button onClick="{{ proxima }}" style="font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#14213d;background:#fff;border:1px solid #c9d3e3;padding:8px 14px;border-radius:999px;cursor:pointer" style-hover="border-color:#14213d">{{ rotuloProxima }}</button>
-          </sc-if>
         </div>
         </div>
         </sc-if>
