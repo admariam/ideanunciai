@@ -47,7 +47,7 @@
         <div role="img" style="aspect-ratio:16/9;border-radius:20px;background-color:#23325a;background-image:url('assets/meditacao-verdadeira-devocao.jpg');background-size:cover;background-position:center 25%"></div>
         <div style="display:flex;flex-direction:column;gap:10px">
           <span style="font-family:'Source Sans 3',sans-serif;font-size:11px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:#8a2f2a">São Luís Maria Grignion de Montfort</span>
-          <h1 style="margin:0;font-weight:500;font-size:clamp(32px,5.2vw,48px);line-height:1.06;text-wrap:balance"><i>Meditações Diárias do Tratado da Verdadeira Devoção</i></h1>
+          <h1 style="margin:0;font-weight:500;font-size:clamp(32px,5.2vw,48px);line-height:1.06;text-wrap:balance;text-align:center"><i>Meditações Diárias do Tratado da Verdadeira Devoção</i></h1>
           
         </div>
         <div style="display:flex;flex-direction:column;gap:14px;border-top:1px solid #e3e8f0;padding-top:22px">
@@ -75,7 +75,7 @@
         </div>
         <div style="display:flex;flex-direction:column;gap:12px">
           <div style="display:flex;flex-direction:column;gap:4px">
-            <h2 style="margin:0;font-weight:500;font-size:26px">Semana {{ n }}</h2>
+            <h2 style="margin:0;font-weight:500;font-size:26px;text-wrap:pretty">Semana {{ n }} · Meditações Diárias do Tratado da Verdadeira Devoção</h2>
             <span style="font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;letter-spacing:0.08em;color:#8a2f2a">{{ periodo }}</span>
             <p style="margin:0;font-size:19px;font-style:italic;color:#3d4660;text-wrap:pretty">{{ temaSemana }}</p>
           </div>
@@ -212,7 +212,7 @@ class Component extends DCLogic {
     const proxSem = !proxDia && porSemana[n + 1] ? n + 1 : null;
     return {
       ...comum, naCapa: false, naSemana: true, n, dias, temTexto: true, semTexto: false,
-      a: { titulo: ar.titulo, linhaFina: ar.linhaFina, blocos, temTema: !!ar.tema, tema: ar.tema, dia: 'Semana ' + n + ' · ' + NOMES[dia - 1] + ', ' + longa(dt(n, dia)), temFesta: !!ar.especial, festa: ar.festa || '', temImg: !!ar.imagem, bg: 'url("' + ar.imagem + '")', kicker: 'Semana ' + n + ' · ' + NOMES[dia - 1] + (ar.kicker ? ' · ' + ar.kicker : '') },
+      a: { titulo: ar.titulo, linhaFina: ar.linhaFina, blocos, temTema: !!ar.tema, tema: ar.tema, dia: NOMES[dia - 1] + ', ' + longa(dt(n, dia)), temFesta: !!ar.especial, festa: ar.festa || '', temImg: !!ar.imagem, bg: 'url("' + ar.imagem + '")', kicker: 'Semana ' + n + ' · ' + NOMES[dia - 1] + (ar.kicker ? ' · ' + ar.kicker : '') },
       voltar,
       temProxima: !!(proxDia || proxSem), rotuloProxima: proxDia ? NOMES[proxDia - 1] + ' →' : 'Próxima semana →',
       proxima: () => proxDia ? (this.setState({ dia: proxDia, copiado: false }), window.scrollTo(0, 0)) : this.abrir(proxSem),
