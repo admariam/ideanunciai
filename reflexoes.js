@@ -2338,6 +2338,138 @@ window.REFLEXOES = [
     ],
     "minutos": 6,
     "imagem": "assets/2026-11-13.jpg"
+  },
+  {
+    "data": "2026-11-14",
+    "tempo": "32ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Orar sempre, sem desanimar",
+    "frase": "A demora que desanima é a paciência de quem quer salvar.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "3 João 1,5-8"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 111(112),1-2.3-4.5-6 (R. 1)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 18,1-8"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 18,1-8",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus contou aos discípulos uma parábola, para mostrar que era preciso orar sempre, sem desanimar. Disse ele: “Numa cidade havia um juiz que não temia a Deus e não respeitava homem algum. Na mesma cidade havia também uma viúva, que vinha à procura do juiz, dizendo: ‘Faze-me justiça contra o meu adversário!’ Durante muito tempo, o juiz se recusou. Por fim, ele pensou: ‘Eu não temo a Deus, nem respeito homem algum. Mas, como esta viúva está me aborrecendo, vou fazer-lhe justiça, para que ela não venha me importunar indefinidamente’”.\n\nE o Senhor acrescentou: “Escutai o que diz este juiz injusto. E Deus, não fará justiça aos seus escolhidos, que dia e noite gritam por ele? Será que vai fazê-los esperar? Eu vos digo que Deus lhes fará justiça bem depressa. Mas, quando vier o Filho do Homem, será que ainda vai encontrar fé sobre a terra?”"
+    },
+    "reflexao": [
+      "Lucas anuncia de antemão para que serve a parábola: Jesus a contou «para mostrar que era preciso orar sempre, sem desanimar». O verbo grego traduzido por «desanimar», enkakein, quer dizer perder a coragem no meio do caminho. O evangelista o escolhe porque conhece o risco do discípulo, que quase nunca abandona a oração de uma vez e vai deixando de rezar aos poucos, à medida que a resposta demora. O homem foi criado para falar com Deus, e o Catecismo define a oração como elevação da alma a Deus (CIC 2559), de modo que quem deixa de rezar abandona aquilo para o que foi criado.",
+      "Esse desânimo tem nome na tradição espiritual: é a acédia, que o Catecismo descreve como uma forma de depressão, nascida do relaxamento da vida espiritual e da negligência do coração (CIC 2733). Contra ela Jesus põe diante dos discípulos uma viúva, que na Escritura é a pessoa sem defensor e por isso mesmo a protegida de Deus (Dt 10,18), e que só tem para oferecer a insistência. O juiz não teme a Deus nem respeita ninguém, e atende a viúva apenas para que ela deixe de incomodá-lo.",
+      "Jesus tira a conclusão por contraste: se até esse juiz acaba fazendo justiça, quanto mais Deus, que é Pai, a fará àqueles que clamam a Ele dia e noite. A pergunta «Será que vai fazê-los esperar?» usa o verbo makrothymei, o mesmo com que Pedro afirma que o Senhor, sem atrasar a promessa, tem paciência conosco para que todos cheguem ao arrependimento (2Pd 3,9). A demora que desanima o discípulo é, portanto, a paciência de quem quer salvar, e a justiça maior já foi feita, pois quem não poupou o próprio Filho, mas o entregou por todos nós, nos dará com ele todas as coisas (Rm 8,32). Jesus ensina o que Ele mesmo pratica: passou a noite em oração antes de escolher os Doze (Lc 6,12) e, no Getsêmani, orava com mais insistência (Lc 22,44).",
+      "A parábola termina com uma pergunta que o texto deixa sem resposta: «Quando vier o Filho do Homem, será que ainda vai encontrar fé sobre a terra?». A fé de que Jesus fala é a que continua rezando sem receber resposta, e ela aparece em atos, como mostra a carta de João. O Ancião elogia Gaio, que recebia em casa os irmãos missionários de passagem pela comunidade, dizendo que ele age como fiel em tudo o que faz por eles (3Jo 5). A expressão grega, pistón poieîs, indica que a obra de Gaio é própria da fé. Os missionários, explica o Ancião, saíram por amor do Nome sem aceitar nada dos pagãos, e por isso os cristãos devem sustentá-los, a fim de se tornarem cooperadores da verdade (3Jo 7-8). O grego, synergoí, é a palavra dos que trabalham juntos, e quem reza e quem sustenta o missionário trabalham na mesma obra.",
+      "O salmo descreve esse homem: respeita o Senhor, se compraz em seus mandamentos, se compadece e empresta, e a memória do justo será eterna (Sl 111[112],1.5-6). A última promessa se cumpre em Gaio, pois o que sabemos dele cabe em poucos versículos, e a Igreja proclama o nome dele na Missa porque ele recebeu em casa quem anunciava o Evangelho.",
+      "Agora, resta perguntar: que pedido deixei de fazer a Deus porque a resposta demorou? E de que modo a minha fé alcança quem leva o Evangelho adiante?",
+      "Hoje, posso retomar um pedido que abandonei, rezando por ele num horário fixo e sem marcar prazo para Deus. Posso também ajudar um missionário, um padre ou um catequista da minha comunidade, com uma oferta, uma visita ou um convite para o almoço."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu me ensinaste a orar sempre, sem desanimar, e passaste a noite em oração por mim. Perdoa-me as vezes em que deixei de pedir porque a resposta demorou.",
+      "Dá-me a perseverança da viúva e a confiança de um filho, para esperar de Ti o que ainda não vi.",
+      "Abençoa os que partem pelo teu Nome e faze de mim um cooperador da verdade."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-14.jpg"
+  },
+  {
+    "data": "2026-11-15",
+    "tempo": "33º Domingo do Tempo Comum — Ano A",
+    "memoria": "Dia Mundial dos Pobres",
+    "cor": "Verde",
+    "titulo": "Servo bom e fiel",
+    "frase": "Tudo o que o homem tem para oferecer foi antes recebido.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Provérbios 31,10-13.19-20.30-31"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 127(128),1-2.3.4-5ab (R. cf. 1a)"
+      },
+      {
+        "rotulo": "Segunda leitura",
+        "ref": "1 Tessalonicenses 5,1-6"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Mateus 25,14-30"
+      }
+    ],
+    "evangelho": {
+      "ref": "Mt 25,14-30",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Mateus",
+      "texto": "Naquele tempo, Jesus contou esta parábola a seus discípulos: “Um homem ia viajar para o estrangeiro. Chamou seus empregados e lhes entregou seus bens. A um deu cinco talentos, a outro dois, e ao terceiro um, a cada qual de acordo com a sua capacidade. Em seguida, viajou. O empregado que havia recebido cinco talentos, logo saiu, trabalhou com eles e lucrou outros cinco. Do mesmo modo, o que havia recebido dois, lucrou outros dois. Mas aquele que havia recebido um só, saiu, cavou um buraco na terra e escondeu o dinheiro do seu patrão.\n\nDepois de muito tempo, o patrão voltou e foi acertar contas com os empregados. O empregado que havia recebido cinco talentos entregou-lhe mais cinco, dizendo: ‘Senhor, tu me entregaste cinco talentos. Aqui estão outros cinco que lucrei’. O patrão lhe disse: ‘Muito bem, servo bom e fiel! Como foste fiel na administração de tão pouco, eu te confiarei muito mais. Vem participar da alegria do teu Senhor!’ Chegou também o que havia recebido dois talentos, e disse: ‘Senhor, tu me entregaste dois talentos. Aqui estão outros dois que lucrei’. O patrão lhe disse: ‘Muito bem, servo bom e fiel! Como foste fiel na administração de tão pouco, eu te confiarei muito mais. Vem participar da alegria do teu Senhor!’\n\nPor fim, chegou aquele que havia recebido um talento, e disse: ‘Senhor, sei que és um homem severo, pois colhes onde não plantaste e ceifas onde não semeaste. Por isso, fiquei com medo e escondi o teu talento na terra. Aqui tens o que é teu’. O patrão lhe respondeu: ‘Servo mau e preguiçoso! Tu sabias que eu colho onde não plantei e que ceifo onde não semeei? Então devias ter depositado meu dinheiro no banco, para que, ao chegar, eu recebesse com juros o que é meu. Tirai dele o talento e dai-o àquele que tem dez. Porque a todo aquele que tem será dado mais, e ele terá em abundância; mas daquele que não tem, até o que tem lhe será tirado. Quanto a esse servo inútil, jogai-o lá fora, nas trevas. Ali haverá choro e ranger de dentes’”."
+    },
+    "reflexao": [
+      "Antes de viajar, o homem da parábola entrega os seus bens aos empregados, cinco talentos a um, dois a outro e um ao terceiro, «a cada qual de acordo com a sua capacidade». O talento era uma medida de prata que valia seis mil denários, mais de quinze anos de salário de um diarista, e por isso até o empregado que recebeu um só ficou com uma fortuna. A nossa palavra «talento», no sentido de dom ou aptidão, nasceu desta parábola, e o uso já diz o que ela ensina: tudo o que o homem tem para oferecer foi antes recebido (1Cor 4,7).",
+      "O terceiro empregado cavou um buraco e escondeu o dinheiro. Quando o patrão volta, ele explica que o conhecia como homem severo, que colhe onde não plantou, e que por isso teve medo e foi esconder o talento. Quem tem medo e se esconde já apareceu nas Escrituras: Adão, depois do pecado, respondeu a Deus «tive medo e me escondi» (Gn 3,10), e a serpente o havia convencido de que Deus guardava para si o que era melhor (Gn 3,5). O empregado repete o engano de Adão, pois vê como alguém que só sabe tirar o patrão que acabara de lhe dar uma fortuna. Ele não cometeu crime nenhum, e o patrão o chama de mau e preguiçoso; o adjetivo grego, oknērós, designa quem hesita e recua diante do trabalho. A sentença, lançá-lo fora, nas trevas (Mt 25,30), ensina que o pecado de omissão é pecado de verdade.",
+      "Os dois primeiros empregados recebem do patrão a mesma frase: «Muito bem, servo bom e fiel! Como foste fiel na administração de tão pouco, eu te confiarei muito mais. Vem participar da alegria do teu Senhor!». Quem tinha cinco e quem tinha dois ouvem o mesmo elogio, o que mostra que o patrão mede a fidelidade, sem olhar o tamanho do lucro. A alegria que lhes é oferecida é a do próprio Senhor, a mesma que Jesus deseja dar aos discípulos (Jo 15,11). Quando chama o terceiro de «servo inútil», o patrão usa a palavra achreîos, a mesma que Jesus põe na boca de quem fez tudo o que devia (Lc 17,10). Reconhecer-se inútil diante de Deus é humildade de quem trabalhou, e inútil de verdade é quem enterrou o que recebeu.",
+      "A primeira leitura mostra quem trabalha como os dois primeiros empregados. O poema que encerra o livro dos Provérbios louva a mulher forte (o hebraico chayil é o termo de força e valor, usado também para o exército), que trabalha com mãos habilidosas e abre a mão ao pobre (Pr 31,13.20). O poema diz que a graça é enganosa e a beleza é vã, e que será louvada a mulher que teme o Senhor (Pr 31,30). A Igreja celebra hoje o Dia Mundial dos Pobres, instituído pelo Papa Francisco ao fim do Jubileu da Misericórdia, em 2016, e o tema que o Papa Leão XIV escolheu para este ano é «O Senhor é o refúgio do pobre» (Sl 14,6). O Catecismo ensina que Deus abençoa os que socorrem os pobres e reprova os que se afastam deles (CIC 2443), de modo que enterrar o talento é também deixar o pobre sem o que o Senhor quis fazer chegar a ele por nossas mãos.",
+      "Paulo escreve aos tessalonicenses que o dia do Senhor virá como o ladrão à noite (1Ts 5,2), mas que eles são filhos da luz e filhos do dia e, por isso, devem vigiar e ser sóbrios (1Ts 5,4-6). A parábola mostra o que significa esse vigiar. O patrão volta «depois de muito tempo», e o empregado vigilante é o que, durante essa ausência, trabalhou com o que recebeu. O tempo da Igreja é esse tempo longo entre a partida e a volta do Senhor, e quem o aproveita com os dons que tem espera o dia sem medo.",
+      "O salmo promete ao que teme o Senhor que comerá do trabalho das suas mãos (Sl 127[128],1-2). O temor de que fala é o respeito de filho, que confia no Pai e por isso trabalha. O medo do terceiro empregado é o do escravo, que o cristão não recebeu: «não recebestes um espírito de escravos para recair no temor, mas o espírito de filhos adotivos» (Rm 8,15).",
+      "Agora, resta perguntar: que dons recebi de Deus, e qual deles ainda está enterrado por medo de errar ou por comodismo? E o que tenho nas mãos que um pobre perto de mim poderia receber?",
+      "Hoje, posso fazer a lista dos dons que Deus me deu, no trabalho, na família e na comunidade, e escolher um deles para pôr a serviço de alguém ainda hoje. Posso também levar um auxílio concreto a uma pessoa pobre, como uma cesta, uma visita ou um tempo de escuta, neste Dia Mundial dos Pobres."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu me deste a vida e confiaste a mim dons que eu não mereci. Perdoa-me o medo com que os escondi e a desconfiança de ter feito de Ti um patrão duro.",
+      "Faze-me trabalhar com o que me deste, como a mulher forte, e abrir a mão ao pobre, a quem Tu mesmo defendes.",
+      "Quando voltares, encontra-me vigilante e a trabalhar, e dá-me entrar na alegria do meu Senhor."
+    ],
+    "minutos": 7,
+    "imagem": "assets/2026-11-15.jpg"
+  },
+  {
+    "data": "2026-11-16",
+    "tempo": "33ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Senhor, eu quero ver novamente",
+    "frase": "O primeiro uso da vista recuperada é seguir quem a devolveu.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 1,1-4; 2,1-5a"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 1,1-2.3.4 e 6 (R. Ap 2,7b)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 18,35-43"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 18,35-43",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, quando Jesus se aproximava de Jericó, havia um cego sentado à beira do caminho, pedindo esmola. Ouvindo a multidão passar, o cego perguntou o que estava acontecendo. Responderam-lhe que Jesus, o Nazareno, estava passando por ali. Então o cego gritou: “Jesus, Filho de Davi, tem piedade de mim!” Os que iam na frente repreendiam o cego para que se calasse. Mas ele gritava mais ainda: “Filho de Davi, tem piedade de mim!”\n\nJesus parou e mandou que levassem o cego até ele. Quando o cego chegou perto, Jesus perguntou: “O que queres que eu faça por ti?” O cego respondeu: “Senhor, eu quero ver novamente”. Jesus disse: “Recupera a vista! A tua fé te curou”. No mesmo instante, o cego recuperou a vista e começou a seguir Jesus, glorificando a Deus. Vendo isso, todo o povo também louvou a Deus."
+    },
+    "reflexao": [
+      "Jesus se aproxima de Jericó, e à beira do caminho está um cego que pede esmola. Ele não vê, mas ouve que a multidão passa e pergunta o que está acontecendo; quando lhe respondem que é Jesus, o Nazareno, grita: «Jesus, Filho de Davi, tem piedade de mim!». Os que o rodeiam dizem Nazareno, o nome da cidade de onde Jesus veio, e o cego diz Filho de Davi, o título do Messias esperado (2Sm 7,12-13). O homem foi criado para ver a Deus, e Jesus promete que os puros de coração o verão (Mt 5,8). O cego é a imagem de quem o pecado deixou à beira do caminho, sem ver e pedindo esmola, e a súplica dele, eléēson me, é a que a Igreja repete no início da Missa, no Kyrie eleison.",
+      "Os que iam na frente o repreendiam para que se calasse, e ele gritava mais ainda. Essa gente acompanhava Jesus, e nem por isso tinha ouvidos para quem pedia ajuda a Ele. Jesus, porém, se detém e manda que levem o cego até Ele, e os mesmos que mandavam calar passam a servi-lo. Quando o cego chega perto, Jesus pergunta: «O que queres que eu faça por ti?». Ele sabe o que falta ao cego e pergunta mesmo assim, porque Deus, que nos criou sem nós, não quer salvar-nos sem nós, como escreve Santo Agostinho (Sermão 169, 11, 13; CIC 1847): a graça pede que o homem diga o que deseja.",
+      "O cego pede: «Senhor, eu quero ver novamente», e Jesus lhe responde: «Recupera a vista!». O verbo é o mesmo nas duas falas, anablépsō e anáblepson, que quer dizer olhar para cima e ver de novo, e Jesus concede exatamente o que foi pedido. A fé do cego, que gritou apesar de mandarem calar, é a que o curou, e o verbo grego dessa frase, sésōken, é o mesmo que a Escritura usa para salvar. O homem começa então a seguir Jesus, glorificando a Deus, e o primeiro uso da vista recuperada é seguir quem a devolveu.",
+      "A multidão de Jericó caminhava com Jesus e mandava calar o cego, e o que aconteceu ali pode acontecer com quem segue o Senhor há muito tempo, como mostra a primeira leitura. O Apocalipse começa como «revelação de Jesus Cristo» (apokálypsis) e declara feliz quem lê e quem ouve as palavras dessa profecia e guarda o que nelas está escrito (Ap 1,1-3). A primeira carta é para a Igreja de Éfeso, e o Senhor abre dizendo que conhece as obras dela, o esforço e a perseverança: Éfeso desmascarou os falsos apóstolos, sofreu pelo nome de Cristo e não desanimou (Ap 2,2-3). Em seguida vem a queixa: «Tenho contra ti o fato de teres abandonado o teu primeiro amor» (Ap 2,4). Éfeso tinha a doutrina certa e o trabalho constante, e perdeu o amor do começo; o pecado nomeado é a tibieza, que conserva as obras e deixa o amor diminuir.",
+      "O Senhor reconhece o bem que Éfeso fez antes de repreendê-la, e manda lembrar de onde ela caiu, converter-se e retomar as primeiras obras (Ap 2,5), o que mostra que o primeiro amor pode ser recuperado. O salmo indica de onde as obras tiram a vida: o justo é como a árvore plantada junto à água, que dá fruto no tempo certo (Sl 1,3). Ela dá fruto porque está junto da água, e as obras de Éfeso precisavam voltar a se alimentar do amor. O refrão de hoje, tirado do fim da própria carta a Éfeso, promete ao vencedor a árvore da vida, que está no paraíso de Deus (Ap 2,7).",
+      "Agora, resta perguntar: continuo fazendo o que a fé pede, mas já não ouço quem grita ao meu lado? E, se Jesus me perguntasse agora o que quero que Ele faça por mim, saberia responder?",
+      "Hoje, posso lembrar como era a minha oração quando comecei a seguir o Senhor e retomar uma prática daquele tempo, como a leitura diária da Palavra ou o terço em família. Posso também dar atenção a uma pessoa que costumo deixar de lado, ouvindo o que ela tem a dizer sem pressa."
+    ],
+    "oracao": [
+      "Senhor Jesus, Filho de Davi, tem piedade de mim. Eu quero ver de novo.",
+      "Perdoa-me o amor que diminuiu entre as muitas coisas que faço por Ti, e faze-me lembrar de onde caí.",
+      "Dá-me ouvidos para o grito de quem está à beira do caminho e coragem para não o calar, e que eu Te siga, glorificando a Deus."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-16.jpg"
   }
 ];
 
