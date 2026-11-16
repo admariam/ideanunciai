@@ -2470,6 +2470,178 @@ window.REFLEXOES = [
     ],
     "minutos": 5,
     "imagem": "assets/2026-11-16.jpg"
+  },
+  {
+    "data": "2026-11-17",
+    "tempo": "33ª Semana do Tempo Comum",
+    "memoria": "Santa Isabel da Hungria, religiosa — Memória",
+    "cor": "Branco",
+    "titulo": "Hoje a salvação entrou nesta casa",
+    "frase": "Quem abre a porta ao Senhor abre-a também ao pobre.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 3,1-6.14-22"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 14(15),1a e 2-3ab.3cd-4ab.5 (R. Ap 3,21)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 19,1-10"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 19,1-10",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus entrou em Jericó e atravessava a cidade. Havia ali um homem muito rico chamado Zaqueu, chefe dos cobradores de impostos. Ele procurava ver quem era Jesus, mas não conseguia, por causa da multidão, pois era de baixa estatura. Então correu na frente e subiu num sicômoro para ver Jesus, que devia passar por ali. Quando chegou ao lugar, Jesus olhou para cima e disse: “Zaqueu, desce depressa, pois hoje preciso ficar em tua casa”. Zaqueu desceu depressa e recebeu Jesus com alegria.\n\nTodos os que viram isso começaram a murmurar, dizendo: “Ele foi hospedar-se na casa de um pecador!” Zaqueu, de pé, disse ao Senhor: “Senhor, eu dou a metade dos meus bens aos pobres; e se prejudiquei alguém, vou devolver quatro vezes mais”. Jesus lhe disse: “Hoje a salvação entrou nesta casa, porque também este homem é filho de Abraão. Com efeito, o Filho do Homem veio procurar e salvar o que estava perdido”."
+    },
+    "reflexao": [
+      "Lucas apresenta Zaqueu com uma palavra que só aparece aqui no Novo Testamento, architelōnēs, o chefe dos cobradores de impostos, e acrescenta que ele era rico. O texto diz também que ele procurava ver quem era Jesus, e o verbo grego está no imperfeito (ezétei), que indica um desejo que já vinha de antes e continuava. O homem foi criado para buscar a Deus, e o Catecismo ensina que o desejo de Deus está inscrito no coração humano (CIC 27), de modo que até o cobrador de impostos mais malvisto da cidade carregava esse desejo.",
+      "Como a multidão o impedia de ver e ele era de baixa estatura, Zaqueu corre adiante e sobe numa árvore, coisa que um homem rico e importante não costumava fazer em público. Jesus, ao chegar ao lugar, olha para cima e o chama pelo nome: «Zaqueu, desce depressa, pois hoje preciso ficar em tua casa». O verbo é deî, que Lucas usa para o que Deus quer que aconteça (Lc 2,49; 9,22), e por isso a visita faz parte do plano do Pai. Zaqueu procurava ver Jesus, mas quem de fato procurava era Jesus, como Ele diz no fim da passagem, ao afirmar que o Filho do Homem veio procurar e salvar o que estava perdido.",
+      "A multidão murmura que Jesus foi hospedar-se na casa de um pecador, e tem razão quanto ao nome, pois Zaqueu cobrava impostos para Roma e enriquecera com isso. Jesus entra, Zaqueu o recebe com alegria, e a conversão vem depois, sem que ninguém tenha exigido a restituição antes: «Senhor, eu dou a metade dos meus bens aos pobres; e se prejudiquei alguém, vou devolver quatro vezes mais». A Lei mandava restituir o que se tomou injustamente e acrescentar um quinto (Lv 6,5), e a pena de quatro vezes era a do roubo de uma ovelha (Ex 21,37), de modo que Zaqueu paga mais do que a Lei exigia. O Catecismo ensina que quem pecou contra o próximo deve fazer o possível para reparar o dano, restituindo, por exemplo, o que tomou (CIC 1459), e Zaqueu o faz antes de ouvir qualquer ordem.",
+      "A primeira leitura mostra o outro lado da porta. Na carta à Igreja de Laodiceia, o Senhor diz que está à porta e bate, e que, se alguém ouvir a sua voz e abrir, Ele entrará e cearão juntos (Ap 3,20). Laodiceia era rica e dizia não precisar de nada, e o Senhor a chama de infeliz, miserável, pobre, cega e nua (Ap 3,17); aconselha-a a comprar d’Ele ouro purificado no fogo (Ap 3,18) e acrescenta que repreende e educa os que ama (Ap 3,19). A carta a Sardes diz a uma comunidade com fama de viva que ela está morta (Ap 3,1). Zaqueu, tido pela multidão como pecador, foi quem reconheceu a própria necessidade: abriu a casa, recebeu Jesus à mesa e, ao dar aos pobres a metade do que tinha, fez a compra que o Apocalipse aconselha.",
+      "Quem abre a porta ao Senhor abre-a também ao pobre, e foi o que fez Santa Isabel da Hungria, que a Igreja recorda hoje. Filha do rei André II da Hungria, nascida em 1207, casou-se aos catorze anos com Luís IV da Turíngia e usou os bens que tinha para ajudar os pobres. Viúva aos vinte anos, foi para Marburgo, onde fundou um hospital e serviu pessoalmente os doentes, e morreu em 1231, aos vinte e quatro anos, sendo canonizada em 1235 pelo Papa Gregório IX. O que Zaqueu prometeu, repartir os bens com os pobres, ela cumpriu até o fim, dando também as próprias forças aos doentes.",
+      "O salmo pergunta quem morará na casa do Senhor e responde descrevendo o que Zaqueu e Isabel passaram a ser: quem vive sem mancha, pratica a justiça e não empresta dinheiro a juros (Sl 14[15],1-5). O refrão promete ao vencedor o que a mesa de Zaqueu apenas anunciava, sentar-se com Cristo no seu trono (Ap 3,21).",
+      "Agora, resta perguntar: ouço o Senhor bater à porta e a mantenho fechada com a desculpa de que nada me falta? E há alguém a quem devo uma restituição que venho adiando?",
+      "Hoje, posso identificar um dano que causei a alguém, em dinheiro, em fama ou em tempo, e começar a repará-lo. Posso também dar a um pobre parte do que tenho, sem esperar que sobre."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu estás à porta e bates, e hoje eu Te abro a minha casa. Perdoa-me o que retive de alheio e a pressa com que me julguei rico e sem necessidade.",
+      "Por intercessão de Santa Isabel da Hungria, ensina-me a servir-Te nos pobres.",
+      "Entra, fica comigo e faze-me sentar à tua mesa."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-17.jpg"
+  },
+  {
+    "data": "2026-11-18",
+    "tempo": "33ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Negociai até que eu volte",
+    "frase": "Quem foi fiel no pouco passa a servir no muito.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 4,1-11"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 150,1-2.3-4.5-6 (R. Ap 4,8b)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 19,11-28"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 19,11-28",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus estava perto de Jerusalém, e os que o escutavam pensavam que o Reino de Deus ia aparecer de um momento para outro. Por isso, Jesus contou-lhes ainda uma parábola. Disse: “Um homem nobre partiu para um país distante, a fim de ser nomeado rei e depois voltar. Chamou dez empregados, deu-lhes dez moedas de ouro e disse: ‘Negociai até que eu volte’. Mas os seus concidadãos o odiavam e enviaram atrás dele uma delegação para dizer: ‘Não queremos que este homem reine sobre nós’.\n\nQuando voltou, depois de ter sido nomeado rei, mandou chamar os empregados a quem tinha dado o dinheiro, para saber quanto cada um tinha lucrado. O primeiro chegou e disse: ‘Senhor, a tua moeda de ouro rendeu dez moedas’. O rei respondeu: ‘Muito bem, servo bom! Como foste fiel em coisa de tão pouco valor, recebe como prêmio o governo de dez cidades’. O segundo chegou e disse: ‘Senhor, a tua moeda rendeu cinco’. O rei também lhe disse: ‘Tu também ficarás à frente de cinco cidades’.\n\nChegou outro e disse: ‘Senhor, aqui está a tua moeda de ouro. Eu a guardei num lenço, pois tinha medo de ti, que és um homem severo: tu retiras o que não puseste e colhes o que não semeaste’. O rei lhe disse: ‘Servo mau, eu te julgo pela tua própria boca! Sabias que sou um homem severo, que retiro o que não pus e colho o que não semeei. Então, por que não depositaste o meu dinheiro no banco? Ao voltar, eu o teria recebido com juros’. E disse aos que estavam presentes: ‘Tirai dele a moeda de ouro e dai-a àquele que tem dez’. Eles disseram: ‘Senhor, ele já tem dez moedas!’ ‘Eu vos digo: a todo aquele que tem será dado; mas a quem não tem, será tirado até o que tem. E quanto àqueles meus inimigos, que não queriam que eu reinasse sobre eles, trazei-os aqui e matai-os na minha frente!’”\n\nDito isto, Jesus caminhou na frente, subindo para Jerusalém."
+    },
+    "reflexao": [
+      "Lucas diz por que Jesus conta esta parábola: ele estava perto de Jerusalém, e os que o ouviam pensavam que o Reino de Deus ia aparecer de um momento para outro (Lc 19,11). A resposta é uma história sobre um homem de família nobre que vai a um país distante para ser nomeado rei e depois voltar. A cena era conhecida, pois Arquelau, filho de Herodes, tinha viajado a Roma para receber o título de rei, e uma delegação de judeus foi atrás dele para pedir que não o nomeassem, como conta o historiador Flávio Josefo. Jesus aplica a história a si mesmo: Ele também vai partir para ser constituído rei, e o evangelista termina a passagem dizendo que Jesus caminhava à frente, subindo para Jerusalém (Lc 19,28).",
+      "Entre a partida e a volta do rei fica o tempo dos servos, e a ordem dele é curta: «Negociai até que eu volte». O verbo grego, pragmateúsasthe, é o de quem se ocupa de negócios, e dele vem a nossa palavra «pragmático»; o rei manda fazer render o que entregou. Cada servo recebe a mesma quantia, que no grego é uma mina, cerca de cem dias de salário de um diarista, e por isso o rei a chama de coisa de tão pouco valor. A recompensa é desproporcional, pois quem multiplicou a mina recebe o governo de dez cidades: o Senhor paga com autoridade e serviço, e quem foi fiel no pouco passa a servir no muito.",
+      "Os concidadãos do homem nobre, porém, mandam dizer: «Não queremos que este homem reine sobre nós». O Catecismo reconhece essa recusa na origem do pecado: o homem, tentado, deixou morrer no coração a confiança no Criador e desobedeceu, e todo pecado depois disso é desobediência a Deus e falta de confiança na sua bondade (CIC 397). Enquanto os servos trabalham para o rei, os cidadãos querem governar a si mesmos, e a parábola termina com a sentença mais dura, a que recai sobre os inimigos que não quiseram o rei (Lc 19,27). Jesus diz isso a caminho de Jerusalém, onde ouvirá dos que o entregam que não têm outro rei senão César (Jo 19,15).",
+      "A primeira leitura mostra quem é o rei. Uma voz convida João a subir ao céu (Ap 4,1), a mesma ideia de subida com que o Evangelho termina, e ele vê um trono com alguém sentado nele. Em torno do trono há vinte e quatro anciãos em tronos menores e quatro seres vivos que proclamam dia e noite «Santo, santo, santo, Senhor Deus todo-poderoso» (Ap 4,8), as palavras de Isaías (Is 6,3) que a Igreja repete na Missa antes da consagração. Quando os seres vivos dão glória, os anciãos se prostram e lançam suas coroas diante do trono, dizendo que o Senhor é digno de receber a glória, a honra e o poder, porque criou todas as coisas e por sua vontade elas existem (Ap 4,10-11).",
+      "Os anciãos têm coroas e as depõem diante do trono, porque reconhecem que tudo o que são existe por vontade do Criador. Essa é a atitude contrária à frase dos cidadãos, e é também a do servo fiel, que entrega ao rei o que rendeu.",
+      "O salmo que fecha o Saltério convida a louvar o Senhor por seus feitos poderosos, com trombeta, harpa, cítara, tambor e flauta, e termina pedindo que tudo o que respira louve o Senhor (Sl 150,1-6). O fôlego de cada um foi dado por Deus (Gn 2,7), e o louvor é a primeira coisa que se devolve a quem o deu.",
+      "Agora, resta perguntar: quando penso em Cristo como Rei, aceito que Ele reine também sobre o meu trabalho, o meu dinheiro e o meu tempo? E o que fiz render do que Ele me confiou?",
+      "Hoje, posso começar o dia oferecendo a Deus o trabalho que tenho pela frente, como quem recebe a moeda do rei, e à noite prestar contas a Ele em oração. Posso também escolher uma decisão que venho tomando só por vontade própria, no trabalho ou em casa, e submetê-la a Ele antes de agir."
+    ],
+    "oracao": [
+      "Senhor Jesus, Rei que partiu para voltar, eu Te reconheço como meu Senhor. Perdoa-me as vezes em que, sem dizer, repeti que não queria que reinasses sobre mim.",
+      "Faze-me negociar com fidelidade o que me confiaste, e dá-me um coração que Te louve com o fôlego que me deste.",
+      "Quando voltares, encontra-me a trabalhar."
+    ],
+    "minutos": 6,
+    "imagem": "assets/2026-11-18.jpg"
+  },
+  {
+    "data": "2026-11-19",
+    "tempo": "33ª Semana do Tempo Comum",
+    "memoria": "Santos Roque González, Afonso Rodríguez e João de Castillo, presbíteros e mártires — Memória",
+    "cor": "Vermelho",
+    "titulo": "O tempo em que foste visitada",
+    "frase": "Deus não se alegra com a perda de quem o recusa.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 5,1-10"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 149,1-2.3-4.5-6a e 9b (R. Ap 5,10)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 19,41-44"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 19,41-44",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, quando Jesus se aproximou de Jerusalém e viu a cidade, chorou sobre ela, dizendo: “Se tu também tivesses compreendido, neste dia, o que te pode trazer a paz! Mas agora isso está escondido aos teus olhos. Pois virão dias em que os teus inimigos te cercarão com trincheiras, te sitiarão e te apertarão por todos os lados. Eles te arrasarão, a ti e aos teus filhos, e não deixarão em ti pedra sobre pedra, porque não reconheceste o tempo em que foste visitada”."
+    },
+    "reflexao": [
+      "Jesus chega perto de Jerusalém, vê a cidade e chora sobre ela. O verbo é eklausen, o do choro alto, com soluços, bem diferente do edákrysen de Jo 11,35, que fala de lágrimas derramadas, e Lucas só o usa aqui para Jesus. O nome da cidade costuma ser interpretado como «cidade da paz», e Jesus lamenta que ela não conheça o que lhe traz a paz.",
+      "O que traz a paz é Ele mesmo, e a cidade não o reconheceu. Jesus diz que ela «não reconheceu o tempo em que foi visitada». A palavra grega é episkopē, visita, da mesma raiz de epískopos, o bispo, aquele que visita e vigia. A mesma raiz já aparecera no cântico de Zacarias, quando ele bendiz o Senhor porque visitou e redimiu o seu povo (Lc 1,68). O pecado de que Jesus fala é deixar passar a visita de Deus sem percebê-la, e qualquer cidade e qualquer pessoa pode cometê-lo. Ele anuncia o cerco e a destruição que viriam com os romanos, no ano 70, e anuncia chorando, o que mostra que Deus não se alegra com a perda de quem o recusa.",
+      "Na primeira leitura também há choro. João vê no céu um livro selado com sete selos e, como ninguém é digno de abri-lo, chora muito (Ap 5,4), com o mesmo verbo, eklaion. Um dos anciãos lhe diz que não chore, porque o Leão da tribo de Judá venceu (Ap 5,5), e João, ao olhar, vê um Cordeiro de pé, como que imolado (Ap 5,6). O vencedor, que o ancião chama de Leão, aparece como Cordeiro imolado. A resposta às lágrimas de Jesus sobre Jerusalém e às de João no céu é a mesma: o Cordeiro que foi imolado abre o livro da história, e o seu sangue compra para Deus homens de toda tribo, língua, povo e nação (Ap 5,9).",
+      "Desses homens, diz o cântico novo, Ele fez para Deus «um reino de sacerdotes» (Ap 5,10), e o Catecismo recorda que o próprio Cristo fez da Igreja esse reino (CIC 1546). Três sacerdotes jesuítas viveram isso até o fim, e a Igreja os recorda hoje: Roque González, nascido em Assunção, e os espanhóis Afonso Rodríguez e João de Castillo. Trabalharam entre os guaranis, fundando reduções. Roque e Afonso foram mortos em Caaró, no dia 15 de novembro de 1628, e João dois dias depois, em Pirapó, por seguidores do cacique Ñezú, que se opunha à pregação cristã. Os dois lugares ficam no que hoje é o Rio Grande do Sul. São João Paulo II os canonizou em Assunção, em 16 de maio de 1988. Os guaranis estão entre as tribos e línguas de que fala o cântico novo, e esses homens deram o sangue por eles, como o Cordeiro deu o seu.",
+      "O salmo manda cantar ao Senhor um canto novo (Sl 149,1), o mesmo que os anciãos entoam diante do Cordeiro (Ap 5,9). O canto é novo porque celebra uma vitória nova, e o salmista diz que o Senhor ama o seu povo e dá a vitória aos humildes (Sl 149,4).",
+      "Agora, resta perguntar: reconheço as visitas de Deus na minha vida, como uma palavra ouvida na Missa, um pobre que bate à porta ou um convite à confissão? E rezo com tristeza verdadeira por quem se afastou de Deus, ou me conformo com a distância?",
+      "Hoje, posso rezar um terço, ou ao menos uma dezena, pela conversão de alguém que se afastou da Igreja. Posso também agradecer a um missionário ou a um padre pelo que fez por mim, com uma mensagem ou um bilhete."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu choraste sobre a cidade que não reconheceu a tua visita. Perdoa-me as visitas tuas que deixei passar sem perceber.",
+      "Cordeiro imolado, que com o teu sangue compraste gente de toda tribo e língua, dá-me o amor que levou São Roque González, Santo Afonso Rodríguez e São João de Castillo a dar a vida pelos guaranis.",
+      "Faze de mim parte do teu reino de sacerdotes, e que eu reconheça a hora em que me visitas."
+    ],
+    "minutos": 4,
+    "imagem": "assets/2026-11-19.jpg"
+  },
+  {
+    "data": "2026-11-20",
+    "tempo": "33ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Minha casa será casa de oração",
+    "frase": "A casa se torna casa de oração onde a Palavra é pregada e ouvida.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 10,8-11"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 118(119),14.24.72.103.111.131 (R. 103a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 19,45-48"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 19,45-48",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus entrou no Templo e começou a expulsar os vendedores, dizendo: “Está escrito: ‘Minha casa será casa de oração’. Mas vós fizestes dela um covil de ladrões”. Todos os dias, Jesus ensinava no Templo. Os sumos sacerdotes, os doutores da Lei e os chefes do povo procuravam matá-lo, mas não sabiam o que fazer, porque todo o povo ficava ouvindo Jesus com muita atenção."
+    },
+    "reflexao": [
+      "Jesus entra no Templo e começa a expulsar os vendedores, e explica o gesto com duas passagens da Escritura: «Minha casa será casa de oração» (Is 56,7), «mas vós fizestes dela um covil de ladrões» (Jr 7,11). Quem conhece Jeremias percebe o alcance da frase, pois o profeta falou à porta do Templo contra gente que roubava, matava e cometia adultério e depois entrava na casa do Senhor, dizendo-se a salvo (Jr 7,9-10). Um covil é o lugar onde os ladrões se escondem depois do roubo, e o pecado que Jesus denuncia é usar a religião como esconderijo para a injustiça. O comércio ocupava o pátio exterior, onde os não judeus podiam entrar, e o texto de Isaías diz que a casa do Senhor é casa de oração para todos os povos (Is 56,7).",
+      "O homem foi feito para que Deus habite nele, e Paulo diz aos coríntios que o corpo é templo do Espírito Santo (1Cor 6,19) e que o templo de Deus, que são eles, é santo (1Cor 3,17). O comércio no Templo de pedra mostra o que pode acontecer com o templo da alma quando se faz com Deus um negócio, em que se reza para obter, se serve para ser visto, e a casa de oração vira praça de comércio. O Catecismo lembra que a igreja, casa de Deus, é o lugar próprio da oração litúrgica e o lugar privilegiado da adoração (CIC 2691).",
+      "Depois de limpar o Templo, Jesus o usa para o que ele foi feito: ensinava ali todos os dias (Lc 19,47). A casa se torna casa de oração onde a Palavra é pregada e ouvida. Os chefes dos sacerdotes, os doutores da Lei e os principais do povo procuravam matá-lo e não achavam como, porque o povo todo ficava suspenso dos seus lábios: o verbo, exekrémato, diz que o povo pendia dele quando o ouvia.",
+      "A primeira leitura mostra o que fazer com a Palavra. João vê um anjo com um livrinho aberto e ouve a ordem de tomá-lo e devorá-lo: na boca será doce como o mel, e no estômago amargo (Ap 10,9), imagem que já aparece em Ezequiel, que comeu o rolo e o achou doce como mel (Ez 3,1-3). Ele o come e sente as duas coisas (Ap 10,10), e logo ouve que precisa profetizar ainda sobre muitos povos, nações, línguas e reis (Ap 10,11). O Catecismo diz que a Palavra de Deus é alimento da alma e fonte pura e perene da vida espiritual (CIC 131), e a ordem do anjo é a de comer a Palavra, sem se contentar em examiná-la. A doçura vem do encontro com ela, e a amargura, de vivê-la e anunciá-la, como Jesus soube: o povo pendia dos seus lábios, e os chefes procuravam matá-lo.",
+      "O salmo diz o que o profeta sentiu na boca: como são doces ao paladar as palavras do Senhor, mais que o mel (Sl 118[119],103). O salmista mostra ainda a atitude de quem se alimenta assim, que abre a boca e aspira, porque deseja os mandamentos (v. 131).",
+      "Agora, resta perguntar: o que ocupa hoje o templo da minha alma e me impede de rezar como eu queria? E eu como a Palavra de Deus ou apenas olho para ela, de longe?",
+      "Hoje, posso ler o Evangelho do dia devagar, escolher uma frase e levá-la comigo até a noite, repetindo-a. Posso também, ao entrar numa igreja, guardar silêncio e deixar de lado as conversas e o celular."
+    ],
+    "oracao": [
+      "Senhor Jesus, entra no templo da minha vida e expulsa o que o faz lugar de negócio. Perdoa-me quando rezei só para obter e quando usei a religião para me esconder do que devia mudar.",
+      "Faze da minha alma casa de oração.",
+      "Dá-me fome da tua Palavra, doce quando a recebo e firme quando custa, e que eu fique suspenso dos teus lábios."
+    ],
+    "minutos": 4,
+    "imagem": "assets/2026-11-20.jpg"
   }
 ];
 
