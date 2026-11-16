@@ -56,6 +56,10 @@
             
           </div>
           <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(92px,1fr));gap:10px">
+            <a href="meditacoes-apresentacao.html" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;aspect-ratio:1/1;border-radius:14px;font-family:'Source Sans 3',sans-serif;background:#14213d;color:#fff;border:1px solid #14213d;text-align:center" style-hover="background:#23325a;color:#fff">
+              <span style="font-size:10px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase">Comece</span>
+              <span style="font-family:'EB Garamond',Georgia,serif;font-size:19px;font-weight:500;line-height:1.05">Apresen&shy;tação</span>
+            </a>
             <sc-for list="{{ semanas }}" as="s" hint-placeholder-count="52">
               <button onClick="{{ s.abrir }}" disabled="{{ s.off }}" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;aspect-ratio:1/1;border-radius:14px;font-family:'Source Sans 3',sans-serif;cursor:{{ s.cursor }};border:1px solid {{ s.borda }};background:{{ s.fundo }};color:{{ s.cor }}" style-hover="border-color:#14213d">
                 <span style="font-size:10px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase">Semana</span>
@@ -86,15 +90,15 @@
           <div role="img" style="aspect-ratio:16/9;border-radius:20px;background-color:#23325a;background-image:{{ a.bg }};background-size:cover;background-position:center 25%"></div>
         </sc-if>
         <sc-if value="{{ a.temTema }}" hint-placeholder-val="{{ true }}">
-          <div style="display:flex;flex-direction:column;gap:6px">
+          <div style="display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center">
             <span style="font-family:'Source Sans 3',sans-serif;font-size:11px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:#8a2f2a">{{ a.dia }}</span>
             <sc-if value="{{ a.temFesta }}" hint-placeholder-val="{{ false }}">
-              <span style="align-self:flex-start;font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#fff;background:#8a2f2a;padding:5px 12px;border-radius:999px">{{ a.festa }}</span>
+              <span style="align-self:center;font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#fff;background:#8a2f2a;padding:5px 12px;border-radius:999px">{{ a.festa }}</span>
             </sc-if>
-            <h3 style="margin:0;font-weight:500;font-size:clamp(28px,4.6vw,38px);line-height:1.1;text-wrap:pretty">{{ a.tema }}</h3>
+            <h3 style="margin:0;font-weight:500;font-size:clamp(28px,4.6vw,38px);line-height:1.1;text-wrap:balance;text-align:center">{{ a.tema }}</h3>
           </div>
         </sc-if>
-        <div style="display:flex;flex-direction:column;gap:16px">
+        <div style="display:flex;flex-direction:column;gap:30px">
           <sc-for list="{{ a.blocos }}" as="b" hint-placeholder-count="6">
             <sc-if value="{{ b.sub }}" hint-placeholder-val="{{ false }}">
               <h3 style="margin:10px 0 0;font-family:'Source Sans 3',sans-serif;font-size:13px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;color:#14213d">{{ b.texto }}</h3>
@@ -103,7 +107,7 @@
               <p style="margin:0;font-size:19px;line-height:1.65;text-align:justify;hyphens:auto">{{ b.texto }}</p>
             </sc-if>
             <sc-if value="{{ b.sub3 }}" hint-placeholder-val="{{ false }}">
-              <h4 style="margin:6px 0 -6px;font-size:20px;font-weight:600;color:#14213d">{{ b.texto }}</h4>
+              <h4 style="margin:6px 0 -6px;font-size:20px;font-weight:600;color:#14213d;text-align:center">{{ b.texto }}</h4>
             </sc-if>
             <sc-if value="{{ b.item }}" hint-placeholder-val="{{ false }}">
               <div style="display:flex;gap:10px;font-size:18px;line-height:1.55;margin-top:-8px">
@@ -112,9 +116,9 @@
               </div>
             </sc-if>
             <sc-if value="{{ b.verso }}" hint-placeholder-val="{{ false }}">
-              <div style="display:flex;flex-direction:column;gap:6px">
+              <div style="display:flex;flex-direction:column;gap:10px">
                 <sc-for list="{{ b.estrofes }}" as="e" hint-placeholder-count="2">
-                  <p style="margin:0;white-space:pre-line;font-size:18px;line-height:1.5;font-style:italic;color:#23325a;text-align:justify;hyphens:auto">{{ e }}</p>
+                  <p style="margin:0;white-space:pre-line;font-size:18px;line-height:1.5;font-style:italic;color:#23325a;text-align:center;text-wrap:pretty">{{ e }}</p>
                 </sc-for>
               </div>
             </sc-if>
