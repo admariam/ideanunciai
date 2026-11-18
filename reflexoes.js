@@ -2519,7 +2519,7 @@ window.REFLEXOES = [
     "data": "2026-11-18",
     "tempo": "33ª Semana do Tempo Comum — Ano II",
     "cor": "Verde",
-    "titulo": "Negociai até que eu volte",
+    "titulo": "Fiel no pouco",
     "frase": "Quem foi fiel no pouco passa a servir no muito.",
     "leituras": [
       {
