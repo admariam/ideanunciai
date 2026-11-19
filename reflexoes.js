@@ -2642,6 +2642,142 @@ window.REFLEXOES = [
     ],
     "minutos": 4,
     "imagem": "assets/2026-11-20.jpg"
+  },
+  {
+    "data": "2026-11-21",
+    "tempo": "33ª Semana do Tempo Comum",
+    "memoria": "Apresentação da Bem-aventurada Virgem Maria — Memória",
+    "cor": "Branco",
+    "titulo": "Eis a minha mãe e os meus irmãos",
+    "frase": "Maria ouvia e cumpria como quem pertencia inteira a Deus.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Zacarias 2,14-17"
+      },
+      {
+        "rotulo": "Cântico",
+        "ref": "Lucas 1,46-47.48-49.50-51.52-53.54-55 (R. cf. 54b)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Mateus 12,46-50"
+      }
+    ],
+    "evangelho": {
+      "ref": "Mt 12,46-50",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Mateus",
+      "texto": "Naquele tempo, enquanto Jesus estava falando às multidões, sua mãe e seus irmãos chegaram e ficaram do lado de fora, procurando falar com ele. Alguém lhe disse: “Tua mãe e teus irmãos estão aí fora e querem falar contigo”. Jesus perguntou àquele que lhe falava: “Quem é a minha mãe? E quem são os meus irmãos?” E, estendendo a mão para os discípulos, disse: “Eis a minha mãe e os meus irmãos! Pois todo aquele que faz a vontade do meu Pai que está nos céus, esse é meu irmão, minha irmã e minha mãe”."
+    },
+    "reflexao": [
+      "Jesus está falando às multidões quando lhe avisam que sua mãe e seus irmãos esperam do lado de fora, e a pergunta com que Ele responde («Quem é a minha mãe? E quem são os meus irmãos?») pode soar, numa leitura apressada, como um afastamento. A resposta completa mostra o contrário, pois Jesus estende a mão para os discípulos e diz que é seu irmão, sua irmã e sua mãe todo aquele que faz a vontade do seu Pai que está nos céus (Mt 12,49-50). Maria fez essa vontade desde o dia em que respondeu ao anjo: «Faça-se em mim segundo a tua palavra» (Lc 1,38). Santo Agostinho, comentando esta passagem, pergunta se a Virgem Maria não cumpria a vontade do Pai e responde que cumpria, e perfeitamente (Sermão 72A).",
+      "Lucas guarda outra cena que ajuda a ler esta. Uma mulher da multidão chama de feliz o ventre que trouxe Jesus, e Ele responde: «Felizes, antes, os que ouvem a palavra de Deus e a observam» (Lc 11,27-28). A resposta não tira nada de Maria, que Isabel já havia proclamado bem-aventurada porque acreditou no que o Senhor lhe disse (Lc 1,45), de modo que a felicidade que Jesus indica aos ouvintes é a que ela possuía antes de todos.",
+      "Maria ouvia e cumpria como quem pertencia inteira a Deus, e é isso que a Igreja recorda hoje na Apresentação da Bem-aventurada Virgem Maria. A tradição conta que Joaquim e Ana levaram a menina ao Templo de Jerusalém para oferecê-la a Deus. O relato vem do Protoevangelho de Tiago, um escrito apócrifo do século II, e os seus pormenores não constam das Escrituras, de modo que a memória celebra o que eles exprimem, a pertença de Maria ao Senhor desde o princípio. A festa começou em Jerusalém, com a dedicação, em 543, da igreja de Santa Maria Nova, perto do Templo; o Papa Gregório XI a introduziu em Avignon em 1372, e Sisto V a estendeu à Igreja inteira em 1585.",
+      "A primeira leitura mostra o que Deus faz com quem lhe pertence por inteiro. O profeta Zacarias diz à filha de Sião: «Alegra-te e exulta, pois venho habitar no meio de ti» (Zc 2,14). O verbo hebraico, shakhan, deu nome à Shekhiná, a presença de Deus no meio do povo, e o prólogo de João anuncia essa presença quando diz que o Verbo se fez carne e habitou entre nós (Jo 1,14). A promessa feita a Sião se cumpre em Maria, de quem o Filho de Deus recebeu a carne, e o profeta acrescenta que naquele dia muitas nações se unirão ao Senhor e serão o seu povo (Zc 2,15).",
+      "O que Maria diz de si mesma está no Magnificat, que a liturgia põe hoje no lugar do salmo. Ela não conta mérito nenhum: diz que Deus «olhou para a humildade de sua serva» e que o Todo-poderoso «fez por mim grandes coisas» (Lc 1,48-49). A palavra grega traduzida por humildade, tapeínōsis, diz a condição pequena de quem não tinha o que apresentar, e foi sobre essa condição que Deus pôs o olhar. O cântico lembra o de Ana, a mãe de Samuel, que levou o menino ao santuário e o entregou ao Senhor (1Sm 1,24-28) e rezou dizendo que o seu coração exultava no Senhor (1Sm 2,1). O Catecismo reconhece no Magnificat o cântico da Mãe de Deus e da Igreja (CIC 2619).",
+      "O lugar que Jesus dá a Maria nesta passagem fica aberto a todos, e a condição é a mesma, fazer a vontade do Pai. É nesse ponto que costumamos falhar: ouvimos a Palavra na Missa e saímos sem tocar no que ela pede, e o Batismo e a família cristã nos põem perto de Jesus, mas a proximidade sozinha não faz de ninguém mãe ou irmão dele. Santo Agostinho, no mesmo sermão, pergunta aos fiéis como poderão ser mãe de Cristo, e a resposta está na frase do Senhor: fazendo a vontade do Pai. A graça de cumprir essa vontade vem de Deus, que preparou Maria para recebê-la e a oferece a quem a pede.",
+      "Agora, resta perguntar: qual é a vontade do Pai que eu já conheço e ainda não cumpri? E a minha pertença à Igreja e à comunidade tem substituído a obediência que Jesus pede?",
+      "Hoje, posso rezar o Magnificat ao fim do dia e, antes disso, escrever numa folha uma coisa que sei ser vontade de Deus para mim e que venho adiando. Posso cumpri-la ainda hoje, por menor que seja."
+    ],
+    "oracao": [
+      "Senhor Deus, aceita a minha vida inteira, como a Virgem Maria Te ofereceu a sua. Perdoa-me a demora em cumprir a tua vontade.",
+      "Por intercessão de Nossa Senhora, dá-me ouvidos para a tua Palavra e firmeza para guardá-la.",
+      "Faze-me contar entre os que Jesus chama de irmão, irmã e mãe."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-21.jpg"
+  },
+  {
+    "data": "2026-11-22",
+    "tempo": "34º Domingo do Tempo Comum — Ano A",
+    "memoria": "Nosso Senhor Jesus Cristo, Rei do Universo — Solenidade",
+    "cor": "Branco",
+    "titulo": "O seu reino não terá fim",
+    "frase": "Para o cristão, reinar é servir a Cristo nos pobres.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Ezequiel 34,11-12.15-17"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 22(23),1-2a.2b-3.5-6 (R. 1)"
+      },
+      {
+        "rotulo": "Segunda leitura",
+        "ref": "1 Coríntios 15,20-26.28"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Mateus 25,31-46"
+      }
+    ],
+    "evangelho": {
+      "ref": "Mt 25,31-46",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Mateus",
+      "texto": "Naquele tempo, disse Jesus a seus discípulos: “Quando o Filho do Homem vier em sua glória, acompanhado de todos os anjos, então se assentará no trono de sua glória. Todas as nações serão reunidas diante dele, e ele separará uns dos outros, assim como o pastor separa as ovelhas dos cabritos. Colocará as ovelhas à sua direita, e os cabritos à sua esquerda.\n\nEntão o Rei dirá aos que estiverem à sua direita: ‘Vinde, benditos de meu Pai! Recebei como herança o Reino que meu Pai vos preparou desde a criação do mundo. Pois eu tive fome, e me destes de comer; tive sede, e me destes de beber; fui forasteiro, e me recebestes em casa; estive nu, e me vestistes; fiquei doente, e cuidastes de mim; estive preso, e fostes visitar-me’. Então os justos perguntarão: ‘Senhor, quando foi que te vimos com fome e te demos de comer? Com sede e te demos de beber? Quando foi que te vimos como forasteiro e te recebemos em casa, ou nu e te vestimos? Quando foi que te vimos doente ou preso e fomos visitar-te?’ Então o Rei lhes responderá: ‘Em verdade vos digo, todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes!’\n\nDepois o Rei dirá aos que estiverem à sua esquerda: ‘Afastai-vos de mim, malditos, para o fogo eterno, preparado para o diabo e para os seus anjos! Pois eu tive fome, e não me destes de comer; tive sede, e não me destes de beber; fui forasteiro, e não me recebestes em casa; estive nu, e não me vestistes; fiquei doente e preso, e não cuidastes de mim’. Então eles também perguntarão: ‘Senhor, quando foi que te vimos com fome, com sede, como forasteiro, nu, doente ou preso, e não te servimos?’ E o Rei lhes responderá: ‘Em verdade vos digo, todas as vezes que deixastes de fazer isso a um dos menores, foi a mim que deixastes de fazê-lo!’ Portanto, estes irão para o castigo eterno, e os justos para a vida eterna”."
+    },
+    "reflexao": [
+      "A Igreja encerra o ano litúrgico com a Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo, e o Evangelho mostra como esse Rei exerce o seu reinado. O Filho do Homem se assenta no trono da sua glória e, diante das nações reunidas, separa as pessoas como o pastor separa as ovelhas dos cabritos (Mt 25,31-32). A festa foi instituída por Pio XI, em 1925, na encíclica Quas primas, para responder ao laicismo, que ele via como a peste do seu tempo, e Paulo VI a pôs, em 1969, no último domingo do Tempo Comum.",
+      "O critério do julgamento está nas palavras do Rei. Ele diz aos que estão à sua direita que o socorreram em cada necessidade que enumera, da fome à prisão, e os justos perguntam quando foi que o fizeram, pois não sabiam que era a Ele que serviam. O grego do versículo 40, elachístōn, é o superlativo de «pequeno» e designa os menores entre os irmãos do Rei, nos quais a Igreja reconhece os pobres e os que sofrem. O Catecismo ensina que a atitude para com o próximo revelará a acolhida ou a recusa da graça e do amor divino (CIC 678).",
+      "A sentença contra os da esquerda tem a mesma forma. O Rei não fala de roubo nem de violência: a culpa deles é a de não ter dado de comer ao faminto, e eles também perguntam quando foi que o viram com fome. O Catecismo diz que o juízo final mostrará, em suas últimas consequências, o bem que cada um tiver feito ou omitido (CIC 1039). A Escritura fala de fogo eterno, e o que ela diz do inferno é, segundo o Catecismo, um apelo à responsabilidade com que o homem deve usar a sua liberdade em vista do seu destino eterno (CIC 1036).",
+      "O Rei que julga é o Pastor que a primeira leitura apresenta. Por Ezequiel, o Senhor diz: «Eu mesmo vou procurar as minhas ovelhas e cuidar delas» (Ez 34,11), e promete procurar a que estiver perdida, reconduzir a desgarrada, curar a ferida e fortalecer a doente (Ez 34,16). O «eu mesmo» se opõe aos pastores de Israel, que se apascentavam a si mesmos (Ez 34,2). A passagem termina com o anúncio de que o Senhor vai julgar entre ovelha e ovelha, entre carneiros e bodes (Ez 34,17), cena que Jesus retoma quando o pastor separa as ovelhas dos cabritos. O Senhor que sai à procura de quem se perdeu pergunta a cada ovelha, no fim, o que fez pelas outras.",
+      "A segunda leitura mostra até onde vai esse reinado. Paulo escreve que Cristo ressuscitou como aparchē, as primícias dos que morreram (1Cor 15,20), palavra que designa a primeira parte da colheita, oferecida a Deus como garantia da que vinha depois. Ele acrescenta que é necessário (deî) que Cristo reine até pôr todos os inimigos debaixo dos seus pés, sendo a morte o último a ser destruído (1Cor 15,25-26). Quem alimenta o faminto e cuida do doente defende a vida contra esse inimigo, e o Rei reconhece essas obras como feitas a Ele. Quando tudo lhe estiver submetido, o Filho entregará o Reino ao Pai, para que Deus seja tudo em todos (1Cor 15,24.28), e o Credo, que repete o anúncio do anjo a Maria, afirma que o seu reino não terá fim (Lc 1,33).",
+      "O salmo do dia diz o que o rebanho recebe do Pastor: «Nada me falta» (Sl 22,1), e Ele prepara a refeição diante dos inimigos (Sl 22,5), entre os quais Paulo contou a morte. O último verso, em que o fiel espera habitar na casa do Senhor por longos dias (Sl 22,6), descreve o Reino que o Rei diz ter preparado para os benditos desde a criação do mundo (Mt 25,34).",
+      "Cristo é Rei de todos, e o seu reino se realiza na vida de quem o serve. O Catecismo ensina que, para o cristão, reinar é servir a Cristo, sobretudo nos pobres e nos que sofrem, em quem a Igreja reconhece a imagem do seu Fundador pobre e sofredor (CIC 786). O pecado que nos ameaça diante dessa verdade é viver como se Ele não reinasse sobre o nosso dinheiro e o nosso tempo, e pedir ao Rei que cuide de nós sem perguntar o que Ele espera de nós. A graça para mudar vem do próprio Pastor, que nos procura primeiro (Ez 34,11), e quem foi encontrado por Ele aprende a procurar quem está perdido.",
+      "Agora, resta perguntar: se o Rei me perguntasse hoje o que fiz pelo necessitado que esteve ao meu alcance nesta semana, o que eu responderia? E em que parte da minha vida eu ainda reino sozinho, sem submetê-la a Ele?",
+      "Hoje, posso escolher uma pessoa necessitada que conheço, um parente doente ou um vizinho idoso, e fazer por ela uma ajuda concreta: uma visita ou uma compra de que ela precise. Posso também dizer ao Senhor, ao fim do dia, em que parte da minha vida Ele ainda não reina e entregá-la a Ele."
+    ],
+    "oracao": [
+      "Senhor Jesus Cristo, Rei do Universo, reina sobre a minha vida inteira. Perdoa-me o que deixei de fazer pelos teus irmãos mais pequeninos.",
+      "Pastor que procuras a ovelha perdida, procura-me quando eu me afastar e ensina-me a procurar quem está perdido.",
+      "Quando vieres na tua glória, recebe-me no Reino que preparaste."
+    ],
+    "minutos": 7,
+    "imagem": "assets/2026-11-22.jpg"
+  },
+  {
+    "data": "2026-11-23",
+    "tempo": "34ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Tudo o que tinha para viver",
+    "frase": "Quem dá o que tem para viver passa a depender só de Deus.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 14,1-3.4b-5"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 23(24),1-2.3-4ab.5-6 (R. cf. 6)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 21,1-4"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 21,1-4",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus, levantando os olhos, viu os ricos que depositavam as suas ofertas no cofre do Tesouro do Templo. Viu também uma viúva pobre, que depositava duas pequenas moedas. E disse: “Em verdade vos digo: esta pobre viúva deu mais do que todos os outros. Pois todos eles deram do que lhes sobrava; ela, porém, na sua pobreza, deu tudo o que tinha para viver”."
+    },
+    "reflexao": [
+      "Jesus levanta os olhos e vê os ricos que depositam as suas ofertas no cofre do Tesouro do Templo, e vê também uma viúva pobre que deposita duas moedinhas de valor mínimo, e diz que ela deu mais do que todos (Lc 21,1-3). Ele mostra a conta que faz: os outros deram do que lhes sobrava, e ela, na sua pobreza, deu «tudo o que tinha para viver», em grego bíos, o sustento de cada dia (Lc 21,4). Jesus não manda ninguém ficar sem o necessário, e reconhece o valor de quem se entregou por inteiro, medindo a oferta pelo que o doador guardou para si.",
+      "Lucas põe a cena logo depois da denúncia dos escribas, que devoram as casas das viúvas e fingem fazer longas orações (Lc 20,47). A viúva do Templo aparece diante dessa religião de aparência como quem não finge nada: deu duas moedas e, com elas, o seu sustento. O Catecismo cita este episódio, na versão de Marcos, entre os sinais da atenção de Jesus aos pobres (CIC 2444), e no Templo cheio de gente foi o olhar de Jesus que reparou nas duas moedas.",
+      "O Concílio Vaticano II ensina que o homem só se encontra plenamente no dom sincero de si mesmo (Gaudium et spes, 24), e a viúva mostra como isso se dá. Ela entrega a Deus, no cofre do Templo, o que a mantinha viva, e a Escritura diz que Deus faz justiça à viúva e ao órfão (Dt 10,18) e os ampara (Sl 145[146],9). Quem dá do que lhe sobra continua apoiado no que guardou, e quem dá o que tem para viver passa a depender só de Deus.",
+      "A primeira leitura mostra a companhia dos que fizeram da vida inteira uma oferta. João vê o Cordeiro de pé sobre o monte Sião e, com Ele, cento e quarenta e quatro mil, número que simboliza a totalidade do povo de Deus, trazendo escritos na fronte o nome do Cordeiro e o nome do Pai (Ap 14,1). Eles cantam diante do trono um cântico novo, que ninguém mais pode aprender (Ap 14,3), e foram resgatados como primícias para Deus e para o Cordeiro, a quem seguem por onde Ele for (Ap 14,4). A palavra aparchē, primícias, designa a primeira parte da colheita, consagrada a Deus antes do resto, e é a que Paulo aplica a Cristo ressuscitado (1Cor 15,20). O Cordeiro que eles seguem foi o primeiro a dar a vida inteira, pois ninguém a tirou dele, e Ele a deu por si mesmo (Jo 10,18).",
+      "O salmo pergunta quem subirá ao monte do Senhor e responde que sobe quem tem as mãos limpas e o coração puro (Sl 23[24],3-4). O monte é o Sião em que João vê o Cordeiro, e a condição para subir coincide com o que João diz dos que acompanham o Cordeiro: na sua boca não se achou mentira, e são irrepreensíveis (Ap 14,5). O salmo começa afirmando que do Senhor é a terra e tudo o que ela contém (Sl 23[24],1), de modo que as duas moedas da viúva já pertenciam a Ele, e dá-las foi reconhecer isso.",
+      "O que costumamos dar a Deus é o que sobra, o tempo que resta no fim do dia e o dinheiro que sobra no fim do mês, e a medida de Jesus mostra quanto ainda reservamos para nós. Dar o sustento inteiro passa da nossa força, e quem chega a um gesto assim o recebe como graça do Cordeiro que deu a vida sem reserva e que concede essa graça a quem a pede.",
+      "Agora, resta perguntar: o que eu dou a Deus e ao próximo vem do que me sobra ou do que me faria falta? E conheço, na minha família ou na comunidade, alguém que dá o que tem em silêncio e a quem eu nunca agradeci?",
+      "Hoje, posso separar uma oferta que me custe de fato, tirada do que eu usaria para mim e não do que sobraria, e entregá-la a quem precisa. Posso também agradecer pessoalmente a quem serve em silêncio na família ou na comunidade."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu vês o que ninguém vê. Aceita de mim as duas moedas que tenho, o meu tempo e o meu trabalho.",
+      "Cordeiro de Deus, que deste a vida por nós, faze-me seguir-Te por onde fores.",
+      "Guarda a minha boca da mentira e o meu coração da vaidade."
+    ],
+    "minutos": 4,
+    "imagem": "assets/2026-11-23.jpg"
   }
 ];
 
