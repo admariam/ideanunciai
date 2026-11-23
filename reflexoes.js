@@ -2778,6 +2778,178 @@ window.REFLEXOES = [
     ],
     "minutos": 4,
     "imagem": "assets/2026-11-23.jpg"
+  },
+  {
+    "data": "2026-11-24",
+    "tempo": "34ª Semana do Tempo Comum",
+    "memoria": "Santo André Dung-Lac, presbítero, e companheiros mártires — Memória",
+    "cor": "Vermelho",
+    "titulo": "Cuidado para não serdes enganados",
+    "frase": "O Templo de pedra pode cair; o do céu permanece.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 14,14-19"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 95(96),10.11-12.13 (R. 13b)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 21,5-11"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 21,5-11",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, algumas pessoas comentavam a respeito do Templo, como estava enfeitado com belas pedras e ofertas. Jesus disse: “Vós admirais estas coisas? Dias virão em que não ficará pedra sobre pedra: tudo será destruído”. Eles perguntaram: “Mestre, quando vai acontecer isso? E qual será o sinal de que estas coisas estão para acontecer?”\n\nJesus respondeu: “Cuidado para não serdes enganados! Porque muitos virão em meu nome, dizendo: ‘Sou eu!’ e: ‘O tempo está próximo!’ Não os sigais. Quando ouvirdes falar de guerras e revoluções, não vos assusteis. É preciso que estas coisas aconteçam primeiro, mas não será logo o fim”. E Jesus continuou: “Um povo se levantará contra outro povo, e um reino contra outro reino. Haverá grandes terremotos, fome e peste em diversos lugares, e fenômenos assustadores e grandes sinais vindos do céu”."
+    },
+    "reflexao": [
+      "Alguns comentam que o Templo está enfeitado com belas pedras e com anathēmata, as oferendas que o povo dava a Deus em ação de graças ou em cumprimento de promessas, e Jesus responde que virão dias em que não ficará pedra sobre pedra (Lc 21,5-6). Quem admirava o Templo olhava o que se pode ver e tocar, e o que Jesus anuncia se cumpriu no ano 70, quando os romanos o destruíram.",
+      "Os discípulos perguntam quando isso vai acontecer e qual será o sinal, e Jesus não responde com data nem com sinal; responde com um aviso: «Cuidado para não serdes enganados» (Lc 21,8). O verbo grego, planēthēte, diz ser desviado do caminho, e o desvio vem de quem fala em nome de Jesus, pois muitos virão dizendo «Sou eu!» e «O tempo está próximo!». O «Sou eu» é a fórmula com que o ressuscitado se identifica aos discípulos (Lc 24,39), e quem a toma para si quer ocupar o lugar de Cristo. O Catecismo ensina que a vinda de Cristo em glória é iminente, ainda que não nos caiba conhecer os tempos e os momentos que o Pai fixou (CIC 673). Ensina também que a impostura do Anticristo já se esboça no mundo cada vez que se pretende realizar dentro da história a esperança messiânica, que só se cumpre além dela, pelo juízo (CIC 676).",
+      "A primeira leitura mostra quem faz a colheita no fim. João vê uma nuvem branca e, sentado nela, alguém semelhante a um filho de homem, com uma coroa de ouro na cabeça e uma foice afiada na mão (Ap 14,14), imagem do Filho do Homem que Daniel viu chegar sobre as nuvens (Dn 7,13). Um anjo sai do santuário do céu e lhe grita que lance a foice, porque chegou a hora da colheita (Ap 14,15). Os anjos que saem desse santuário (Ap 14,15.17) indicam onde está o Templo verdadeiro, pois o de pedra pode cair, e o do céu permanece. A colheita e a vindima já eram imagens do juízo no profeta Joel (Jl 4,13), e o Apocalipse acrescenta que as uvas são lançadas no grande lagar da ira de Deus (Ap 14,19).",
+      "O salmo anuncia que o Senhor é rei e julgará os povos com retidão (Sl 95[96],10), e convida a criação inteira a se alegrar porque ele vem julgar a terra (Sl 95[96],11-13). O juízo, para quem espera em Cristo, é motivo de festa, porque nele a justiça que o mundo nega é feita.",
+      "Os mártires do Vietnã, que a Igreja recorda hoje, não se deixaram desviar. Tran An Dung nasceu em Bac Ninh, em 1795, numa família tão pobre que o entregou aos cuidados de um catequista, e por ele foi educado na fé e batizado com o nome de André. Ordenado sacerdote em 1823, ficou conhecido pela vida simples e pelo cuidado com os pobres. Mudou o nome de Dung para Lac, a fim de chamar menos a atenção, e arriscou levar o Evangelho às províncias mais perigosas. Preso pela terceira vez no fim de 1839, com o Padre Pedro Thi, recebeu, como ele, a ordem de pisar na cruz e não a cumpriu; foi decapitado em Hanói, em 21 de dezembro. São João Paulo II o canonizou em 19 de junho de 1988, com mais 116 companheiros escolhidos para representar uma multidão de mártires que alguns calculam entre cem mil e trezentos mil.",
+      "O que nos desvia hoje costuma ser mais discreto que uma perseguição: a mensagem que circula nas redes e anuncia a data do fim do mundo, o vidente que promete salvação a quem o seguir. Jesus já avisou, e a Igreja ensina que não nos cabe saber o tempo. A graça que mantém o fiel no caminho é a que sustentou André: a fé renovada na oração e nos sacramentos, e a perseverança no que Cristo ensinou.",
+      "Agora, resta perguntar: em que apoio a minha segurança, e isso pode cair? E que mensagem sobre o fim dos tempos, ou que promessa fácil de salvação, eu aceitei sem confrontar com o ensino da Igreja?",
+      "Hoje, posso deixar de repassar qualquer mensagem que anuncie datas ou profecias do fim do mundo e, no lugar, rezar o Credo devagar. Posso também pedir a Santo André Dung-Lac e aos seus companheiros que rezem pelos cristãos que hoje são perseguidos por causa da fé."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu nos avisaste para não sermos enganados. Guarda-me no caminho da tua Palavra.",
+      "Por intercessão de Santo André Dung-Lac e dos seus companheiros, dá-me firmeza na fé.",
+      "Vem, Senhor, quando quiseres, e encontra-me vigilante."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-24.jpg"
+  },
+  {
+    "data": "2026-11-25",
+    "tempo": "34ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "É pela vossa perseverança",
+    "frase": "A morte alcança o corpo; a vida que o Pai guarda ela não alcança.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 15,1-4"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 97(98),1.2-3ab.7-8.9 (R. Ap 15,3b)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 21,12-19"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 21,12-19",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, disse Jesus a seus discípulos: “Vão colocar as mãos sobre vós e vos perseguir; entregar-vos-ão às sinagogas e às prisões, e vos levarão diante de reis e governadores, por causa do meu nome. Esta será para vós a ocasião de dar testemunho. Fixai bem isto em vossos corações: não precisais preparar a vossa defesa, porque eu vos darei palavras e sabedoria a que nenhum dos vossos adversários poderá resistir ou contradizer.\n\nSereis entregues até por vossos pais, irmãos, parentes e amigos, e eles matarão alguns de vós. Sereis odiados por todos, por causa do meu nome. Mas nem um só fio de cabelo da vossa cabeça se perderá. É pela vossa perseverança que ganhareis a vossa vida”."
+    },
+    "reflexao": [
+      "Jesus anuncia que porão as mãos sobre os discípulos, que os entregarão às sinagogas e às prisões e os levarão diante de reis e governadores por causa do seu nome, e diz que isso lhes servirá de testemunho (Lc 21,12-13). A palavra grega é martýrion, da qual vem «mártir». O Catecismo ensina que o martírio é o supremo testemunho dado à verdade da fé, um testemunho que vai até a morte, no qual o mártir confessa Cristo, morto e ressuscitado, a quem está unido pela caridade (CIC 2473). Jesus não promete que os seus escapem da perseguição; promete que ela será ocasião de anunciá-lo.",
+      "A ordem de não preparar a defesa (promeletân, ensaiar de antemão) não dispensa o estudo da fé, que Pedro recomenda quando manda estar sempre pronto a dar a razão da esperança (1Pd 3,15). Ela diz que, diante dos juízes, a sabedoria vem de Cristo, que promete dar palavras a que nenhum adversário poderá resistir (Lc 21,15). O discípulo entra na prova confiando em Cristo, que fala por ele, e não na própria eloquência.",
+      "A parte mais dura do anúncio é a traição dos próprios parentes e amigos, e o desfecho parece contraditório: alguns serão mortos, e nem um fio de cabelo se perderá (Lc 21,16-18). Lucas já registrou palavra semelhante, quando Jesus manda não temer os que matam o corpo e lembra que até os cabelos da cabeça estão contados (Lc 12,4-7). A contradição se desfaz na ressurreição: a morte alcança o corpo, e a vida que o Pai guarda ela não alcança.",
+      "A última frase diz como se guarda essa vida: «É pela vossa perseverança que ganhareis a vossa vida» (Lc 21,19). O substantivo é hypomonē, que diz permanecer firme no lugar em que se está, sem fugir, e o verbo traduzido por «ganhar» diz adquirir, tomar posse. Quem quer guardar a vida do modo que o mundo ensina, calando a fé por medo do que pensarão, ou ajustando o que crê para não perder o emprego ou a amizade, acaba perdendo a que Jesus quer lhe dar.",
+      "A primeira leitura mostra o resultado dessa perseverança. João vê no céu um mar de vidro misturado com fogo e, de pé sobre ele, os que venceram a besta (Ap 15,2). O verbo é nikōntas, os que venceram, e são os que a besta perseguiu: a vitória, no Apocalipse, é a fidelidade até o fim, a mesma que Jesus pede no Evangelho. Eles cantam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro (Ap 15,3). O mar de vidro lembra o mar Vermelho, onde Moisés cantou a libertação de Israel (Ex 15,1), e agora o canto celebra a vitória do Cordeiro. Dizem que as obras do Senhor são grandes e admiráveis e que todas as nações virão adorá-lo (Ap 15,3-4).",
+      "O salmo manda cantar ao Senhor um canto novo, porque ele fez maravilhas, e diz que a sua mão direita e o seu braço santo deram a vitória (Sl 97[98],1). O mártir reconhece isso: a perseverança que o sustentou veio do Cordeiro, e a vida que ganha é a que o Cordeiro lhe dá.",
+      "Agora, resta perguntar: em que situação eu me calei sobre a minha fé por medo do que pensariam de mim? E o que eu estaria disposto a perder para não perder a Cristo?",
+      "Hoje, posso fazer o sinal da cruz antes de uma refeição num lugar público. Posso também, quando alguém falar mal da Igreja na minha frente, responder com calma o que ela ensina de fato."
+    ],
+    "oracao": [
+      "Senhor Jesus, dá-me palavras e sabedoria quando eu precisar falar de Ti. Livra-me do medo do que os outros pensam.",
+      "Dá-me a perseverança que guarda a vida."
+    ],
+    "minutos": 4,
+    "imagem": "assets/2026-11-25.jpg"
+  },
+  {
+    "data": "2026-11-26",
+    "tempo": "34ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Levantai-vos e erguei a cabeça",
+    "frase": "Enquanto os outros desmaiam, os discípulos ficam de pé.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 18,1-2.21-23; 19,1-3.9a"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 99(100),2.3.4.5 (R. Ap 19,9a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 21,20-28"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 21,20-28",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, disse Jesus a seus discípulos: “Quando virdes Jerusalém cercada de exércitos, sabei que a sua devastação está próxima. Então, os que estiverem na Judeia fujam para as montanhas; os que estiverem no meio da cidade saiam dela; e os que estiverem no campo não entrem nela. Pois estes serão dias de vingança, para que se cumpra tudo o que está escrito. Ai das que estiverem grávidas ou amamentando naqueles dias! Haverá grande miséria na terra e ira contra este povo. Cairão ao fio da espada e serão levados como prisioneiros para todas as nações; e Jerusalém será pisada pelos pagãos até que se completem os tempos dos pagãos.\n\nHaverá sinais no sol, na lua e nas estrelas. Na terra, as nações ficarão angustiadas, com medo do barulho do mar e das ondas. Os homens vão desmaiar de medo, só em pensar no que vai acontecer ao mundo, porque as forças do céu serão abaladas. Então, eles verão o Filho do Homem, vindo numa nuvem com grande poder e glória. Quando estas coisas começarem a acontecer, levantai-vos e erguei a cabeça, porque a vossa libertação está próxima”."
+    },
+    "reflexao": [
+      "Jesus avisa que Jerusalém será cercada de exércitos e devastada, e manda fugir quem estiver na Judeia, na cidade ou no campo (Lc 21,20-21). A cidade do Templo não protege quem não obedece ao aviso, e Eusébio de Cesareia conta que os cristãos de Jerusalém, avisados antes da guerra, deixaram a cidade e se refugiaram em Pela, do outro lado do Jordão (História Eclesiástica, III, 5). Do cerco, que aconteceu no ano 70, Jesus passa ao fim do mundo, quando as nações ficarão angustiadas e os homens desmaiarão de medo à espera do que vai acontecer (Lc 21,25-26).",
+      "Nesse ponto vem a única ordem do trecho: «Levantai-vos e erguei a cabeça» (Lc 21,28). Enquanto os outros desmaiam, os discípulos ficam de pé, porque a libertação se aproxima, em grego apolýtrōsis, a mesma palavra que Paulo usa para a redenção que temos em Cristo (Ef 1,7). A postura que Jesus pede é a de quem reconhece quem vem, o Filho do Homem, com poder e glória (Lc 21,27).",
+      "A primeira leitura mostra de que a libertação nos tira. Um anjo de grande autoridade ilumina a terra com a sua glória e grita: «Caiu, caiu a grande Babilônia» (Ap 18,1-2), nome que o Apocalipse dá à cidade do mundo organizado sem Deus. Outro anjo, forte, levanta uma pedra grande como uma mó e a lança ao mar, dizendo que assim será lançada Babilônia, que não será mais encontrada (Ap 18,21). Nela não se ouvirá mais a música nem a voz do noivo e da noiva, porque os seus comerciantes eram os grandes da terra, e porque todas as nações foram seduzidas por seus feitiços (Ap 18,22-23).",
+      "Depois da queda da cidade, João ouve no céu uma grande multidão que diz: «Aleluia! A salvação, a glória e o poder são do nosso Deus, porque são verdadeiros e justos os seus julgamentos» (Ap 19,1-2). A palavra aleluia, que quer dizer «louvai o Senhor», aparece no Novo Testamento somente neste capítulo, quatro vezes (Ap 19,1.3.4.6). O anjo manda João escrever: «Felizes os convidados para a ceia das núpcias do Cordeiro» (Ap 19,9). A Igreja repete a frase na Missa, quando o sacerdote mostra a hóstia antes da comunhão e diz: «Felizes os convidados para a ceia do Senhor».",
+      "O salmo dá a resposta do povo. Em Babilônia, a música cala (Ap 18,22), e no salmo o povo serve ao Senhor com alegria e entra diante dele cantando (Sl 99[100],2), porque o Senhor é bom e a sua misericórdia dura para sempre (Sl 99[100],5). O povo canta porque sabe a quem pertence: «Ele nos fez, e a ele pertencemos, somos seu povo e seu rebanho» (Sl 99[100],3).",
+      "O medo, hoje, vem das notícias de guerra e de crise que enchem a tela do celular o dia inteiro, e quem as acompanha, sem rezar, passa a ter o mesmo medo dos que desmaiam no Evangelho. Jesus não promete que as coisas não vão acontecer; manda ficar de pé. A graça de ficar assim vem de saber que a libertação é obra do Cordeiro, que chama os seus à sua ceia.",
+      "Agora, resta perguntar: que notícia, ou que preocupação, tem me tirado a esperança nos últimos dias? E quando foi a última vez que ouvi na Missa o convite «Felizes os convidados para a ceia do Senhor» como dito a mim?",
+      "Hoje, posso rezar o Salmo 99 inteiro antes de abrir as notícias do dia e, depois, ler uma só vez o que for preciso saber. Posso também ir à Missa, se puder, e responder com atenção ao convite do sacerdote antes da comunhão."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu virás com poder e glória. Faze-me ficar de pé e de cabeça erguida quando o mundo tiver medo.",
+      "Cordeiro de Deus, chama-me à tua ceia, e que eu ouça: felizes os convidados."
+    ],
+    "minutos": 5,
+    "imagem": "assets/2026-11-26.jpg"
+  },
+  {
+    "data": "2026-11-27",
+    "tempo": "34ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "As minhas palavras não passarão",
+    "frase": "O homem foi feito para morar com Deus.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 20,1-4.11–21,2"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 83(84),3.4.5-6a e 8a (R. Ap 21,3b)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 21,29-33"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 21,29-33",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, Jesus contou uma parábola a seus discípulos: “Olhai a figueira e todas as árvores. Quando elas começam a brotar, vós percebeis e sabeis que o verão está próximo. Assim também, quando virdes acontecer estas coisas, sabei que o Reino de Deus está próximo. Em verdade vos digo: esta geração não passará sem que tudo isso aconteça. O céu e a terra passarão, mas as minhas palavras não passarão”."
+    },
+    "reflexao": [
+      "Jesus manda olhar a figueira e todas as árvores: quando elas brotam, os próprios discípulos percebem que o verão está próximo (Lc 21,29-30). O sinal é pequeno, e Jesus o aplica ao que acabou de ensinar, dizendo que, quando virem acontecer estas coisas, saibam que o Reino de Deus está próximo (Lc 21,31). As folhas bastam a quem sabe olhar, e Jesus não diz o dia.",
+      "A frase que fecha o discurso diz o que fica: «O céu e a terra passarão, mas as minhas palavras não passarão» (Lc 21,33). Entre tudo o que o Evangelho desta semana enumera (o Templo, as nações, a terra e o céu), Jesus declara que apenas as suas palavras não passam. Antes dela, Jesus diz que «esta geração não passará sem que tudo isso aconteça» (Lc 21,32), frase que a tradição lê de mais de um modo, e em nenhum deles a data é dada, pois pertence ao Pai (At 1,7).",
+      "A primeira leitura traz o capítulo dos mil anos. Um anjo prende Satanás por mil anos, para que não seduza mais as nações (Ap 20,1-3), e João vê tronos e, neles, os que foram decapitados por causa do testemunho de Jesus, que reinam com Cristo mil anos (Ap 20,4). A Igreja não lê isso como um reinado de Cristo na terra antes do fim, e o Catecismo chama essa leitura, o milenarismo, de falsificação do Reino futuro (CIC 676). Santo Agostinho, na Cidade de Deus (livro XX), vê nos mil anos o tempo da Igreja, entre a primeira vinda de Cristo e a segunda.",
+      "Depois João vê um grande trono branco e aquele que nele se assenta, diante de cuja face fogem a terra e o céu (Ap 20,11). Abrem-se os livros, os mortos são julgados segundo as suas obras, e abre-se também o livro da vida, e quem não está inscrito nele é lançado no lago de fogo (Ap 20,12.15). Aqui se completa a frase de Jesus: o céu e a terra passam, e as palavras dele ficam. É por elas que se julga, pois o próprio Jesus disse que quem o rejeita e não recebe as suas palavras tem quem o julgue: a palavra que ele falou, essa o julgará no último dia (Jo 12,48).",
+      "A leitura termina com o que vem depois do juízo. João vê um novo céu e uma nova terra, porque o primeiro céu e a primeira terra passaram. Vê também a cidade santa, a nova Jerusalém, que desce do céu, de junto de Deus, pronta como uma esposa enfeitada para o seu marido (Ap 21,1-2). O Catecismo ensina que, no fim dos tempos, o Reino de Deus chegará à sua plenitude, os justos reinarão para sempre com Cristo, glorificados em corpo e alma, e o próprio universo será renovado (CIC 1042). Nesse mundo novo, a Jerusalém celeste, Deus terá a sua morada entre os homens (CIC 1044).",
+      "O salmo diz o desejo que a leitura realiza: a alma do salmista desfalece de saudade dos átrios do Senhor (Sl 83[84],3), e ele vê que até o pardal encontra casa e a andorinha, um ninho (Sl 83[84],4). O refrão, tirado do Apocalipse, anuncia a morada de Deus entre os homens (Ap 21,3). O homem foi feito para morar com Deus, e o desejo que o salmo exprime só se cumpre ali.",
+      "O que costumamos fazer é dar o melhor do nosso tempo ao que vai passar, e deixar a Palavra que fica para os minutos que sobram. A graça de inverter essa ordem vem do próprio Cristo, que fala nas Escrituras e se dá na Eucaristia, e quem o procura ali põe a vida no que não passa.",
+      "Agora, resta perguntar: a que coisas que vão passar eu tenho dado o melhor do meu tempo? E qual palavra de Jesus eu sei de cor e levo comigo?",
+      "Hoje, posso copiar numa folha a frase «As minhas palavras não passarão» e deixá-la onde eu a veja durante o dia. Posso também ler, antes de dormir, o início do capítulo 21 do Apocalipse, até o versículo 4."
+    ],
+    "oracao": [
+      "Senhor Jesus, o céu e a terra passam, e as tuas palavras permanecem. Escreve o meu nome no livro da vida.",
+      "Faze-me desejar a tua casa mais do que o que passa.",
+      "Vem, Senhor Jesus."
+    ],
+    "minutos": 4,
+    "imagem": "assets/2026-11-27.jpg"
   }
 ];
 
