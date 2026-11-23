@@ -87,15 +87,15 @@
           <div role="img" style="aspect-ratio:16/9;border-radius:20px;background-color:#23325a;background-image:{{ a.bg }};background-size:cover;background-position:center 25%"></div>
         </sc-if>
         <sc-if value="{{ a.temTema }}" hint-placeholder-val="{{ true }}">
-          <div style="display:flex;flex-direction:column;gap:6px">
+          <div style="display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center">
             <span style="font-family:'Source Sans 3',sans-serif;font-size:11px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:#8a2f2a">{{ a.dia }}</span>
             <sc-if value="{{ a.temFesta }}" hint-placeholder-val="{{ false }}">
-              <span style="align-self:flex-start;font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#fff;background:#8a2f2a;padding:5px 12px;border-radius:999px">{{ a.festa }}</span>
+              <span style="align-self:center;font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#fff;background:#8a2f2a;padding:5px 12px;border-radius:999px">{{ a.festa }}</span>
             </sc-if>
-            <h3 style="margin:0;font-weight:500;font-size:clamp(28px,4.6vw,38px);line-height:1.1;text-wrap:pretty">{{ a.tema }}</h3>
+            <h3 style="margin:0;font-weight:500;font-size:clamp(28px,4.6vw,38px);line-height:1.1;text-wrap:balance;text-align:center">{{ a.tema }}</h3>
           </div>
         </sc-if>
-        <div style="display:flex;flex-direction:column;gap:16px">
+        <div style="display:flex;flex-direction:column;gap:30px">
           <sc-for list="{{ a.blocos }}" as="b" hint-placeholder-count="6">
             <sc-if value="{{ b.sub }}" hint-placeholder-val="{{ false }}">
               <h3 style="margin:10px 0 0;font-family:'Source Sans 3',sans-serif;font-size:13px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;color:#14213d">{{ b.texto }}</h3>
@@ -104,7 +104,7 @@
               <p style="margin:0;font-size:19px;line-height:1.65;text-align:justify;hyphens:auto">{{ b.texto }}</p>
             </sc-if>
             <sc-if value="{{ b.sub3 }}" hint-placeholder-val="{{ false }}">
-              <h4 style="margin:6px 0 -6px;font-size:20px;font-weight:600;color:#14213d">{{ b.texto }}</h4>
+              <h4 style="margin:6px 0 -6px;font-size:20px;font-weight:600;color:#14213d;text-align:center">{{ b.texto }}</h4>
             </sc-if>
             <sc-if value="{{ b.item }}" hint-placeholder-val="{{ false }}">
               <div style="display:flex;gap:10px;font-size:18px;line-height:1.55;margin-top:-8px">
@@ -113,9 +113,21 @@
               </div>
             </sc-if>
             <sc-if value="{{ b.verso }}" hint-placeholder-val="{{ false }}">
-              <div style="display:flex;flex-direction:column;gap:6px">
+              <div style="display:flex;flex-direction:column;gap:10px">
                 <sc-for list="{{ b.estrofes }}" as="e" hint-placeholder-count="2">
-                  <p style="margin:0;white-space:pre-line;font-size:18px;line-height:1.5;font-style:italic;color:#23325a;text-align:justify;hyphens:auto">{{ e }}</p>
+                  <div style="display:flex;flex-direction:column;font-size:18px;line-height:1.5;color:#23325a;text-align:center;text-wrap:pretty">
+                    <sc-for list="{{ e.linhas }}" as="l" hint-placeholder-count="3">
+                      <sc-if value="{{ l.tit }}" hint-placeholder-val="{{ false }}">
+                        <span style="display:block;margin-top:22px;margin-bottom:4px;font-weight:700;font-style:normal;color:#14213d">{{ l.t }}</span>
+                      </sc-if>
+                      <sc-if value="{{ l.forte }}" hint-placeholder-val="{{ false }}">
+                        <span style="display:block;font-weight:700;font-style:italic">{{ l.t }}</span>
+                      </sc-if>
+                      <sc-if value="{{ l.normal }}" hint-placeholder-val="{{ true }}">
+                        <span style="display:block;font-style:italic">{{ l.t }}</span>
+                      </sc-if>
+                    </sc-for>
+                  </div>
                 </sc-for>
               </div>
             </sc-if>
@@ -191,8 +203,9 @@ class Component extends DCLogic {
     const blocos = [];
     ar.corpo.forEach(t => {
       const k = tipo(t), ult = blocos[blocos.length - 1];
-      if (k === 'verso' && ult && ult.verso) { ult.estrofes.push(limpa(t)); return; }
-      blocos.push({ sub: k === 'sub', sub3: k === 'sub3', item: k === 'item', cit: k === 'cit', verso: k === 'verso', centro: k === 'centro', par: k === 'par', texto: limpa(t), estrofes: k === 'verso' ? [limpa(t)] : [] });
+      const estrofe = x => ({ linhas: x.split('\n').map(t => { const tit = /^(I|II|III)\. /.test(t), forte = /^(Pai-nosso\. Ave, Maria\.|Ave, Maria\.|Glória ao Pai\.)$/.test(t); return { t, tit, forte, normal: !tit && !forte }; }) });
+      if (k === 'verso' && ult && ult.verso) { ult.estrofes.push(estrofe(limpa(t))); return; }
+      blocos.push({ sub: k === 'sub', sub3: k === 'sub3', item: k === 'item', cit: k === 'cit', verso: k === 'verso', centro: k === 'centro', par: k === 'par', texto: limpa(t), estrofes: k === 'verso' ? [estrofe(limpa(t))] : [] });
     });
     const texto = [ar.titulo, ar.linhaFina, ''].concat(ar.corpo.map(t => { const k = tipo(t); return k === 'sub' || k === 'sub3' ? '\n' + limpa(t) : limpa(t); })).join('\n\n');
     const proxDia = disp.find(x => x > dia);
