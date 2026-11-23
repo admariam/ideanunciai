@@ -86,6 +86,24 @@
         </sc-if>
         <sc-if value="{{ temTexto }}" hint-placeholder-val="{{ true }}">
         <div style="display:flex;flex-direction:column;gap:22px">
+        <sc-if value="{{ temAudio }}" hint-placeholder-val="{{ false }}">
+          <div style="display:flex;flex-direction:column;gap:10px">
+          <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-family:'Source Sans 3',sans-serif">
+            <button onClick="{{ ouvir }}" style="font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#fff;background:#14213d;border:none;padding:9px 16px;border-radius:999px;cursor:pointer" style-hover="background:#23325a">{{ rotuloOuvir }}</button>
+            <sc-if value="{{ vozAtiva }}" hint-placeholder-val="{{ false }}">
+              <button onClick="{{ pararVoz }}" style="font-family:'Source Sans 3',sans-serif;font-size:12px;font-weight:600;color:#14213d;background:#fff;border:1px solid #c9d3e3;padding:8px 14px;border-radius:999px;cursor:pointer" style-hover="border-color:#14213d">■ Parar</button>
+            </sc-if>
+          </div>
+          <div style="display:flex;flex-direction:column;gap:4px;font-family:'Source Sans 3',sans-serif">
+            <div style="position:relative;height:20px">
+              <div style="position:absolute;left:0;right:0;top:9px;height:2px;background:#d3d9e6;border-radius:2px"></div>
+              <div style="position:absolute;left:0;top:9px;height:2px;width:{{ audioPct }};background:#14213d;border-radius:2px"></div>
+              <div style="position:absolute;top:5px;left:{{ audioPct }};width:10px;height:10px;margin-left:-5px;border-radius:50%;background:#14213d"></div>
+              <input type="range" min="0" max="{{ audioMax }}" step="1" value="{{ audioPos }}" onChange="{{ buscar }}" aria-label="Posição da leitura" style="position:absolute;left:0;top:0;width:100%;height:100%;margin:0;opacity:0;cursor:pointer">
+            </div>
+          </div>
+          </div>
+        </sc-if>
         <sc-if value="{{ a.temImg }}" hint-placeholder-val="{{ true }}">
           <div role="img" style="aspect-ratio:16/9;border-radius:20px;background-color:#23325a;background-image:{{ a.bg }};background-size:cover;background-position:center 25%"></div>
         </sc-if>
@@ -154,15 +172,41 @@
 </x-dc>
 <script type="text/x-dc" data-dc-script>
 class Component extends DCLogic {
-  state = { ok: false, semana: null, dia: null, copiado: false };
+  state = { ok: false, semana: null, dia: null, copiado: false, voz: 'parado', pos: 0 };
   componentDidMount() {
     const q = new URLSearchParams(location.search), F = window.MED_FIXO || {}, s = +(q.get('s') || F.s), d = +(q.get('d') || F.d);
     if (s >= 1 && s <= 52) this.setState({ semana: s, dia: d >= 1 && d <= 6 ? d : null });
+    if (window.speechSynthesis) { speechSynthesis.getVoices(); speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices(); this.sair = () => { this.fila = null; speechSynthesis.cancel(); }; window.addEventListener('pagehide', this.sair); }
     const pronto = () => window.IA && window.MEDITACOES;
     if (pronto()) this.setState({ ok: true });
     else this.t = setInterval(() => { if (pronto()) { clearInterval(this.t); this.setState({ ok: true }); } }, 50);
   }
-  componentWillUnmount() { clearInterval(this.t); }
+  componentWillUnmount() { clearInterval(this.t); this.fila = null; if (window.speechSynthesis) speechSynthesis.cancel(); if (this.sair) window.removeEventListener('pagehide', this.sair); }
+  componentDidUpdate() { const k = this.state.semana + '-' + this.state.dia; if (this.chave !== undefined && this.chave !== k) this.parar(); this.chave = k; }
+  parar() { this.fila = null; if (window.speechSynthesis) speechSynthesis.cancel(); clearTimeout(this.tb); this.setState({ voz: 'parado', pos: 0 }); }
+  vozPtBr() {
+    const vs = speechSynthesis.getVoices(), lg = v => (v.lang || '').replace('_', '-').toLowerCase();
+    let pt = vs.filter(v => lg(v) === 'pt-br'); if (!pt.length) pt = vs.filter(v => lg(v).startsWith('pt'));
+    return pt.find(v => /Google|Natural|Online/i.test(v.name)) || pt[0] || null;
+  }
+  falarProx() {
+    const fila = this.fila; if (!fila) return;
+    if (this.idx >= fila.length) { this.fila = null; this.setState({ voz: 'parado', pos: 0 }); return; }
+    const u = new SpeechSynthesisUtterance(fila[this.idx]); u.lang = 'pt-BR'; u.rate = 0.95; if (this.state.pos !== this.idx) this.setState({ pos: this.idx });
+    const v = this.vozPtBr(); if (v) u.voice = v;
+    u.onend = u.onerror = () => { if (this.fila !== fila) return; this.idx++; this.falarProx(); };
+    speechSynthesis.speak(u);
+  }
+  buscar(i, partes) {
+    this.setState({ pos: i }); clearTimeout(this.tb);
+    this.tb = setTimeout(() => { const S = speechSynthesis; this.fila = null; S.cancel(); S.resume(); this.fila = partes.slice(); this.idx = i; this.setState({ voz: 'lendo' }); setTimeout(() => this.falarProx(), 80); }, 350);
+  }
+  ouvir(partes) {
+    const S = window.speechSynthesis, st = this.state.voz;
+    if (st === 'lendo') { S.pause(); this.setState({ voz: 'pausado' }); return; }
+    if (st === 'pausado') { S.resume(); this.setState({ voz: 'lendo' }); return; }
+    S.cancel(); this.fila = partes.slice(); this.idx = this.state.pos < partes.length ? this.state.pos : 0; this.setState({ voz: 'lendo' }); this.falarProx();
+  }
   abrir(n, d) { this.setState({ semana: n, dia: d || null, copiado: false }); window.scrollTo(0, 0); }
   renderVals() {
     const base = { naCapa: true, naSemana: false, semanas: [], prontas: 0, dias: [] };
@@ -211,6 +255,16 @@ class Component extends DCLogic {
       blocos.push({ sub: k === 'sub', sub3: k === 'sub3', item: k === 'item', cit: k === 'cit', verso: k === 'verso', centro: k === 'centro', par: k === 'par', texto: limpa(t), estrofes: k === 'verso' ? [estrofe(limpa(t))] : [] });
     });
     const texto = [ar.titulo, ar.linhaFina, ''].concat(ar.corpo.map(t => { const k = tipo(t); return k === 'sub' || k === 'sub3' ? '\n' + limpa(t) : limpa(t); })).join('\n\n');
+    const limpaVoz = t => t.replace(/\([^)]*\)/g, '').replace(/§§/g, 'parágrafos').replace(/§/g, 'parágrafo').replace(/[“”"«»•*]/g, '').replace(/(?<!\p{L})[‘’]|[‘’](?!\p{L})/gu, '').replace(/\s+/g, ' ').trim();
+    const partes = [];
+    [ar.tema].concat(ar.corpo.map(limpa)).filter(Boolean).forEach(p => p.split('\n').forEach(l => {
+      l = limpaVoz(l); if (!l) return;
+      while (l.length > 260) { let i = l.lastIndexOf('. ', 260); if (i < 80) i = l.lastIndexOf(', ', 260); if (i < 80) i = l.lastIndexOf(' ', 260); partes.push(l.slice(0, i + 1).trim()); l = l.slice(i + 1).trim(); }
+      if (l) partes.push(l);
+    }));
+    const ini = []; let tot = 0; partes.forEach(p => { ini.push(tot); tot += p.length / 14; });
+    const mmss = s => Math.floor(s / 60) + ':' + String(Math.floor(s) % 60).padStart(2, '0');
+    const posA = Math.min(this.state.pos || 0, Math.max(0, partes.length - 1)), trecho = partes[posA] || '';
     const proxDia = disp.find(x => x > dia);
     const proxSem = !proxDia && porSemana[n + 1] ? n + 1 : null;
     return {
@@ -220,7 +274,16 @@ class Component extends DCLogic {
       temProxima: !!(proxDia || proxSem), rotuloProxima: proxDia ? NOMES[proxDia - 1] + ' →' : 'Próxima semana →',
       proxima: () => proxDia ? (this.setState({ dia: proxDia, copiado: false }), window.scrollTo(0, 0)) : this.abrir(proxSem),
       rotuloCopiar: this.state.copiado ? 'Copiado ✓' : 'Copiar texto',
-      copiar: () => { navigator.clipboard && navigator.clipboard.writeText(texto).then(() => this.setState({ copiado: true })); }
+      copiar: () => { navigator.clipboard && navigator.clipboard.writeText(texto).then(() => this.setState({ copiado: true })); },
+      temAudio: !!window.speechSynthesis && partes.length > 0,
+      vozAtiva: this.state.voz !== 'parado',
+      rotuloOuvir: this.state.voz === 'lendo' ? '❚❚ Pausar' : this.state.voz === 'pausado' ? '▶ Continuar' : '▶ Ouvir a meditação',
+      ouvir: () => this.ouvir(partes),
+      pararVoz: () => this.parar(),
+      audioMax: Math.max(0, partes.length - 1), audioPos: posA, audioPct: (partes.length > 1 ? posA / (partes.length - 1) * 100 : 0) + '%',
+      audioTrecho: trecho ? '“' + (trecho.length > 70 ? trecho.slice(0, 70).trim() + '…' : trecho) + '”' : '',
+      audioTempo: mmss(ini[posA] || 0) + ' / ' + mmss(tot),
+      buscar: e => this.buscar(+e.target.value, partes)
     };
   }
 }
