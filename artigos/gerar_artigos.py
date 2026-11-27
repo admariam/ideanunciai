@@ -10,7 +10,8 @@ data: AAAA-MM-DD
 imagem: assets/artigos/<slug>.jpg   (opcional)
 ---
 """
-import html, os, re, sys, datetime
+import html, json, os, re, sys, datetime
+from urllib.parse import quote
 import markdown
 
 RAIZ = sys.argv[1]
@@ -111,6 +112,49 @@ def ler(caminho):
     return meta
 
 
+def quadro_partilha(a):
+    url = f'{SITE}/artigos/{a["slug"]}.html'
+    texto = f'{a["titulo"]} · por {a["autor"]}\n{url}'
+    thumb = a.get("thumb") or a.get("imagem")
+    story = f'assets/artigos/{a["slug"]}-story.jpg'
+    tem_story = os.path.exists(os.path.join(RAIZ, story))
+    mini = (f'<div role="img" aria-label="{html.escape(a["titulo"])}" style="width:100%;aspect-ratio:16/9;border-radius:12px;'
+            f'background:#23325a url(/{thumb}) center/cover no-repeat"></div>') if thumb else ""
+    botao_story = f"""
+          <button id="btnStory" data-story="/{story}" data-nome="{a["slug"]}.jpg" title="Compartilhar nos Stories / Status" aria-label="Compartilhar nos Stories do Instagram ou Status do WhatsApp" style="width:42px;height:42px;flex-shrink:0;border-radius:50%;border:1px solid #c9d3e3;background:#fff;color:#14213d;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M10.1 2.18a9.9 9.9 0 0 1 3.8 0"></path><path d="M17.6 3.71a9.95 9.95 0 0 1 2.69 2.7"></path><path d="M21.82 10.1a9.9 9.9 0 0 1 0 3.8"></path><path d="M20.29 17.6a9.95 9.95 0 0 1-2.7 2.69"></path><path d="M13.9 21.82a9.9 9.9 0 0 1-3.8 0"></path><path d="M6.4 20.29a9.95 9.95 0 0 1-2.69-2.7"></path><path d="M2.18 13.9a9.9 9.9 0 0 1 0-3.8"></path><path d="M3.71 6.4a9.95 9.95 0 0 1 2.7-2.69"></path><path d="M12 8v8"></path><path d="M8 12h8"></path></svg>
+          </button>""" if tem_story else ""
+    return f"""
+    <section style="margin-top:40px;background:#f3f6fb;border-radius:18px;padding:20px;display:flex;flex-direction:column;gap:12px;font-family:'Source Sans 3',sans-serif;max-width:460px">
+      {mini}
+      <div style="font-family:'EB Garamond',serif;font-size:21px;line-height:1.25">Este artigo tocou você?</div>
+      <div style="font-size:13px;line-height:1.5;color:#5a6478">Leve este artigo a alguém.</div>
+      <div style="display:flex;gap:8px;align-items:center">
+        <a href="https://api.whatsapp.com/send?text={html.escape(quote(texto))}" target="_blank" rel="noopener" style="font-size:13px;font-weight:600;white-space:nowrap;background:#1f8a4c;color:#fff;border-radius:999px;padding:11px 18px;flex:1;display:flex;align-items:center;justify-content:center;gap:8px">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"></path></svg>Enviar pelo WhatsApp
+        </a>{botao_story}
+      </div>
+      <div id="avisoCopiado" style="display:none;font-size:12px;line-height:1.45;color:#1f5f3a;background:#e6f3ea;border-radius:12px;padding:8px 12px">Link copiado! Nos Stories, use o adesivo “Link” e cole. No Status, cole na legenda.</div>
+    </section>
+    <script>
+    (function(){{
+      var b=document.getElementById('btnStory'); if(!b) return;
+      var link={json.dumps(url)}, legenda={json.dumps(a["titulo"] + " · por " + a["autor"])}, t;
+      b.addEventListener('click', async function(){{
+        try {{ await navigator.clipboard.writeText(link); }} catch(e) {{}}
+        var av=document.getElementById('avisoCopiado'); av.style.display='block'; clearTimeout(t); t=setTimeout(function(){{av.style.display='none';}},6000);
+        try {{
+          var blob=await (await fetch(b.dataset.story)).blob();
+          var file=new File([blob], b.dataset.nome, {{type:'image/jpeg'}});
+          if (navigator.canShare && navigator.canShare({{files:[file]}})) {{ await navigator.share({{files:[file], text: legenda+'\\n'+link}}); return; }}
+          var u=URL.createObjectURL(blob), el=document.createElement('a'); el.href=u; el.download=file.name; document.body.appendChild(el); el.click(); el.remove(); setTimeout(function(){{URL.revokeObjectURL(u);}},2000);
+        }} catch(e) {{}}
+      }});
+    }})();
+    </script>
+"""
+
+
 def pagina_artigo(a):
     partes = re.split(r"\n(?=## Referências)", a["corpo"], maxsplit=1)
     texto = markdown.markdown(partes[0])
@@ -125,7 +169,8 @@ def pagina_artigo(a):
     head = HEAD.format(
         title=html.escape(f'{a["titulo"]} — Ide, anunciai!'), desc=html.escape(a["frase"]),
         ogtype="article", ogtitle=html.escape(a["titulo"]),
-        ogimage=(f'<meta property="og:image" content="{SITE}/{thumb}">\n' if thumb else ""),
+        ogimage=(f'<meta property="og:image" content="{SITE}/{thumb}">\n<meta property="og:image:type" content="image/jpeg">\n'
+                 f'<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="675">\n' if thumb else ""),
         url=f'{SITE}/artigos/{a["slug"]}.html')
     corpo = f"""
   <section style="position:relative;background:#14213d;color:#f3efe8;overflow:hidden">
@@ -149,6 +194,7 @@ def pagina_artigo(a):
     <article class="texto">
 {texto}
     </article>
+{quadro_partilha(a)}
     <a href="/artigos.html" style="display:inline-block;margin-top:28px;font-family:'Source Sans 3',sans-serif;font-size:13px;font-weight:600;color:#14213d;border:1.5px solid #14213d;padding:11px 22px;border-radius:999px">← Todos os artigos</a>
   </main>
 """
