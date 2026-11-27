@@ -54,7 +54,7 @@ a{{color:#8a2f2a;text-decoration:none}}a:hover{{color:#6b221e}}::selection{{back
 .texto .refs p{{margin:1em 0 0.4em}}
 .cartao{{display:flex;gap:18px;align-items:center;padding:12px;border:1px solid #e3e8f0;border-radius:18px;color:#1b2436}}
 .cartao:hover{{color:#1b2436;border-color:#c9d3e3;box-shadow:0 8px 22px rgba(20,33,61,0.08)}}
-@media (max-width:560px){{.cartao .img{{width:88px!important}}.texto{{font-size:18px;text-align:left}}}}
+@media (max-width:560px){{.cartao .img{{width:88px!important}}.texto{{font-size:18px}}}}
 </style>
 </head>
 <body>
@@ -139,7 +139,7 @@ def pagina_artigo(a):
         <span style="background:rgba(255,255,255,0.14);color:#fff;padding:5px 12px;border-radius:999px;white-space:nowrap">{a["dataLonga"]} · {a["minutos"]} min de leitura</span>
       </div>
       <h1 style="margin:0;font-weight:500;font-size:clamp(32px,5vw,50px);line-height:1.05;letter-spacing:-0.01em;max-width:760px;text-wrap:balance;color:#f3efe8">{html.escape(a["titulo"])}</h1>
-      <p style="margin:0;font-size:19px;line-height:1.45;font-style:italic;color:#c8cfdd;max-width:620px">{html.escape(a["frase"])}</p>
+      <p style="margin:0;font-size:19px;line-height:1.45;font-style:italic;color:#c8cfdd;max-width:620px;text-align:justify;hyphens:auto">{html.escape(a["frase"])}</p>
       <span style="font-family:'Source Sans 3',sans-serif;font-size:13px;color:#d3d9e6">por {html.escape(a["autor"])}</span>
     </div>
   </section>
@@ -168,7 +168,7 @@ def pagina_lista(artigos):
         <span style="display:flex;flex-direction:column;gap:5px;min-width:0;flex:1">
           <span style="font-family:'Source Sans 3',sans-serif;font-size:11px;color:#5a6478">{a['dataLonga']} · {a['minutos']} min de leitura</span>
           <span style="font-size:23px;font-weight:500;line-height:1.15">{html.escape(a['titulo'])}</span>
-          <span style="font-size:16px;line-height:1.4;font-style:italic;color:#5a6478">{html.escape(a['frase'])}</span>
+          <span style="font-size:16px;line-height:1.4;font-style:italic;color:#5a6478;text-align:justify;hyphens:auto">{html.escape(a['frase'])}</span>
         </span>
       </a>""")
     corpo = f"""
