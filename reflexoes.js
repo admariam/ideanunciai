@@ -2950,6 +2950,137 @@ window.REFLEXOES = [
     ],
     "minutos": 4,
     "imagem": "assets/2026-11-27.jpg"
+  },
+  {
+    "data": "2026-11-28",
+    "tempo": "34ª Semana do Tempo Comum — Ano II",
+    "cor": "Verde",
+    "titulo": "Vem, Senhor Jesus!",
+    "frase": "A força para ficar de pé é dada na oração.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Apocalipse 22,1-7"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 94(95),1-2.3-5.6-7 (R. 1Cor 16,22b e Ap 22,20c)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Lucas 21,34-36"
+      }
+    ],
+    "evangelho": {
+      "ref": "Lc 21,34-36",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Lucas",
+      "texto": "Naquele tempo, disse Jesus a seus discípulos: “Tomai cuidado para que vossos corações não fiquem insensíveis por causa da gula, da embriaguez e das preocupações da vida, e esse dia não caia de repente sobre vós, como uma armadilha; pois ele atingirá todos os que moram na face da terra. Portanto, ficai atentos e orai a todo momento, a fim de terdes força para escapar de tudo o que deve acontecer e para ficardes de pé diante do Filho do Homem”."
+    },
+    "reflexao": [
+      "Jesus avisa os discípulos de que o coração deles pode se tornar insensível por causa da gula, da embriaguez e das preocupações da vida, e de que então aquele dia cairá de repente sobre eles, como uma armadilha (Lc 21,34). O verbo grego, barēthōsin, diz tornar pesado, e o que Jesus quer evitar é o coração que se deixa carregar por essas coisas a ponto de não conseguir se levantar quando o Filho do Homem chegar.",
+      "O que espera quem consegue ficar de pé diante do Filho do Homem a primeira leitura mostra no último capítulo da Bíblia. João vê um rio de água da vida, brilhante como cristal, que sai do trono de Deus e do Cordeiro, e, de cada lado do rio, a árvore da vida, que dá frutos todos os meses (Ap 22,1-2). O Gênesis punha essa árvore no jardim e dizia que, depois do pecado, um querubim passou a guardá-la (Gn 2,9; 3,24). Agora ela está ao alcance dos servos de Deus, porque não haverá mais maldição (Ap 22,3), isto é, a que caiu sobre a terra por causa de Adão (Gn 3,17) terá acabado. Esses servos verão a face do Senhor (Ap 22,4), e o Catecismo ensina que os que morrem na graça e na amizade de Deus, perfeitamente purificados, o verão «tal como Ele é», face a face (CIC 1023).",
+      "O homem de coração carregado é o mesmo que, desde o jardim, se esconde de Deus (Gn 3,8), e é a esse homem que Jesus manda ficar de pé. Sozinho, ele não consegue, e por isso a ordem vem com o meio de cumpri-la: «orai a todo momento, a fim de terdes força» (Lc 21,36). A força é dada na oração, e o salmo mostra a postura em que ela se aprende: «Entrai, inclinemo-nos, adoremos, de joelhos ante o Senhor que nos criou» (Sl 94[95],6). Quem se ajoelha todos os dias diante de Deus se habitua à presença dele, e o dia da vinda do Filho do Homem não o surpreende.",
+      "A Igreja põe nos lábios dos fiéis a oração com que o Apocalipse termina, «Vem, Senhor Jesus» (Ap 22,20), que é o refrão do salmo de hoje. Paulo guardou a forma aramaica dessa oração, Marana tha, «Senhor nosso, vem!» (1Cor 16,22), e a Didaqué, que figura entre os escritos dos Padres apostólicos, a traz no fim da oração eucarística (Did 10,6). O Catecismo ensina que a Igreja pede, sobretudo na Eucaristia, que se apresse o regresso de Cristo, dizendo-lhe: «Vem, Senhor» (CIC 671). A resposta já está na leitura: «Eis que venho em breve! Feliz aquele que guarda as palavras da profecia deste livro» (Ap 22,7).",
+      "Guardar as palavras desse livro pede um coração livre, e o que mais o carrega hoje são as preocupações com o dinheiro e com o trabalho, que vão tomando o lugar da oração até que a pessoa deixa de rezar por estar ocupada demais. Por isso Jesus junta o vigiar e o orar (Lc 21,36).",
+      "Agora, resta perguntar: o que, na minha rotina, tem carregado o meu coração a ponto de me fazer deixar a oração? E há quanto tempo eu não digo ao Senhor, com as palavras do Apocalipse, «Vem»?",
+      "Hoje, posso me ajoelhar ao acordar e rezar uma vez «Vem, Senhor Jesus», antes de pegar o celular. Posso também repetir essa oração, em silêncio, quando uma preocupação com o dinheiro ou com o trabalho me tomar."
+    ],
+    "oracao": [
+      "Senhor Jesus, guarda o meu coração das preocupações que me afastam de Ti.",
+      "Dá-me a força de ficar de pé diante de Ti.",
+      "Vem, Senhor Jesus."
+    ],
+    "minutos": 4,
+    "imagem": "assets/2026-11-28.jpg"
+  },
+  {
+    "data": "2026-11-29",
+    "tempo": "1º Domingo do Advento — Ano B",
+    "cor": "Roxo",
+    "titulo": "Vigiai, não sabeis quando o dono da casa vem!",
+    "frase": "Quem espera o Senhor faz o que lhe foi confiado.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Isaías 63,16b-17.19b; 64,2b-7"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 79(80),2ac.3b.15-16.18-19 (R. 4)"
+      },
+      {
+        "rotulo": "Segunda leitura",
+        "ref": "1 Coríntios 1,3-9"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Marcos 13,33-37"
+      }
+    ],
+    "evangelho": {
+      "ref": "Mc 13,33-37",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Marcos",
+      "texto": "Naquele tempo, disse Jesus a seus discípulos: “Ficai atentos e vigiai, pois não sabeis quando chegará o momento. Será como um homem que viajou para o estrangeiro: ao deixar a sua casa, deu autoridade aos seus empregados, a cada um a sua tarefa, e mandou o porteiro vigiar. Portanto, vigiai, pois não sabeis quando o dono da casa voltará, se à tarde, se à meia-noite, se ao cantar do galo, se de manhã. Que ele não venha de repente e vos encontre dormindo. O que digo a vós, digo a todos: Vigiai!”"
+    },
+    "reflexao": [
+      "O Evangelho começa com um homem que sai de viagem e deixa a casa com os seus servos, a cada um dando a sua tarefa e ao porteiro a ordem de vigiar (Mc 13,34). A Igreja começa o seu ano com essa cena porque o Advento, palavra latina que diz «vinda», é o tempo em que ela renova a expectativa do Messias. Ao participar da longa preparação da primeira vinda do Salvador, os fiéis renovam o ardente desejo da sua segunda vinda (CIC 524).",
+      "Essa expectativa toma, na primeira leitura, a forma de súplica: «Oh! se rasgasses os céus e descesses!» (Is 63,19b). Quem a faz confessa que o povo andou longe dos caminhos do Senhor e que o seu coração se endureceu (Is 63,17), que todos se tornaram como um impuro e que ninguém despertava para se apegar a Deus (Is 64,5-6). Esse sono é o que o dono da casa teme encontrar quando voltar de repente (Mc 13,36). A leitura termina com o reconhecimento de que o povo é o barro e Deus o oleiro (Is 64,7), porque quem foi endurecido não se refaz sozinho.",
+      "O pedido de Isaías foi atendido: Marcos conta que, ao sair das águas do Jordão, Jesus viu os céus se rasgando (Mc 1,10), com a mesma imagem que o profeta usou. Mas o sono de que fala o Evangelho não terminou com a vinda do Filho. No Getsêmani, Pedro, Tiago e João, que tinham ouvido o discurso no Monte das Oliveiras (Mc 13,3), são encontrados dormindo (Mc 14,37), e Jesus pergunta a Pedro: «Simão, dormes?». Três das horas do dono da casa voltam na Paixão, o entardecer com a ceia (Mc 14,17), o canto do galo com a negação de Pedro (Mc 14,72) e a manhã com a entrega a Pilatos (Mc 15,1).",
+      "Se os próprios Doze dormiram, o que mantém a vigília dos cristãos é a graça. É dela que Paulo fala quando agradece a Deus pelos coríntios, que em Cristo Jesus foram enriquecidos em tudo e a quem nenhum dom falta enquanto aguardam a manifestação de nosso Senhor (1Cor 1,4-7). A palavra grega, apokálypsis, diz tirar o véu, e é com ela que Paulo nomeia a vinda gloriosa do Senhor. Quem a espera já recebeu o que basta para esperar, pois Deus, que é fiel (1Cor 1,9), o manterá firme até o fim (1Cor 1,8).",
+      "A vigília que o Evangelho pede inclui trabalho, porque o dono da casa deu a cada um a sua tarefa (Mc 13,34). Quem espera o Senhor faz o que lhe foi confiado: o pai e a mãe cuidam da casa, e o porteiro, que recebeu a ordem de vigiar, guarda a porta. Assim o Advento se vive em casa e no trabalho, e quem estiver fazendo o que lhe cabe quando o Senhor chegar não será encontrado dormindo.",
+      "Agora, resta perguntar: que tarefa o Senhor me confiou, em casa ou no trabalho, e eu venho adiando? E há algum pecado, sempre o mesmo, que eu me acostumei a carregar sem levá-lo à confissão?",
+      "Hoje, posso escolher uma tarefa que venho adiando e fazê-la até o fim. Posso também marcar para esta semana a minha confissão."
+    ],
+    "oracao": [
+      "Pai, Tu és o oleiro, e nós somos o barro. Refaze o meu coração endurecido.",
+      "Senhor Jesus, desperta-me do sono e dá-me a tarefa de cada dia.",
+      "Torna-me fiel até a tua vinda."
+    ],
+    "minutos": 4,
+    "imagem": "assets/2026-11-29.jpg"
+  },
+  {
+    "data": "2026-11-30",
+    "tempo": "1ª Semana do Advento — Ano B",
+    "memoria": "Santo André, Apóstolo — Festa",
+    "cor": "Vermelho",
+    "titulo": "Por toda a terra se espalha a sua voz",
+    "frase": "O homem não alcança a fé por si: alguém lhe é enviado.",
+    "leituras": [
+      {
+        "rotulo": "Primeira leitura",
+        "ref": "Romanos 10,9-18"
+      },
+      {
+        "rotulo": "Salmo responsorial",
+        "ref": "Salmo 18(19A),2-3.4-5 (R. 5a)"
+      },
+      {
+        "rotulo": "Evangelho",
+        "ref": "Mateus 4,18-22"
+      }
+    ],
+    "evangelho": {
+      "ref": "Mt 4,18-22",
+      "titulo": "Evangelho de Nosso Senhor Jesus Cristo segundo São Mateus",
+      "texto": "Naquele tempo, Jesus, caminhando à beira do mar da Galileia, viu dois irmãos: Simão, chamado Pedro, e seu irmão André. Eles lançavam a rede ao mar, pois eram pescadores. Jesus disse-lhes: “Vinde em meu seguimento, e eu farei de vós pescadores de homens”. Eles imediatamente deixaram as redes e seguiram Jesus. Mais adiante, Jesus viu outros dois irmãos: Tiago, filho de Zebedeu, e seu irmão João. Estavam na barca com seu pai, Zebedeu, consertando as redes. Jesus os chamou. Eles imediatamente deixaram a barca e o pai, e seguiram Jesus."
+    },
+    "reflexao": [
+      "Jesus caminha à beira do mar da Galileia, vê Simão e André lançando a rede e os chama: «Vinde em meu seguimento, e eu farei de vós pescadores de homens» (Mt 4,18-19). Os dois deixam as redes euthéōs, palavra que diz «sem demora» (Mt 4,20), e a pressa, que parece estranha a quem lê só Mateus, é explicada por João. Segundo o quarto Evangelho, André já era discípulo de João Batista e, ao ouvi-lo dizer de Jesus «Eis o Cordeiro de Deus», foi atrás de Jesus (Jo 1,36-37), ficou com ele aquele dia (Jo 1,39) e foi dizer ao irmão: «Encontramos o Messias» (Jo 1,41). O «imediatamente» da beira do mar é, portanto, a resposta de quem já tinha ouvido, e a Igreja celebra hoje, em André, o primeiro apóstolo a ser chamado.",
+      "A ordem em que André chegou a Jesus é a que Paulo descreve na primeira leitura: «Como poderiam crer naquele que não ouviram? E como poderiam ouvir sem pregador? E como podem pregar se não forem enviados?» (Rm 10,14-15). André ouviu João Batista, que tinha sido enviado por Deus para dar testemunho da luz (Jo 1,6-7), e o verbo grego de «forem enviados», apostalōsin, é da mesma raiz de «apóstolo», palavra que quer dizer enviado. Paulo conclui que «a fé vem da pregação» (Rm 10,17), e o Catecismo ensina que ninguém, nenhum indivíduo e nenhuma comunidade, pode anunciar a si mesmo o Evangelho (CIC 875).",
+      "A cadeia mostra que o homem não alcança a fé por si, pois não crê sem ouvir e não ouve sem que alguém lhe seja enviado. A salvação, que Paulo resume em confessar com a boca que Jesus é Senhor e crer no coração que Deus o ressuscitou dos mortos (Rm 10,9), chega como um dom que outro traz. Nem todos o acolhem, e Paulo cita Isaías: «Senhor, quem acreditou em nossa pregação?» (Rm 10,16). Aos que ouvem e obedecem, a mesma carta promete que «todo aquele que invocar o nome do Senhor será salvo» (Rm 10,13).",
+      "Quem recebeu o dom o leva a outro, e André foi o primeiro a fazê-lo: levou Pedro a Jesus (Jo 1,41-42), o mesmo Pedro que a Igreja reconhece como cabeça dos Doze. É ainda André quem aponta ao Senhor o menino com cinco pães e dois peixes (Jo 6,8-9) e quem, com Filipe, leva a Jesus os gregos que queriam vê-lo (Jo 12,20-22). Constantinopla, que o escolheu por padroeiro, deu-lhe o título de Prōtóklētos, o primeiro chamado. Pedro foi para Roma, e André, como lembrou Bento XVI, foi o apóstolo do mundo grego, e em 1964 Paulo VI restituiu a Patras as relíquias dele, que estavam na Basílica Vaticana, em sinal da fraternidade entre as Igrejas de Roma e de Constantinopla.",
+      "O salmo diz que a voz dos céus se espalha por toda a terra e que as suas palavras chegam até os confins do mundo (Sl 18[19],5), e Paulo aplica o versículo à pregação dos apóstolos (Rm 10,18). O que André ouviu de João Batista chegou, por meio dos enviados, até os gregos, e a tradição diz que ele deu a vida entre eles, em Patras.",
+      "Agora, resta perguntar: quem me levou a Jesus, e quando agradeci a essa pessoa? E a quem eu, que ouvi, já levei uma palavra sobre o Senhor?",
+      "Hoje, posso convidar uma pessoa que eu conheço para a Missa do domingo ou para um grupo de oração, como André levou o irmão. Posso também rezar por quem me trouxe a fé."
+    ],
+    "oracao": [
+      "Senhor Jesus, Tu chamaste André à beira do mar, e ele Te seguiu sem demora.",
+      "Por intercessão de Santo André, dá-me a graça de Te ouvir e de levar a Ti os que estão perto de mim.",
+      "Envia-me, Senhor, aos que ainda não Te ouviram."
+    ],
+    "minutos": 4,
+    "imagem": "assets/2026-11-30.jpg"
   }
 ];
 
